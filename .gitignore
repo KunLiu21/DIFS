@@ -1,0 +1,29 @@
+# Data and results are not redistributed here -----------------------------
+# Datasets are rebuilt by benchmark/prepare_datasets.R from DuoClustering2018
+# and scRNAseq; the 2,340 raw per-run objects are far too large for git.
+source/
+results/*/*.rds
+results/**/*.rds
+Rout/
+*.out
+slurm-*
+# ...but the small summary tables the figures are built from ARE tracked:
+!results/**/summary/*.csv
+# The null quantile table is deliberately tracked (446 KB) so that a fresh
+# clone runs with no build step:
+!inst/extdata/dip_null_tables.rds
+
+# R -----------------------------------------------------------------------
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+renv/library/
+renv/staging/
+
+# Editors / OS ------------------------------------------------------------
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
