@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the manuscript below."
+title: "DIFS: Discriminative Feature Selection for single-cell RNA-seq clustering"
+abstract: >-
+  DIFS selects genes for single-cell RNA-seq clustering in two stages: a dip
+  statistic calibrated against a Gaussian reference ranks genes that are
+  multimodal among expressing cells, and a Fisher exact test against a
+  preliminary clustering adds cell-type-specific genes that are unimodal and so
+  invisible to the first stage.
+type: software
+license: MIT
+repository-code: "https://github.com/KunLiu21/DIFS"
+authors:
+  - family-names: Liu
+    given-names: Kun
+preferred-citation:
+  type: article
+  title: >-
+    DIFS: Discriminative Feature Selection for Cell Clustering Based on
+    Single-Cell RNA Sequencing Data
+  journal: "BMC Bioinformatics"
+  year: 2026
+  status: submitted
+  authors:
+    - family-names: Liu
+      given-names: Kun
