@@ -1,0 +1,6 @@
+if (length(commandArgs(TRUE))) stop("This wrapper uses the bundled corrected tables and accepts no arguments")
+if (!file.exists("results/diag/grid_corrected.csv")) stop("Run from the repository root")
+rscript <- file.path(R.home("bin"),if (.Platform$OS.type=="windows") "Rscript.exe" else "Rscript")
+setwd("benchmark")
+status <- system2(rscript,c("difs_figures.R","out=../results/figures"))
+if (status!=0L) stop("Figure generation failed; exit code ",status)

@@ -1,144 +1,106 @@
-# DIFS — Discriminative Feature Selection for single-cell RNA-seq clustering
+# DIFS: discriminative feature selection for single-cell clustering
 
-Code for the manuscript *DIFS: Discriminative Feature Selection for Cell
-Clustering Based on Single-Cell RNA Sequencing Data* (BMC Bioinformatics, under
-revision).
+DIFS combines a dip-based stage-I ranking with a preliminary-cluster-dependent
+stage-II feature selection and mixing procedure. This revision provides the
+complete two-stage entry point, a real-data worked example, the benchmark
+sources, and corrected supplementary results.
 
-DIFS selects genes in two stages. **Stage I** keeps genes whose expression,
-*among the cells that express them*, departs from unimodality, scored with the
-dip statistic of Hartigan & Hartigan calibrated against a Gaussian reference at
-each gene's own number of expressing cells. **Stage II** adds cell-type-specific
-genes — which are unimodal among expressing cells and therefore invisible to
-stage I — using a Fisher exact test against a preliminary clustering.
+**Validation status:** the Kumar full example is prepared but is not yet
+certified as executed in a clean environment. See [VALIDATION.md](VALIDATION.md)
+for the checks actually completed. The old synthetic stage-I example is a quick
+diagnostic, not evidence of full-pipeline reproducibility.
 
----
+## Complete worked example: Kumar
 
-## Quick start — 10 seconds, no Bioconductor, no network
+From the repository root, in an R environment with the dependencies listed in
+[environment/README.md](environment/README.md):
 
-```bash
-git clone https://github.com/KunLiu21/DIFS.git
-cd DIFS
-Rscript demo/run_demo.R
+```sh
+Rscript example/prepare_kumar.R
+Rscript example/run_kumar.R
 ```
 
-Requires only **R ≥ 4.1** and **diptest** (`install.packages("diptest")`).
+Alternatively, use the Kumar Seurat object already prepared for the benchmark:
 
-The demo runs stage I on a small simulated panel and checks three properties of
-the method. Its output is committed at [`demo/expected_output.txt`](demo/expected_output.txt)
-so you can diff against it:
-
-```
-gene class                      gated  in top 30  median rank
-BIMODAL (stage I target)       30/30          30         15.5
-ONOFF (stage II target)        30/30           0          248
-background                    368/540          0        227.5
+```sh
+Rscript example/run_kumar.R input=/your/data/Kumar.rds out=example/output-local
 ```
 
-Read that table before anything else — it is the method's design, measured.
-Stage I recovers **every** bimodal gene in the top 30, and ranks **on/off
-markers no better than background**. That is not a failure: an on/off marker is
-unimodal among the cells that express it, so stage I cannot see it, and
-recovering those genes is exactly what stage II is for. If you only remember one
-thing about DIFS, remember that the two stages target disjoint regimes.
+Kumar contains 246 cells and three annotated classes after benchmark preparation.
+The example requests 100 features with seed 1 and **true-k=3**. This is the
+paper's oracle configuration: k uses the number of annotated classes. The
+individual labels are kept out of feature selection and used for evaluation.
+It is a worked example, not a new comparison demonstrating superiority.
 
-If **Seurat** is installed the demo also clusters on the selected features and
-reports an adjusted Rand index; if it is not, the demo says so and exits 0.
+The runner executes stage-I scoring, the intermediate feature-count search,
+repaired SC3 preliminary clustering, stage-II scoring, mixing-ratio search and
+refined Louvain final clustering. Required dependencies are never silently
+skipped. It saves the selected genes, preliminary/final labels, metrics, input
+checksums, configuration, R session and a log. See [example/README.md](example/README.md).
 
----
-
-## What is here
-
-| Path | What it is | Needs |
-|---|---|---|
-| `R/difs_core.R` | The method: expression gate + stage I ranking. Self-contained. | R, diptest |
-| `inst/extdata/dip_null_tables.rds` | Precomputed null quantiles of the dip statistic (446 KB) | — |
-| `demo/` | The 10-second example above, its data, and its expected output | R, diptest |
-| `benchmark/` | The harness that produced the paper's tables | see below |
-
-`R/difs_core.R` is copied verbatim from the benchmark harness, so the two cannot
-drift. If you only want to *use* DIFS, that one file and the null table are
-everything you need.
-
-### Using DIFS on your own data
+## Use the complete method
 
 ```r
-source("R/difs_core.R")
-
-# logmat: genes x cells, log-normalised as log(1 + 1e4 * count / library size)
-ranked <- difs_stage1_ranking(logmat,
-                              min.expression = log(5),   # a cell "expresses" a
-                                                         # gene above 4 per 10k
-                              gate_rule = "combined",
-                              gate_k    = k)             # expected cluster count
-features <- head(ranked, 300)
+source("R/difs.R")
+# counts: prepared raw counts, unique genes in rows and cells in columns
+# k: supplied number of clusters; state how it was obtained
+fit <- difs_fit(counts, k=3, n_features=100, seed=1)
+fit$features
+fit$labels
 ```
 
-`gate_rule = "combined"` is the rule used in the revision:
-a gene must exceed `log(5)` in at least `max(min(0.05n, n/(4k)), 30)` cells.
-`gate_rule = "submitted"` reproduces the originally submitted rule,
-`max(0.05n, 35)`.
+The API loads the scientific function definitions directly from `benchmark/`;
+there is no second independently edited implementation of the selection logic.
+The gate used by the revision is **submitted**: expression above ln(5) in at
+least max(0.05*N,35) cells after log(1+10,000*count/library-size) normalization.
+The bundled Gaussian null lookup is deterministic but numerically approximate.
+Stage-I and stage-II scores do not provide general p-value/FDR guarantees.
+Actual returned feature counts and the nominal mixing ratio are recorded;
+they need not equal the requested count or realized stage membership.
 
----
+The historical SC3 wrapper defaults to seed 1 and two cores. The API preserves
+that behavior and records it; the outer seed is not claimed to control every
+internal algorithm's random state. Environment differences may change results.
 
-## Reproducing the paper
+## Reproduce the paper's analyses
 
-**This part needs a cluster. We are explicit about that rather than implying a
-laptop will do.** The benchmark is 13 datasets × 5 feature-selection methods ×
-2 clustering methods × 9 feature budgets × 2 policies for the number of
-clusters = **2,340 runs**, plus a 117-run ablation.
+- [benchmark/README.md](benchmark/README.md): preparation, configuration, runs,
+  repair provenance, summary tables and figures.
+- [results/README.md](results/README.md): corrected S0–S5 and diagnostic tables.
+- [simulation/](simulation/): the simulation analysis sources.
+- [provenance/source_manifest.json](provenance/source_manifest.json): source
+  identities and packaging changes.
+- [CHANGELOG.md](CHANGELOG.md): implementation and reporting corrections.
 
-| | |
-|---|---|
-| Longest single run | ~2.5 h (SC3 clustering on Baron, 8,569 cells) |
-| Peak memory | see `benchmark/` notes; 64 GB requested per task |
-| Scheduler | SLURM array jobs |
-| Extra dependencies | Seurat, SingleCellExperiment, SC3, FEAST, monocle, TSCAN, mclust |
-| Datasets | fetched by `benchmark/prepare_datasets.R` from `DuoClustering2018` and `scRNAseq`; **not redistributed here** |
+The main grid has **2,320 observed configurations out of 2,340 planned**, plus
+117 ablation runs and 52 Hartigan-reference runs. It is not 2,340 successful
+runs. Raw matrices and per-run RDS files are not redistributed here; download
+instructions and the corrected tabular results are provided. A single worked
+example is not a clean-environment rerun of all benchmarks.
 
-Order:
+To regenerate corrected figures without rerunning clustering:
 
-```bash
-Rscript benchmark/prepare_datasets.R          # builds ../source/*.rds
-Rscript benchmark/scenario_generator_ncurve.R # writes the scenario table
-sbatch  benchmark/run_ncurve.sh               # the array
-Rscript benchmark/results_summary_ncurve.R    # tables
-Rscript benchmark/difs_figures.R              # figures
+```sh
+Rscript scripts/rebuild_figures.R
 ```
 
-Raw per-run `.rds` files (2,340 of them) are **not** in this repository. The
-summary tables the figures are built from are, under `results/`.
+Only the published comparator scope is used in the main figures. Historical
+internal method arms remain in the data for traceability and are not new
+required comparisons.
 
----
+## Lightweight diagnostic
 
-## Verification status
+```sh
+Rscript demo/run_demo.R
+Rscript tests/test_lightweight.R
+```
 
-We say what was actually checked, and where.
+These require only R and `diptest`; they do not replace the full example.
+The earlier implementation under `code/` is retained for history and is not the
+revision entry point.
 
-| Check | Status |
-|---|---|
-| `demo/run_demo.R` tier 1 (stage I, diptest only) | **verified**, R 4.3.3 / diptest 0.77.0, output committed |
-| `demo/run_demo.R` tier 2 (Seurat clustering) | **not yet verified in a clean environment** |
-| Full benchmark from a clean clone | **not yet verified**; the paper's results were produced on the cluster with the code in `benchmark/` |
+## Availability and citation
 
-A "runs end to end" claim is only worth something if someone actually ran it, so
-the tiers that have not been re-run from a clean clone are marked as such.
-
----
-
-## Corrections to the originally submitted code
-
-The version tagged `v1.0-submitted` is what accompanied the first submission.
-The following defects were found during the revision and are fixed here. They
-are listed because at least one of them changes results.
-
-*(This section is completed as each fix lands; see CHANGELOG.md.)*
-
----
-
-## Citation
-
-If you use this code, please cite the manuscript. See `CITATION.cff`.
-
-## Licence
-
-MIT — see [LICENSE](LICENSE). The packages DIFS calls carry their own licences.
+Code is licensed under MIT; dependencies and source datasets retain their own
+terms. See [LICENSE](LICENSE) and [CITATION.cff](CITATION.cff). Cite the exact
+commit/release you use. A revision DOI is not claimed until one is issued.
