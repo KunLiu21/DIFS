@@ -1,0 +1,70 @@
+name: Clean Kumar reproduction
+on:
+  push:
+    branches: [codex/clean-kumar-reproduction]
+  workflow_dispatch:
+permissions:
+  contents: read
+defaults:
+  run:
+    shell: bash
+concurrency:
+  group: clean-kumar-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  reproduce:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 120
+    env:
+      R_LIBS_USER: ${{ github.workspace }}/clean-room/library
+      R_LIBS_SITE: ${{ github.workspace }}/clean-room/empty-site
+      R_ENVIRON_USER: /dev/null
+      R_PROFILE_USER: /dev/null
+      OMP_NUM_THREADS: '2'
+      OPENBLAS_NUM_THREADS: '1'
+      MAKEFLAGS: -j2
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Set up a fresh R distribution
+        uses: r-lib/actions/setup-r@f9a764fea8d5c63df6ef9a5c7795bf7deb5d7e05
+        with:
+          r-version: '4.4.1'
+          use-public-rspm: false
+      - name: Install operating-system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            build-essential gfortran libcurl4-openssl-dev libssl-dev libxml2-dev \
+            libfontconfig1-dev libfreetype6-dev libharfbuzz-dev libfribidi-dev \
+            libpng-dev libtiff-dev libjpeg-dev libhdf5-dev libglpk-dev \
+            libgit2-dev libgmp3-dev libmpfr-dev libicu-dev libopenblas-dev
+          mkdir -p clean-room/evidence clean-room/library clean-room/empty-site
+          echo "R_LIBS_USER=$GITHUB_WORKSPACE/clean-room/library" >> "$GITHUB_ENV"
+          echo "R_LIBS_SITE=$GITHUB_WORKSPACE/clean-room/empty-site" >> "$GITHUB_ENV"
+          git rev-parse HEAD > clean-room/evidence/executed-commit.txt
+          cat /etc/os-release > clean-room/evidence/os-release.txt
+          dpkg-query -W > clean-room/evidence/os-packages.txt
+      - name: Install R dependencies without an existing library or package cache
+        run: Rscript --vanilla environment/install_clean.R 2>&1 | tee clean-room/evidence/install.log
+      - name: Download and prepare Kumar with empty data caches
+        run: Rscript --vanilla scripts/prepare_kumar_clean.R 2>&1 | tee clean-room/evidence/prepare.log
+      - name: Execute the full two-stage example
+        run: Rscript --vanilla example/run_kumar.R out=example/output-clean 2>&1 | tee clean-room/evidence/run-console.log
+      - name: Verify historical numerical agreement
+        run: Rscript --vanilla scripts/verify_kumar_output.R example/output-clean 2>&1 | tee clean-room/evidence/verification.log
+      - name: Compare selected genes and partitions
+        run: Rscript --vanilla scripts/compare_clean_kumar.R 2>&1 | tee clean-room/evidence/comparison.log
+      - name: Preserve evidence even if a step fails
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: clean-kumar-${{ github.run_id }}-${{ github.run_attempt }}
+          retention-days: 30
+          if-no-files-found: warn
+          path: |
+            clean-room/evidence/
+            example/input/provenance.csv
+            example/input/sessionInfo.txt
+            example/output-clean/
