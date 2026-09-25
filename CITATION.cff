@@ -9,6 +9,9 @@ abstract: >-
 type: software
 license: MIT
 repository-code: "https://github.com/KunLiu21/DIFS"
+version: "2.0-revision"
+date-released: "2026-09-25"
+url: "https://github.com/KunLiu21/DIFS/releases/tag/v2.0-revision"
 authors:
   - family-names: Liu
     given-names: Kun

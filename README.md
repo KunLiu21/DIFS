@@ -5,10 +5,14 @@ stage-II feature selection and mixing procedure. This revision provides the
 complete two-stage entry point, a real-data worked example, the benchmark
 sources, and corrected supplementary results.
 
-**Validation status:** the Kumar full example is prepared but is not yet
-certified as executed in a clean environment. See [VALIDATION.md](VALIDATION.md)
-for the checks actually completed. The old synthetic stage-I example is a quick
-diagnostic, not evidence of full-pipeline reproducibility.
+**Validation status:** the full Kumar example passed on 2026-09-25 in the
+author's existing Linux/R 4.4.1 environment. All 246 cells were labeled and all
+four metrics reproduced the historical reference within 5e-16. Actual outputs,
+logs, input checksums and environment versions are included under
+[example/validated/kumar-20260925](example/validated/kumar-20260925).
+This verifies one prepared-input configuration, not a fresh installation,
+fresh data download or an independent rerun of the whole benchmark.
+See [VALIDATION.md](VALIDATION.md) for scope and limitations.
 
 ## Complete worked example: Kumar
 
@@ -100,7 +104,7 @@ Rscript demo/run_demo.R
 Rscript tests/test_lightweight.R
 ```
 
-These require only R and `diptest`; they do not replace the full example.
+These use R, `diptest` and `Matrix`; they do not replace the full example.
 The earlier implementation under `code/` is retained for history and is not the
 revision entry point.
 

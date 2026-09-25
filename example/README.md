@@ -1,5 +1,17 @@
 # Full two-stage worked example
 
+The prepared-input example was executed and verified on 2026-09-25. See
+[validated/kumar-20260925](validated/kumar-20260925) for its actual outputs,
+logs and configuration. To recheck those saved outputs without rerunning the
+method, run from the repository root:
+
+```sh
+Rscript scripts/verify_kumar_output.R example/validated/kumar-20260925
+```
+
+The data download/preparation entry point below was not rerun as part of that
+validation; the run used the author's existing prepared Kumar object.
+
 The input is Kumar from `DuoClustering2018::sce_full_Kumar()` (GSE60749), with
 `phenoid` annotations. The preparation script uses the same helper function as
 the packaged benchmark: minimum 3 cells per gene, minimum 200 detected genes per
