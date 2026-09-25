@@ -1,0 +1,20 @@
+{
+  "job_id": "36842924",
+  "executed_commit": "1c64256c0c395d42c9f289cfe8a6758c37524651",
+  "independent_python_metric_check": "PASS",
+  "cells": 246,
+  "selected_genes": 100,
+  "metrics": {
+    "ARI": 0.9887714688162261,
+    "FM": 0.9925453227736489,
+    "Jaccard": 0.985200431245712,
+    "Purity": 0.9959349593495935
+  },
+  "stage1_n": 453,
+  "stage2_n": 616,
+  "gate_n": 453,
+  "ratio": "1:1",
+  "input_md5": "d0dbd41cb5e691d7ffa2661004b1238d",
+  "raw_input_redistributed": false,
+  "download_preparation_reexecuted": false
+}

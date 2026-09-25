@@ -27,3 +27,11 @@ Thumbs.db
 *~
 .vscode/
 .idea/
+
+# Fresh runs and downloaded inputs are deliberately not committed automatically.
+example/input/
+example/output*/
+results/figures/
+scenarios/*.Rdata
+scenarios/*.RData
+*.sif

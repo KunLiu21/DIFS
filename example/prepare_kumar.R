@@ -1,0 +1,18 @@
+source("R/difs.R")
+difs_require(c("DuoClustering2018","Seurat","SingleCellExperiment","SummarizedExperiment"))
+if (length(commandArgs(TRUE))) stop("prepare_kumar.R does not accept arguments")
+options(Seurat.object.assay.version="v3")
+dir.create("example/input",recursive=TRUE,showWarnings=FALSE)
+if (file.exists("example/input/Kumar.rds")) stop("Kumar.rds already exists; keep it or explicitly move it before preparing again")
+sce <- DuoClustering2018::sce_full_Kumar()
+if (!"phenoid" %in% names(SummarizedExperiment::colData(sce))) stop("Kumar phenoid annotation missing")
+helpers <- new.env(parent=globalenv())
+difs_load_definitions("benchmark/prepare_datasets.R",c("difs_pick_assay","difs_scale_report","build_seurat"),helpers)
+seu <- helpers$build_seurat(sce,as.character(SummarizedExperiment::colData(sce)$phenoid),norm="lognorm")
+if (ncol(seu)!=246L || length(unique(seu$trueclass))!=3L) stop("Prepared Kumar differs from paper: expected 246 cells / 3 classes")
+saveRDS(seu,"example/input/Kumar.rds")
+write.csv(data.frame(source="DuoClustering2018::sce_full_Kumar",accession="GSE60749",
+  package_version=as.character(utils::packageVersion("DuoClustering2018")),cells=ncol(seu),genes=nrow(seu),
+  classes=3L,label_field="phenoid",md5=unname(tools::md5sum("example/input/Kumar.rds"))),"example/input/provenance.csv",row.names=FALSE)
+writeLines(capture.output(sessionInfo()),"example/input/sessionInfo.txt")
+cat("Prepared Kumar using benchmark filtering and log-normalization.\n")

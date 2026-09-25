@@ -1,0 +1,170 @@
+[
+  {
+    "path": "benchmark/Functions_mixture_auto.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "93dc22c6439d49e5610da9b31ee947dce9cdb22393d3d3e1d81a7b14dfd91f9f",
+    "packaged_sha256": "a7580dc2678e92c32e9bc6ca4e683fa5620390ed31b4341719c26000c7eeef48",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/Functions_controlled.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "eb86a4ab18c3b6fa7caa0be3ae59eef594e1acd632713655302098dd09182698",
+    "packaged_sha256": "4d2159c93e6d4a5eb20958c0002e6ace011544fd62e41435de1f647f13c47efc",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_sc3_complete.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "213923029d8314856bcb9a7516551aa3950f780bff8fc32700870ef9b9520928",
+    "packaged_sha256": "2b87ff4dbb695a3dd6aef41fc1f34734d1b0e49299c4552fba4198d8ef31ed1a",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_validate.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "ba34b1d589e4c3d1cded3827c9ad1386d575cf110ccd2b05a27f904d15257afb",
+    "packaged_sha256": "fcdc3f308066e0f6bb18b61f61a27685b99ff3deaceb8b7ff819ef652212c3c3",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_signrank.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "ff13583833ed3f467d8b0ff30d8a7f3c40a7005ac168e7cd35b1efa1eee847a9",
+    "packaged_sha256": "2c27e75eef2f43ba6c425a10d1d75d8e4b3aa508f896e646afaea36d1aa99c11",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_baronfix_merge.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "a2be63a049f4174968912909be74b1debf6493b045300bc557d00e9c0c692e40",
+    "packaged_sha256": "193e487ac1db8544b5632604b266eaf499dd17b5e41685954e271ded760bd17a",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_hart_compare.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "9c7451eb5739495d378c88467ae300de1a924bcd479709893de72b5d16713aa0",
+    "packaged_sha256": "b73fe9caf0daa1002c82015c33340849f62b69ad87f751a38625cffc269f74cd",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_tables_export.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "9885b446c556714aeb9d855751ae8737b0babd95e989e9ca43a9fe72251d398b",
+    "packaged_sha256": "36574c7bb1c2150f7883b162c04713e2f0687c60717fae5d6e1a66db9bc77a86",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_figures.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "3148931b5c9b05a1eb53cb8172342e977c8ecfc44cfb303833129d2ffb584358",
+    "packaged_sha256": "0b278a8b85ed48c748744dc97ff2b7b4b427b3aa837395ce40bb81a05690081a",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/prepare_datasets.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "996576d348908788f8a7549d9b15e8de53053578f4cbaf5905ac9e9855923dee",
+    "packaged_sha256": "23d64a81fb6cd8e22fc6a777cc561254a7c44fba25b800dafd608a950c2d1a9f",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/Method_comparison_ncurve.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "3cab323e297bba436b2e0f4bff0ec2e263b0e7271625acac2d0300fe0025d1e5",
+    "packaged_sha256": "a360b477363453a05af00e9e63acba1f5b0ecfd26a295206c84e2672f3614140",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/Method_comparison_controlled.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "5866c642afa0cfe3b4e1342d84d10011d73575c25df1c0886528b4aba6e00f49",
+    "packaged_sha256": "436b602c5d9c9691b7370d2adb0aedc319183238edaefd0958c8eec0110842b7",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/results_summary_ncurve.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "d6faa8d840a81f0b770375730b0edf4cf7facc28d601ec8759abac996eeb9e11",
+    "packaged_sha256": "88347be279ee8bffe73b0c1f4d0d4cda2447e219f003543b71d1189f5b403808",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/results_summary_controlled.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "266ab906676ce5439516d627a5f4a991860e57de9ea6ff4b4206966d5dc2671f",
+    "packaged_sha256": "624d58143fdd256b50d1f38c693dfc08f719b0567020d3d9ac517f625e759ada",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/scenario_generator_ncurve.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "0c85f091eb91f114bf28dc7f5e7a848cf9c547baf07c0748937838dba4ca53e6",
+    "packaged_sha256": "e29f0a3c0edcd4457a9e6fe77a35b0a0773bff8d8df9c99343e8c96aac613966",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/scenario_generator_abl.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "e46e7ac2ef7da9be4bb7450bf700560f6740b8198703a7f9f2770c7386bbf6f4",
+    "packaged_sha256": "18a16d58d39bb54ec0cafd1f45fb492d4e0b4d6d98a28704f7efecf0ac3cbfda",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/scenario_generator_hart.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "c1163ed5d79be57e73e64ef9de701fa02eef901d5715dd413a19f0bbd592653e",
+    "packaged_sha256": "2e7928a10a37ec514d29d7d35d4a9cc5c1f042b52e5f7d59a0a42c9c1b1fd83b",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/scenario_generator_baronfix.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "b11d2e867c364a60af7dc492d021e85bbda1f3ea50c06c275c50d03966efea3e",
+    "packaged_sha256": "685bb22f056a32b063a5c5c35e5e5c867688a19ab91c737fbe278fba1d0be6fe",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/scenario_generator_controlled.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "87f093674b66ccefaa8a79c552f9efebcc008c0dfa0c66131a25bbb4f5e1f138",
+    "packaged_sha256": "d6196a4e343a64af2701590e014e3cf395993bafba2b20bdeef243826ea017a5",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "benchmark/difs_null_tables.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "9f5ad8587715c80069410e7f94d9d87a374443db4cd297506ccac8094d652be9",
+    "packaged_sha256": "733e0a90a5ac9134ab3e58f544ca859aeb706a9cf476134f6a64188f376bd9b5",
+    "changes": "Removed standalone historical comments; portable cache for data preparation; figure C labels corrected to 13/9 where applicable."
+  },
+  {
+    "path": "simulation/difs_sim_core.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "525cb745b48d026aa6020c7e73213412cdd05fa8ed30c91d8d04f1b3386aafda",
+    "packaged_sha256": "27f64b06432ec6d207b673f18d50b6bf4ce058f01a17f4d16472a3d7a93c588f",
+    "changes": "Removed standalone historical comments; driver uses current implemented gate and literal CLI arguments; report accepts literal out_dir only."
+  },
+  {
+    "path": "simulation/difs_sim_experiments.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "05f96fd65be216ad49a646cc5ab1d9ba4ae34d6648ae3eed5c7e1cc9082b8708",
+    "packaged_sha256": "dab37b2eb62876bb466c8c1864452387d2e63f9f95bf7bf0f556a0ee91533e39",
+    "changes": "Removed standalone historical comments; driver uses current implemented gate and literal CLI arguments; report accepts literal out_dir only."
+  },
+  {
+    "path": "simulation/difs_sim_report.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "279ed0a26f37fe8cc43a845102853ad174c1a5ef7f9ad1104ed5aaa5bad1b241",
+    "packaged_sha256": "693d68b9aba171a8ff1960ad68f84561518165d9d277f6216127e125469f31db",
+    "changes": "Removed standalone historical comments; driver uses current implemented gate and literal CLI arguments; report accepts literal out_dir only."
+  },
+  {
+    "path": "simulation/difs_sim_run.R",
+    "source_version": "local revision v0.5",
+    "original_sha256": "76e485c1cc7258a7d6de3897428b8cb86449a65a6657d9a239bd5d0268d25b91",
+    "packaged_sha256": "e89cbf019d65d346861f33812257b5df6e9655e8a3d6024b703d0db99c1daf37",
+    "changes": "Removed standalone historical comments; driver uses current implemented gate and literal CLI arguments; report accepts literal out_dir only."
+  }
+]

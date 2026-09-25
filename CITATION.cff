@@ -5,11 +5,13 @@ abstract: >-
   DIFS selects genes for single-cell RNA-seq clustering in two stages: a dip
   statistic calibrated against a Gaussian reference ranks genes that are
   multimodal among expressing cells, and a Fisher exact test against a
-  preliminary clustering adds cell-type-specific genes that are unimodal and so
-  invisible to the first stage.
+  preliminary clustering adds features associated with the preliminary clusters.
 type: software
 license: MIT
 repository-code: "https://github.com/KunLiu21/DIFS"
+version: "2.0-revision"
+date-released: "2026-09-25"
+url: "https://github.com/KunLiu21/DIFS/releases/tag/v2.0-revision"
 authors:
   - family-names: Liu
     given-names: Kun
@@ -24,3 +26,9 @@ preferred-citation:
   authors:
     - family-names: Liu
       given-names: Kun
+    - family-names: Liu
+      given-names: Jinpeng
+    - family-names: Zhang
+      given-names: Lu
+    - family-names: Wang
+      given-names: Chi

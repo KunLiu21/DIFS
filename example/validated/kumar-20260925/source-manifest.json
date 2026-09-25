@@ -1,0 +1,67 @@
+[
+  {
+    "file": "cell_labels.csv",
+    "bytes": 11413,
+    "sha256": "6d079bbe9b3f257595aec3a1f1d14209204b46efa309eb24ce51a124924913e9"
+  },
+  {
+    "file": "difs_fit.rds",
+    "bytes": 101604,
+    "sha256": "f8d27df49adc39bada6e87a2a067273edee2eca974c3ef7072dbc14379c865e4"
+  },
+  {
+    "file": "historical_comparison.csv",
+    "bytes": 287,
+    "sha256": "bf2e4910ec96cc56114d3854a2cd7b74b75e2a60e0206f5e35cbab570227a5f3"
+  },
+  {
+    "file": "input_checksums.csv",
+    "bytes": 99,
+    "sha256": "90b5ba37d1941803a64fca25afd0a0674357c287a059173c57cc4444f8e45270"
+  },
+  {
+    "file": "input_diagnostics.csv",
+    "bytes": 169,
+    "sha256": "2e7fca35d510b65be44ff3711291b5e6b135f718d987a8e8f14db952c44f6a9c"
+  },
+  {
+    "file": "kumar-console-36842924.log",
+    "bytes": 13306,
+    "sha256": "a70bfe930c6008a65f1194da077083a6630198c572b4c9a8e459247d3b6232dc"
+  },
+  {
+    "file": "kumar-slurm-36842924.log",
+    "bytes": 13895,
+    "sha256": "c0cec90e3cb3af50097c4002c21b505372c1a6cdd3a6f9f10f7dd2b33bffea0b"
+  },
+  {
+    "file": "kumar-verification-36842924.log",
+    "bytes": 432,
+    "sha256": "449529375b3f92b7535a091084b3d031217e6b7f7b08315306821bf3852e5a2c"
+  },
+  {
+    "file": "run.log",
+    "bytes": 913,
+    "sha256": "25481e8606cefa8989899e9c6028fb4c61c9717e9a405a2db3c758fadb375701"
+  },
+  {
+    "file": "selected_genes.csv",
+    "bytes": 2363,
+    "sha256": "a0936fef302bcedfff378d689ed96a3f4485f0a248d2de13c50922cbef12f316"
+  },
+  {
+    "file": "sessionInfo.txt",
+    "bytes": 5551,
+    "sha256": "4bf53034adb16be4bcbffe97d1d602d80022b236e29557cb11dd38de5c3592f2"
+  },
+  {
+    "file": "sessionInfo_before_fit.txt",
+    "bytes": 3464,
+    "sha256": "71dfc240d3657e09d752de7e72358b5234148d9002c3c85bd662158b6d01f87f"
+  },
+  {
+    "file": "summary.csv",
+    "bytes": 282,
+    "sha256": "ded9b8c4e730dde68c85e636c23f59be91c0afe9f2074d009655b70abc0c4c18"
+  }
+]

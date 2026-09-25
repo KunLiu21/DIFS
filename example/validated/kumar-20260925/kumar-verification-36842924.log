@@ -1,0 +1,7 @@
+   metric  observed difference_from_historical
+1     ARI 0.9887715               1.110223e-16
+2      FM 0.9925453              -1.110223e-16
+3 Jaccard 0.9852004               0.000000e+00
+4  Purity 0.9959350              -4.440892e-16
+PASS: output identities, full stage-II execution, all 246 labels, four metrics and historical counts agree.
+This verifies this worked configuration, not an independent rerun of the full benchmark.

@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+*.rds binary
+*.pdf binary
+*.png binary
+example/validated/kumar-20260925/** -text
+# Original R/Slurm reports retain spacing and bytes for their SHA256 records.
+example/validated/kumar-20260925/*.txt whitespace=-blank-at-eol,-blank-at-eof
+example/validated/kumar-20260925/*.log whitespace=-blank-at-eol,-blank-at-eof

@@ -1,0 +1,153 @@
+"package","version","repository","remote_repo","remote_sha"
+"Biobase","2.64.0","Bioconductor 3.19",NA,NA
+"BiocGenerics","0.50.0","Bioconductor 3.19",NA,NA
+"BiocParallel","1.38.0","Bioconductor 3.19",NA,NA
+"DEoptimR","1.2-1","RSPM",NA,NA
+"DelayedArray","0.30.1","Bioconductor 3.19",NA,NA
+"FEAST","1.12.0","Bioconductor 3.19",NA,NA
+"GenomeInfoDb","1.40.1","Bioconductor 3.19",NA,NA
+"GenomeInfoDbData","1.2.12",NA,NA,NA
+"GenomicRanges","1.56.1","Bioconductor 3.19",NA,NA
+"IRanges","2.38.1","Bioconductor 3.19",NA,NA
+"KernSmooth","2.23-24","CRAN",NA,NA
+"MASS","7.3-60.2","CRAN",NA,NA
+"Matrix","1.7-0","CRAN",NA,NA
+"MatrixGenerics","1.16.0","Bioconductor 3.19",NA,NA
+"R6","2.5.1","RSPM",NA,NA
+"RANN","2.6.2","RSPM",NA,NA
+"RColorBrewer","1.1-3","RSPM",NA,NA
+"ROCR","1.0-11","RSPM",NA,NA
+"Rcpp","1.0.13","RSPM",NA,NA
+"RcppAnnoy","0.0.22","RSPM",NA,NA
+"Rtsne","0.17","RSPM",NA,NA
+"S4Arrays","1.4.1","Bioconductor 3.19",NA,NA
+"S4Vectors","0.42.1","Bioconductor 3.19",NA,NA
+"SC3","1.32.0","Bioconductor 3.19",NA,NA
+"Seurat","4.4.0","https://satijalab.r-universe.dev",NA,"74905f1be2f14438e55b8cd3c96e89e6d13b4857"
+"SeuratObject","5.0.2","RSPM",NA,NA
+"SingleCellExperiment","1.26.0","Bioconductor 3.19",NA,NA
+"SparseArray","1.4.8","Bioconductor 3.19",NA,NA
+"SummarizedExperiment","1.34.0","Bioconductor 3.19",NA,NA
+"TSCAN","1.42.0","Bioconductor 3.19",NA,NA
+"TrajectoryUtils","1.12.0","Bioconductor 3.19",NA,NA
+"UCSC.utils","1.0.0","Bioconductor 3.19",NA,NA
+"WriteXLS","6.8.0","RSPM",NA,NA
+"XVector","0.44.0","Bioconductor 3.19",NA,NA
+"abind","1.4-8","RSPM",NA,NA
+"bitops","1.0-8","RSPM",NA,NA
+"caTools","1.18.3","RSPM",NA,NA
+"class","7.3-22","CRAN",NA,NA
+"cli","3.6.3","RSPM",NA,NA
+"cluster","2.1.6","CRAN",NA,NA
+"codetools","0.2-20","CRAN",NA,NA
+"colorspace","2.1-1","RSPM",NA,NA
+"combinat","0.0-8","RSPM",NA,NA
+"compiler","4.4.1",NA,NA,NA
+"cowplot","1.1.3","RSPM",NA,NA
+"crayon","1.5.3","RSPM",NA,NA
+"data.table","1.16.0","RSPM",NA,NA
+"deldir","2.0-4","RSPM",NA,NA
+"digest","0.6.37","RSPM",NA,NA
+"diptest","0.77-2","RSPM",NA,NA
+"doParallel","1.0.17","RSPM",NA,NA
+"doRNG","1.8.6.3","RSPM",NA,NA
+"dotCall64","1.1-1","RSPM",NA,NA
+"dplyr","1.1.4","RSPM",NA,NA
+"e1071","1.7-16","RSPM",NA,NA
+"fansi","1.0.6","RSPM",NA,NA
+"farver","2.1.2","RSPM",NA,NA
+"fastICA","1.2-8","RSPM",NA,NA
+"fastmap","1.2.0","RSPM",NA,NA
+"fitdistrplus","1.2-1","RSPM",NA,NA
+"foreach","1.5.2","RSPM",NA,NA
+"future","1.34.0","RSPM",NA,NA
+"future.apply","1.11.2","RSPM",NA,NA
+"generics","0.1.3","RSPM",NA,NA
+"ggplot2","3.5.1","RSPM",NA,NA
+"ggrepel","0.9.6","RSPM",NA,NA
+"ggridges","0.5.6","RSPM",NA,NA
+"globals","0.16.3","RSPM",NA,NA
+"glue","1.8.0","RSPM",NA,NA
+"goftest","1.2-3","RSPM",NA,NA
+"gplots","3.1.3.1","RSPM",NA,NA
+"grid","4.4.1",NA,NA,NA
+"gridExtra","2.3","RSPM",NA,NA
+"gtable","0.3.5","RSPM",NA,NA
+"gtools","3.9.5","RSPM",NA,NA
+"htmltools","0.5.8.1","RSPM",NA,NA
+"htmlwidgets","1.6.4","RSPM",NA,NA
+"httpuv","1.6.15","RSPM",NA,NA
+"httr","1.4.7","RSPM",NA,NA
+"ica","1.0-3","RSPM",NA,NA
+"igraph","2.0.3","RSPM",NA,NA
+"irlba","2.3.5.1","RSPM",NA,NA
+"iterators","1.0.14","RSPM",NA,NA
+"jsonlite","1.8.9","RSPM",NA,NA
+"later","1.3.2","RSPM",NA,NA
+"lattice","0.22-6","CRAN",NA,NA
+"lazyeval","0.2.2","RSPM",NA,NA
+"leiden","0.4.3.1","RSPM",NA,NA
+"lifecycle","1.0.4","RSPM",NA,NA
+"listenv","0.9.1","RSPM",NA,NA
+"lmtest","0.9-40","RSPM",NA,NA
+"magrittr","2.0.3","RSPM",NA,NA
+"matrixStats","1.4.1","RSPM",NA,NA
+"mclust","6.1.3","RSPM",NA,NA
+"mgcv","1.9-1","CRAN",NA,NA
+"mime","0.12","RSPM",NA,NA
+"miniUI","0.1.1.1","RSPM",NA,NA
+"munsell","0.5.1","RSPM",NA,NA
+"mvtnorm","1.3-1","RSPM",NA,NA
+"nlme","3.1-164","CRAN",NA,NA
+"parallel","4.4.1",NA,NA,NA
+"parallelly","1.38.0","RSPM",NA,NA
+"patchwork","1.3.0","RSPM",NA,NA
+"pbapply","1.7-2","RSPM",NA,NA
+"pcaPP","2.0-5","RSPM",NA,NA
+"pheatmap","1.0.12","RSPM",NA,NA
+"pillar","1.9.0","RSPM",NA,NA
+"pkgconfig","2.0.3","RSPM",NA,NA
+"plotly","4.10.4","RSPM",NA,NA
+"plyr","1.8.9","RSPM",NA,NA
+"png","0.1-8","RSPM",NA,NA
+"polyclip","1.10-7","RSPM",NA,NA
+"progressr","0.14.0","RSPM",NA,NA
+"promises","1.3.0","RSPM",NA,NA
+"proxy","0.4-27","RSPM",NA,NA
+"purrr","1.0.2","RSPM",NA,NA
+"reshape2","1.4.4","RSPM",NA,NA
+"reticulate","1.39.0","RSPM",NA,NA
+"rlang","1.1.4","RSPM",NA,NA
+"rngtools","1.5.2","RSPM",NA,NA
+"robustbase","0.99-7","RSPM",NA,NA
+"rrcov","1.7-7","RSPM",NA,NA
+"scales","1.3.0","RSPM",NA,NA
+"scattermore","1.2","RSPM",NA,NA
+"sctransform","0.4.1","RSPM",NA,NA
+"shiny","1.9.1","RSPM",NA,NA
+"sp","2.1-4","RSPM",NA,NA
+"spam","2.10-0","RSPM",NA,NA
+"spatstat.data","3.1-2","RSPM",NA,NA
+"spatstat.explore","3.3-2","RSPM",NA,NA
+"spatstat.geom","3.3-3","RSPM",NA,NA
+"spatstat.random","3.3-2","RSPM",NA,NA
+"spatstat.sparse","3.1-0","RSPM",NA,NA
+"spatstat.univar","3.0-1","RSPM",NA,NA
+"spatstat.utils","3.1-0","RSPM",NA,NA
+"splines","4.4.1",NA,NA,NA
+"stats4","4.4.1",NA,NA,NA
+"stringi","1.8.4","RSPM",NA,NA
+"stringr","1.5.1","RSPM",NA,NA
+"survival","3.6-4","CRAN",NA,NA
+"tensor","1.5","RSPM",NA,NA
+"tibble","3.2.1","RSPM",NA,NA
+"tidyr","1.3.1","RSPM",NA,NA
+"tidyselect","1.2.1","RSPM",NA,NA
+"tools","4.4.1",NA,NA,NA
+"utf8","1.2.4","RSPM",NA,NA
+"uwot","0.2.2","RSPM",NA,NA
+"vctrs","0.6.5","RSPM",NA,NA
+"viridisLite","0.4.2","RSPM",NA,NA
+"xtable","1.8-4","RSPM",NA,NA
+"zlibbioc","1.50.0","Bioconductor 3.19",NA,NA
+"zoo","1.8-12","RSPM",NA,NA

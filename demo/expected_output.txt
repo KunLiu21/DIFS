@@ -1,36 +1,4 @@
-# Output of: Rscript demo/run_demo.R
-# Verified 2026-09-17, R 4.3.3, diptest 0.77.0, Linux x86_64.
-# Tier 2 (Seurat) was not installed in that environment; see README.
-
-DIFS demo
-R 4.3.3 | diptest 0.77.0
-data: 600 genes x 180 cells, 3 cell types (simulated, see demo/make_demo_data.R)
-
-Tier 1  stage I feature selection  (diptest only)
--------------------------------------------------
-expression gate: a gene must exceed log(5) in >= 30 of 180 cells
-                 428 of 600 genes pass
-stage I ranking: 428 genes ordered in 0.18 s
-
-gene class                      gated  in top 30  median rank
-BIMODAL (stage I target)       30/30          30         15.5
-ONOFF (stage II target)        30/30           0          248
-background                    368/540          0        227.5
-
-first 10 by stage I: BIMODAL03 BIMODAL14 BIMODAL16 BIMODAL04 BIMODAL18 BIMODAL13 BIMODAL23 BIMODAL28 BIMODAL07 BIMODAL11
-  [ok]   stage I recovers 30/30 bimodal genes in the top 30 (median rank 15.5)
-  [ok]   stage I does NOT rank on/off markers (median rank 248 vs 227.5 for background)
-        ^ this is by design and is why DIFS has a second stage;
-          see the manuscript, Results, 'Overview'.
-  [ok]   the ranking is deterministic across runs
-
-dip statistic: 428 distinct values among 428 gated genes
-  [ok]   tier 1 complete
-
-Tier 2  clustering and ARI  (needs Seurat)
-------------------------------------------
-Seurat is not installed, so the clustering step is skipped.
-Tier 1 above is the method itself and it ran.  To run tier 2:
-  install.packages("Seurat")
-
-DEMO PASSED (tier 1 only)
+Stage-I diagnostic only; submitted gate max(0.05*N,35).
+Genes: 600 cells: 180 gate: 422
+First 10: BIMODAL03, BIMODAL14, BIMODAL16, BIMODAL04, BIMODAL18, BIMODAL13, BIMODAL23, BIMODAL28, BIMODAL07, BIMODAL11
+STAGE-I CHECK PASSED. Stage II has NOT been tested by this script.
