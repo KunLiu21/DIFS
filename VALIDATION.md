@@ -22,3 +22,13 @@ No fabricated selected-gene list, success log or expected full-example output
 is included. The recorded historical benchmark row is explicitly labeled as
 historical. Send the generated full-example output and session information for
 verification before changing this status to completed.
+
+## Cluster attempt on 2026-09-25
+
+Job 36842830 at commit 1576ca4 failed at the new API input validation before
+feature selection. The error combined several checks and did not identify the
+trigger. Inspection found an integer-only requirement absent from benchmark
+preparation. This restriction is removed; dense and sparse fractional estimates
+are preserved, while negative and nonfinite values still fail regression tests.
+The runner now records input diagnostics and exposes errors in both run and
+Slurm logs. A cluster retry is required; full-example success is not established.

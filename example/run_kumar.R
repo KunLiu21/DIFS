@@ -8,11 +8,30 @@ for (arg in commandArgs(TRUE)) {
 if (!file.exists(input)) stop("Input missing. Run example/prepare_kumar.R or supply input=path/to/Kumar.rds")
 if (dir.exists(out) && length(list.files(out,all.files=TRUE,no..=TRUE))) stop("Output is not empty; choose a new out= directory")
 dir.create(out,recursive=TRUE,showWarnings=FALSE)
-log <- file(file.path(out,"run.log"),open="wt"); sink(log,split=TRUE); sink(log,type="message")
+log <- file(file.path(out,"run.log"),open="wt"); sink(log,split=TRUE)
+# Errors remain visible in Slurm stderr and are also copied to the run log.
+options(error=function() {
+  cat("ERROR: ",geterrmessage(),sep="")
+  traceback(2)
+  sink();close(log)
+  quit(save="no",status=1L,runLast=FALSE)
+})
 difs_require(c("Seurat","SeuratObject"))
 seu <- readRDS(input)
 if (!inherits(seu,"Seurat")) stop("Input must be a prepared Kumar Seurat object")
 counts <- if (utils::packageVersion("SeuratObject") >= "5.0.0") SeuratObject::GetAssayData(seu,assay="RNA",layer="counts") else SeuratObject::GetAssayData(seu,assay="RNA",slot="counts")
+vals <- if (inherits(counts,"sparseMatrix")) counts@x else as.vector(counts)
+numeric_input <- is.numeric(vals)
+finite <- if (numeric_input) is.finite(vals) else rep(FALSE,length(vals))
+diagnostics <- data.frame(matrix_class=paste(class(counts),collapse="/"),
+  genes=nrow(counts),cells=ncol(counts),numeric_values=numeric_input,
+  stored_values=length(vals),nonfinite=sum(!finite),
+  negative=if (numeric_input) sum(vals[finite]<0) else NA_integer_,
+  fractional=if (numeric_input) sum(abs(vals[finite]-round(vals[finite]))>1e-8) else NA_integer_,
+  assay_used=if (is.null(seu@misc$assay_used)) "not recorded" else as.character(seu@misc$assay_used))
+write.csv(diagnostics,file.path(out,"input_diagnostics.csv"),row.names=FALSE)
+print(diagnostics)
+writeLines(capture.output(utils::sessionInfo()),file.path(out,"sessionInfo_before_fit.txt"))
 truth <- setNames(as.character(seu$trueclass),colnames(seu))
 if (ncol(counts)!=246L || anyNA(truth) || length(unique(truth))!=3L) stop("Expected Kumar: 246 cells and 3 annotated classes")
 cat("Complete Kumar DIFS example: 100 requested features, seed=1, true-k=3 (oracle).\n")
@@ -35,4 +54,4 @@ comparison$difference <- comparison$observed-comparison$historical
 write.csv(comparison,file.path(out,"historical_comparison.csv"),row.names=FALSE)
 print(summary);print(comparison)
 cat("FULL PIPELINE COMPLETED. Historical numerical reproduction still requires comparison of data, environment and outputs.\n")
-sink(type="message");sink();close(log)
+sink();close(log)

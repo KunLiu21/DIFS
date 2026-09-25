@@ -54,8 +54,11 @@ difs_validate_counts <- function(counts) {
       any(!nzchar(rownames(counts))) || any(!nzchar(colnames(counts))) ||
       anyDuplicated(rownames(counts)) || anyDuplicated(colnames(counts))) stop("Unique, nonempty gene and cell identifiers are required")
   vals <- if (inherits(counts,"sparseMatrix")) counts@x else as.vector(counts)
-  if (!is.numeric(vals) || any(!is.finite(vals)) || any(vals<0) || any(abs(vals-round(vals))>1e-8))
-    stop("counts must contain finite nonnegative counts")
+  if (!is.numeric(vals)) stop("counts must contain numeric values")
+  if (any(!is.finite(vals))) stop("counts contain NA, NaN or infinite values")
+  if (any(vals<0)) stop("counts contain negative values")
+  # Preserve fractional count estimates, as the benchmark preparation does.
+  # Do not round, rescale or replace the input to satisfy validation.
   libs <- if (inherits(counts,"sparseMatrix")) Matrix::colSums(counts) else colSums(counts)
   if (any(libs<=0)) stop("Every cell must have a positive library size")
   invisible(TRUE)

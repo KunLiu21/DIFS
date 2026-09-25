@@ -29,6 +29,14 @@ z <- d$counts; colnames(z)[2] <- colnames(z)[1];fails(difs_validate_counts(z))
 z <- d$counts;z[1,1] <- NA;fails(difs_validate_counts(z))
 z <- d$counts;z[,1] <- 0;fails(difs_validate_counts(z))
 z <- d$counts;z[1,1] <- -1;fails(difs_validate_counts(z))
+# Fractional estimates are valid benchmark inputs, both dense and sparse.
+z <- d$counts;z[1,1] <- 0.25;before <- z;difs_validate_counts(z);stopifnot(identical(z,before))
+zs <- methods::as(Matrix::Matrix(z,sparse=TRUE),"dgCMatrix")
+before <- zs;difs_validate_counts(zs);stopifnot(identical(zs,before))
+for (invalid in c(NA_real_,NaN,Inf,-Inf,-0.25)) {
+  zd <- z;zd[1,1] <- invalid;fails(difs_validate_counts(zd))
+  zz <- zs;zz[1,1] <- invalid;fails(difs_validate_counts(zz))
+}
 fails(difs_check_integer(2.5,"k"));fails(difs_require("DIFS_intentionally_missing_package"))
 truth <- setNames(c("a","a","b","b"),letters[1:4])
 pred <- setNames(c("x","x","x","y"),letters[1:4])

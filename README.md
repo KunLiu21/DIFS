@@ -42,12 +42,17 @@ checksums, configuration, R session and a log. See [example/README.md](example/R
 
 ```r
 source("R/difs.R")
-# counts: prepared raw counts, unique genes in rows and cells in columns
+# counts: prepared counts/count estimates, genes in rows and cells in columns
 # k: supplied number of clusters; state how it was obtained
 fit <- difs_fit(counts, k=3, n_features=100, seed=1)
 fit$features
 fit$labels
 ```
+
+Inputs must be finite and nonnegative with positive cell library sizes.
+Fractional count estimates are retained without rounding, matching benchmark
+preparation. This does not establish the scale of an arbitrary matrix: supply
+the count-scale input, not already log-normalized expression or scaled residuals.
 
 The API loads the scientific function definitions directly from `benchmark/`;
 there is no second independently edited implementation of the selection logic.

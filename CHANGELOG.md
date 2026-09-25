@@ -1,5 +1,11 @@
 # Revision working branch
 
+- Remove the example API's extra integer-only input restriction; retain
+  fractional estimates unchanged as benchmark preparation does. Distinguish
+  negative, nonnumeric and nonfinite inputs. Add dense/sparse regression checks,
+  input diagnostics, visible error logs and a Slurm retry with a fresh output
+  directory per job. The first full-example attempt (36842830) failed validation;
+  a successful full run is still pending.
 - Add a complete two-stage API and a Kumar worked-example runner using shared
   benchmark definitions; retain the old code for historical reference.
 - Correct the public documentation's gate from combined to submitted, matching

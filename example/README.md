@@ -15,6 +15,8 @@ silently overwritten. A prepared object must retain counts and `trueclass`.
 
 The output comprises:
 
+- `input_diagnostics.csv`, `sessionInfo_before_fit.txt`: input validity,
+  fractional-value counts and the environment captured before feature selection;
 - `selected_genes.csv`, `cell_labels.csv`: explicit gene/cell identities;
 - `summary.csv`: four metrics, stage sizes, gate size and actual feature count;
 - `difs_fit.rds`: method output including the repaired SC3 audit;
