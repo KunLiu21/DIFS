@@ -56,7 +56,11 @@ jobs:
       - name: Download and prepare Kumar with empty data caches
         run: Rscript --vanilla scripts/prepare_kumar_clean.R 2>&1 | tee clean-room/evidence/prepare.log
       - name: Execute the full two-stage example
+        id: execute_example
         run: Rscript --vanilla example/run_kumar.R out=example/output-clean 2>&1 | tee clean-room/evidence/run-console.log
+      - name: Diagnose a failed clustering run
+        if: failure() && steps.execute_example.outcome == 'failure'
+        run: Rscript --vanilla scripts/diagnose_clean_kumar.R 2>&1 | tee clean-room/evidence/diagnostics.log
       - name: Verify historical numerical agreement
         run: Rscript --vanilla scripts/verify_kumar_output.R example/output-clean 2>&1 | tee clean-room/evidence/verification.log
       - name: Compare selected genes and partitions

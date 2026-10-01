@@ -1,0 +1,42 @@
+# Read-only diagnostics for a failed fresh-run clustering step.
+source("R/difs.R")
+e <- difs_load_engine(full=TRUE)
+options(Seurat.object.assay.version="v3")
+set.seed(1)
+input <- readRDS("example/input/Kumar.rds")
+counts <- SeuratObject::GetAssayData(input,assay="RNA",layer="counts")
+seu <- Seurat::CreateSeuratObject(counts,min.cells=0,min.features=0)
+seu <- Seurat::NormalizeData(seu,normalization.method="LogNormalize",scale.factor=1e4,verbose=FALSE)
+logmat <- as.matrix(e$GetAssayData(seu,slot="data"))
+ranked <- e$difs_stage1_ranking(logmat,gate_rule="submitted",gate_k=3,key="normal_lookup",seed=1)
+old <- readRDS("example/validated/kumar-20260925/difs_fit.rds")
+cat("STAGE-I COMPARISON\n")
+print(all.equal(ranked,old$stage1_ranking,tolerance=1e-14))
+write.csv(data.frame(gene=names(ranked),score=unname(ranked)),
+          "clean-room/evidence/diagnostic-stage1.csv",row.names=FALSE)
+Seurat::VariableFeatures(seu) <- names(ranked)
+seu <- Seurat::ScaleData(seu,verbose=FALSE)
+seu <- Seurat::RunPCA(seu,verbose=FALSE)
+npc <- e$whichPC(seu)
+cat("PCA dimensions: ",npc,"\n",sep="")
+print(seu[["pca"]]@stdev)
+seu <- Seurat::FindNeighbors(seu,verbose=FALSE,dims=1:npc)
+graph <- seu[["RNA_snn"]]
+cat("SNN nonzeros: ",length(graph@x),"; range: ",range(graph@x),"\n",sep="")
+saveRDS(graph,"clean-room/evidence/diagnostic-snn.rds")
+res <- formals(e$seudo_clustering)$res
+res <- eval(res)
+records <- lapply(res,function(r) {
+  result <- tryCatch(Seurat::FindClusters(graph,resolution=r,algorithm=2,verbose=FALSE),error=identity)
+  data.frame(resolution=r,clusters=if (inherits(result,"error")) NA_integer_ else length(unique(result[[1]])),
+             error=if (inherits(result,"error")) conditionMessage(result) else "")
+})
+records <- do.call(rbind,records)
+write.csv(records,"clean-room/evidence/diagnostic-resolutions.csv",row.names=FALSE)
+print(records)
+toy <- matrix(0,12,12,dimnames=list(paste0("c",1:12),paste0("c",1:12)))
+toy[1:6,1:6] <- toy[7:12,7:12] <- 1
+toy <- SeuratObject::as.Graph(Matrix::Matrix(toy,sparse=TRUE))
+cat("Known two-component graph:\n")
+print(try(Seurat::FindClusters(toy,resolution=0.5,algorithm=2,verbose=TRUE)))
+writeLines(capture.output(sessionInfo()),"clean-room/evidence/diagnostic-session.txt")
