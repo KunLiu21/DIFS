@@ -1,0 +1,62 @@
+name: Revision-2 material checks
+on:
+  pull_request:
+    paths:
+      - 'benchmark/**'
+      - 'simulation/**'
+      - 'scripts/**'
+      - 'results/revision2/**'
+      - 'provenance/revision2_sources.json'
+      - '.github/workflows/revision2-materials.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  materials:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - uses: r-lib/actions/setup-r@f9a764fea8d5c63df6ef9a5c7795bf7deb5d7e05
+        with:
+          r-version: '4.4.1'
+          use-public-rspm: false
+      - name: Verify source and result identities
+        run: |
+          python3 scripts/verify_revision2_snapshot.py
+          python3 scripts/verify_revision2_statistics.py
+      - name: Check R syntax and shell entry points
+        run: |
+          Rscript -e 'for (p in c(list.files("benchmark", "[.]R$", full.names=TRUE), list.files("simulation", "[.]R$", full.names=TRUE))) parse(p)'
+          Rscript tests/test_signrank_precision.R
+          for p in scripts/run_revision2.sh benchmark/run_rev2.sh benchmark/run_marker_coverage.sh simulation/run_sim_complete.sh; do bash -n "$p"; done
+      - name: Prepare isolated workspace and enumerate simulation tasks
+        run: |
+          python3 scripts/prepare_revision2_workspace.py
+          bash scripts/run_revision2.sh simulation task=list
+      - name: Build supplementary snapshot
+        run: |
+          python3 -m pip install 'pandas==2.2.3' 'openpyxl==3.1.5'
+          python3 scripts/build_additional_file1.py --out work/Additional_file_1_snapshot.xlsx
+          Rscript scripts/regen_tables_20261004.R
+          python3 - <<'PY'
+          import pandas as pd
+          from pathlib import Path
+          for group,name in [('02_ablation','rev2_abl2_comparisons.csv'),('08_markers','marker_coverage_tests.csv')]:
+              pd.testing.assert_frame_equal(pd.read_csv(Path('results/revision2')/group/name), pd.read_csv(Path('work/recomputed-tables')/name), check_dtype=False, check_exact=False, rtol=1e-12, atol=1e-12)
+          print('PASS: regenerated comparison tables agree with the corrected archive.')
+          PY
+      - name: Verify workbook scope
+        run: |
+          python3 - <<'PY'
+          from openpyxl import load_workbook
+          w = load_workbook('work/Additional_file_1_snapshot.xlsx', read_only=True, data_only=True)
+          expected = {'S0':2115,'S0b':2097,'S1_ARI':1852,'S2_FM':1852,'S3_Jaccard':1852,'S4_Purity':1852,'S5':20,'S5b':9,'S8a_sim_E8':300,'S8b_sim_complete':1263,'S9_markers':3120,'S9b_marker_tests':768}
+          for sheet,n in expected.items():
+              assert w[sheet].max_row - 1 == n, sheet
+          assert 'Audit status' == w['README']['A1'].value
+          w.close()
+          print('PASS: workbook scope; this is not a full benchmark rerun.')
+          PY

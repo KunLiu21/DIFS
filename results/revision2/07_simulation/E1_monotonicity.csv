@@ -1,0 +1,4 @@
+"n","spearman_D_vs_pnormal_mc","spearman_D_vs_pnormal_lookup","spearman_puniform_vs_pnormal","n_strictly_discordant_pairs","n_tied_pvalues_mc"
+50,-0.99770606164072,-0.999923498087452,0.99770606164072,0,68
+200,-0.935418155253643,-1,0.935437800144842,0,102
+1000,-0.935418155253643,-1,0.99999871426652,0,102

@@ -1,0 +1,15 @@
+"cell_type","n_cells","n_specific","n_specific_in_gate","frac_kept"
+"t_cell",7,76,40,0.526315789473684
+"schwann",13,25,19,0.76
+"epsilon",18,13,9,0.692307692307692
+"mast",25,57,27,0.473684210526316
+"macrophage",55,50,26,0.52
+"quiescent_stellate",173,36,34,0.944444444444444
+"endothelial",252,49,46,0.938775510204082
+"gamma",255,1,1,1
+"activated_stellate",284,43,42,0.976744186046512
+"delta",601,0,0,NA
+"acinar",958,22,22,1
+"ductal",1077,19,19,1
+"alpha",2326,6,6,1
+"beta",2525,3,3,1

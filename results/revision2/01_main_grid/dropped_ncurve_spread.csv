@@ -1,0 +1,469 @@
+"data.name","clust","k_policy","n","arms","min_frac","max_frac","spread"
+"Baron","Refined Louvain","estimated",0,5,0,0,0
+"Baron","Refined Louvain","estimated",100,5,0,0,0
+"Baron","Refined Louvain","estimated",1000,5,0,0,0
+"Baron","Refined Louvain","estimated",1500,5,0,0,0
+"Baron","Refined Louvain","estimated",200,5,0,0,0
+"Baron","Refined Louvain","estimated",2500,5,0,0,0
+"Baron","Refined Louvain","estimated",300,5,0,0,0
+"Baron","Refined Louvain","estimated",500,5,0,0,0
+"Baron","Refined Louvain","estimated",750,5,0,0,0
+"Baron","Refined Louvain","true",0,5,0,0,0
+"Baron","Refined Louvain","true",100,5,0,0,0
+"Baron","Refined Louvain","true",1000,5,0,0,0
+"Baron","Refined Louvain","true",1500,5,0,0,0
+"Baron","Refined Louvain","true",200,5,0,0,0
+"Baron","Refined Louvain","true",2500,5,0,0,0
+"Baron","Refined Louvain","true",300,5,0,0,0
+"Baron","Refined Louvain","true",500,5,0,0,0
+"Baron","Refined Louvain","true",750,5,0,0,0
+"Baron","SC3","estimated",0,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",100,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",1000,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",1500,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",200,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",2500,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",300,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",500,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","estimated",750,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",0,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",100,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",1000,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",1500,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",200,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",2500,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",300,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",500,5,0.416501342046913,0.416501342046913,0
+"Baron","SC3","true",750,5,0.416501342046913,0.416501342046913,0
+"Darmanis","Refined Louvain","true",0,5,0,0,0
+"Darmanis","Refined Louvain","true",100,5,0,0,0
+"Darmanis","Refined Louvain","true",1000,5,0,0,0
+"Darmanis","Refined Louvain","true",1500,5,0,0,0
+"Darmanis","Refined Louvain","true",200,5,0,0,0
+"Darmanis","Refined Louvain","true",2500,5,0,0,0
+"Darmanis","Refined Louvain","true",300,5,0,0,0
+"Darmanis","Refined Louvain","true",500,5,0,0,0
+"Darmanis","Refined Louvain","true",750,5,0,0,0
+"Darmanis","SC3","true",0,5,0,0,0
+"Darmanis","SC3","true",100,5,0,0,0
+"Darmanis","SC3","true",1000,5,0,0,0
+"Darmanis","SC3","true",1500,5,0,0,0
+"Darmanis","SC3","true",200,5,0,0,0
+"Darmanis","SC3","true",2500,5,0,0,0
+"Darmanis","SC3","true",300,5,0,0,0
+"Darmanis","SC3","true",500,5,0,0,0
+"Darmanis","SC3","true",750,5,0,0,0
+"Fletcher","Refined Louvain","true",0,5,0,0,0
+"Fletcher","Refined Louvain","true",100,5,0,0,0
+"Fletcher","Refined Louvain","true",1000,5,0,0,0
+"Fletcher","Refined Louvain","true",1500,5,0,0,0
+"Fletcher","Refined Louvain","true",200,5,0,0,0
+"Fletcher","Refined Louvain","true",2500,5,0,0,0
+"Fletcher","Refined Louvain","true",300,5,0,0,0
+"Fletcher","Refined Louvain","true",500,5,0,0,0
+"Fletcher","Refined Louvain","true",750,5,0,0,0
+"Fletcher","SC3","true",0,5,0,0,0
+"Fletcher","SC3","true",100,5,0,0,0
+"Fletcher","SC3","true",1000,5,0,0,0
+"Fletcher","SC3","true",1500,5,0,0,0
+"Fletcher","SC3","true",200,5,0,0,0
+"Fletcher","SC3","true",2500,5,0,0,0
+"Fletcher","SC3","true",300,5,0,0,0
+"Fletcher","SC3","true",500,5,0,0,0
+"Fletcher","SC3","true",750,5,0,0,0
+"Koh","Refined Louvain","true",0,5,0,0,0
+"Koh","Refined Louvain","true",100,5,0,0,0
+"Koh","Refined Louvain","true",1000,5,0,0,0
+"Koh","Refined Louvain","true",1500,5,0,0,0
+"Koh","Refined Louvain","true",200,5,0,0,0
+"Koh","Refined Louvain","true",2500,5,0,0,0
+"Koh","Refined Louvain","true",300,5,0,0,0
+"Koh","Refined Louvain","true",500,5,0,0,0
+"Koh","Refined Louvain","true",750,5,0,0,0
+"Koh","SC3","true",0,5,0,0,0
+"Koh","SC3","true",100,5,0,0,0
+"Koh","SC3","true",1000,5,0,0,0
+"Koh","SC3","true",1500,5,0,0,0
+"Koh","SC3","true",200,5,0,0,0
+"Koh","SC3","true",2500,5,0,0,0
+"Koh","SC3","true",300,5,0,0,0
+"Koh","SC3","true",500,5,0,0,0
+"Koh","SC3","true",750,5,0,0,0
+"Kumar","Refined Louvain","true",0,5,0,0,0
+"Kumar","Refined Louvain","true",100,5,0,0,0
+"Kumar","Refined Louvain","true",1000,5,0,0,0
+"Kumar","Refined Louvain","true",1500,5,0,0,0
+"Kumar","Refined Louvain","true",200,5,0,0,0
+"Kumar","Refined Louvain","true",2500,5,0,0,0
+"Kumar","Refined Louvain","true",300,5,0,0,0
+"Kumar","Refined Louvain","true",500,5,0,0,0
+"Kumar","Refined Louvain","true",750,5,0,0,0
+"Kumar","SC3","true",0,5,0,0,0
+"Kumar","SC3","true",100,5,0,0,0
+"Kumar","SC3","true",1000,5,0,0,0
+"Kumar","SC3","true",1500,5,0,0,0
+"Kumar","SC3","true",200,5,0,0,0
+"Kumar","SC3","true",2500,5,0,0,0
+"Kumar","SC3","true",300,5,0,0,0
+"Kumar","SC3","true",500,5,0,0,0
+"Kumar","SC3","true",750,5,0,0,0
+"Lawlor","Refined Louvain","true",0,5,0,0,0
+"Lawlor","Refined Louvain","true",100,5,0,0,0
+"Lawlor","Refined Louvain","true",1000,5,0,0,0
+"Lawlor","Refined Louvain","true",1500,5,0,0,0
+"Lawlor","Refined Louvain","true",200,5,0,0,0
+"Lawlor","Refined Louvain","true",2500,5,0,0,0
+"Lawlor","Refined Louvain","true",300,5,0,0,0
+"Lawlor","Refined Louvain","true",500,5,0,0,0
+"Lawlor","Refined Louvain","true",750,5,0,0,0
+"Lawlor","SC3","true",0,5,0,0,0
+"Lawlor","SC3","true",100,5,0,0,0
+"Lawlor","SC3","true",1000,5,0,0,0
+"Lawlor","SC3","true",1500,5,0,0,0
+"Lawlor","SC3","true",200,5,0,0,0
+"Lawlor","SC3","true",2500,5,0,0,0
+"Lawlor","SC3","true",300,5,0,0,0
+"Lawlor","SC3","true",500,5,0,0,0
+"Lawlor","SC3","true",750,5,0,0,0
+"Muraro","Refined Louvain","estimated",0,5,0,0,0
+"Muraro","Refined Louvain","estimated",100,5,0,0,0
+"Muraro","Refined Louvain","estimated",1000,5,0,0,0
+"Muraro","Refined Louvain","estimated",1500,5,0,0,0
+"Muraro","Refined Louvain","estimated",200,5,0,0,0
+"Muraro","Refined Louvain","estimated",2500,5,0,0,0
+"Muraro","Refined Louvain","estimated",300,5,0,0,0
+"Muraro","Refined Louvain","estimated",500,5,0,0,0
+"Muraro","Refined Louvain","estimated",750,5,0,0,0
+"Muraro","Refined Louvain","true",0,5,0,0,0
+"Muraro","Refined Louvain","true",100,5,0,0,0
+"Muraro","Refined Louvain","true",1000,5,0,0,0
+"Muraro","Refined Louvain","true",1500,5,0,0,0
+"Muraro","Refined Louvain","true",200,5,0,0,0
+"Muraro","Refined Louvain","true",2500,5,0,0,0
+"Muraro","Refined Louvain","true",300,5,0,0,0
+"Muraro","Refined Louvain","true",500,5,0,0,0
+"Muraro","Refined Louvain","true",750,5,0,0,0
+"Muraro","SC3","estimated",0,5,0,0,0
+"Muraro","SC3","estimated",100,5,0,0,0
+"Muraro","SC3","estimated",1000,5,0,0,0
+"Muraro","SC3","estimated",1500,5,0,0,0
+"Muraro","SC3","estimated",200,5,0,0,0
+"Muraro","SC3","estimated",2500,5,0,0,0
+"Muraro","SC3","estimated",300,5,0,0,0
+"Muraro","SC3","estimated",500,5,0,0,0
+"Muraro","SC3","estimated",750,5,0,0,0
+"Muraro","SC3","true",0,5,0,0,0
+"Muraro","SC3","true",100,5,0,0,0
+"Muraro","SC3","true",1000,5,0,0,0
+"Muraro","SC3","true",1500,5,0,0,0
+"Muraro","SC3","true",200,5,0,0,0
+"Muraro","SC3","true",2500,5,0,0,0
+"Muraro","SC3","true",300,5,0,0,0
+"Muraro","SC3","true",500,5,0,0,0
+"Muraro","SC3","true",750,5,0,0,0
+"Romanov","Refined Louvain","true",0,5,0,0,0
+"Romanov","Refined Louvain","true",100,5,0,0,0
+"Romanov","Refined Louvain","true",1000,5,0,0,0
+"Romanov","Refined Louvain","true",1500,5,0,0,0
+"Romanov","Refined Louvain","true",200,5,0,0,0
+"Romanov","Refined Louvain","true",2500,5,0,0,0
+"Romanov","Refined Louvain","true",300,5,0,0,0
+"Romanov","Refined Louvain","true",500,5,0,0,0
+"Romanov","Refined Louvain","true",750,5,0,0,0
+"Romanov","SC3","true",0,5,0,0,0
+"Romanov","SC3","true",100,5,0,0,0
+"Romanov","SC3","true",1000,5,0,0,0
+"Romanov","SC3","true",1500,5,0,0,0
+"Romanov","SC3","true",200,5,0,0,0
+"Romanov","SC3","true",2500,5,0,0,0
+"Romanov","SC3","true",300,5,0,0,0
+"Romanov","SC3","true",500,5,0,0,0
+"Romanov","SC3","true",750,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",0,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",100,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",1000,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",1500,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",200,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",2500,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",300,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",500,5,0,0,0
+"SimKumar4easy","Refined Louvain","true",750,5,0,0,0
+"SimKumar4easy","SC3","true",0,5,0,0,0
+"SimKumar4easy","SC3","true",100,5,0,0,0
+"SimKumar4easy","SC3","true",1000,5,0,0,0
+"SimKumar4easy","SC3","true",1500,5,0,0,0
+"SimKumar4easy","SC3","true",200,5,0,0,0
+"SimKumar4easy","SC3","true",2500,5,0,0,0
+"SimKumar4easy","SC3","true",300,5,0,0,0
+"SimKumar4easy","SC3","true",500,5,0,0,0
+"SimKumar4easy","SC3","true",750,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",0,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",100,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",1000,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",1500,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",200,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",2500,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",300,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",500,5,0,0,0
+"SimKumar4hard","Refined Louvain","true",750,5,0,0,0
+"SimKumar4hard","SC3","true",0,5,0,0,0
+"SimKumar4hard","SC3","true",100,5,0,0,0
+"SimKumar4hard","SC3","true",1000,5,0,0,0
+"SimKumar4hard","SC3","true",1500,5,0,0,0
+"SimKumar4hard","SC3","true",200,5,0,0,0
+"SimKumar4hard","SC3","true",2500,5,0,0,0
+"SimKumar4hard","SC3","true",300,5,0,0,0
+"SimKumar4hard","SC3","true",500,5,0,0,0
+"SimKumar4hard","SC3","true",750,5,0,0,0
+"Trapnell","Refined Louvain","true",0,5,0,0,0
+"Trapnell","Refined Louvain","true",100,5,0,0,0
+"Trapnell","Refined Louvain","true",1000,5,0,0,0
+"Trapnell","Refined Louvain","true",1500,5,0,0,0
+"Trapnell","Refined Louvain","true",200,5,0,0,0
+"Trapnell","Refined Louvain","true",2500,5,0,0,0
+"Trapnell","Refined Louvain","true",300,5,0,0,0
+"Trapnell","Refined Louvain","true",500,5,0,0,0
+"Trapnell","Refined Louvain","true",750,5,0,0,0
+"Trapnell","SC3","true",0,5,0,0,0
+"Trapnell","SC3","true",100,5,0,0,0
+"Trapnell","SC3","true",1000,5,0,0,0
+"Trapnell","SC3","true",1500,5,0,0,0
+"Trapnell","SC3","true",200,5,0,0,0
+"Trapnell","SC3","true",2500,5,0,0,0
+"Trapnell","SC3","true",300,5,0,0,0
+"Trapnell","SC3","true",500,5,0,0,0
+"Trapnell","SC3","true",750,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",0,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",100,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",1000,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",1500,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",200,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",2500,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",300,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",500,5,0,0,0
+"Zhengmix4eq","Refined Louvain","true",750,5,0,0,0
+"Zhengmix4eq","SC3","true",0,5,0,0,0
+"Zhengmix4eq","SC3","true",100,5,0,0,0
+"Zhengmix4eq","SC3","true",1000,5,0,0,0
+"Zhengmix4eq","SC3","true",1500,5,0,0,0
+"Zhengmix4eq","SC3","true",200,5,0,0,0
+"Zhengmix4eq","SC3","true",2500,5,0,0,0
+"Zhengmix4eq","SC3","true",300,5,0,0,0
+"Zhengmix4eq","SC3","true",500,5,0,0,0
+"Zhengmix4eq","SC3","true",750,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",0,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",100,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",1000,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",1500,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",200,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",2500,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",300,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",500,5,0,0,0
+"Zhengmix8eq","Refined Louvain","true",750,5,0,0,0
+"Zhengmix8eq","SC3","true",0,5,0,0,0
+"Zhengmix8eq","SC3","true",100,4,0,0,0
+"Zhengmix8eq","SC3","true",1000,5,0,0,0
+"Zhengmix8eq","SC3","true",1500,5,0,0,0
+"Zhengmix8eq","SC3","true",200,5,0,0,0
+"Zhengmix8eq","SC3","true",2500,5,0,0,0
+"Zhengmix8eq","SC3","true",300,5,0,0,0
+"Zhengmix8eq","SC3","true",500,5,0,0,0
+"Zhengmix8eq","SC3","true",750,5,0,0,0
+"Darmanis","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Darmanis","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Darmanis","SC3","estimated",750,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Fletcher","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Fletcher","SC3","estimated",750,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Koh","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Koh","SC3","estimated",750,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Kumar","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Kumar","SC3","estimated",750,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Lawlor","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Lawlor","SC3","estimated",750,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Romanov","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Romanov","SC3","estimated",750,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"SimKumar4easy","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",0,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",100,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",200,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",300,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",500,5,Inf,-Inf,-Inf
+"SimKumar4easy","SC3","estimated",750,5,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",0,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",100,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",1000,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",1500,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",200,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",2500,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",300,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",500,4,Inf,-Inf,-Inf
+"SimKumar4hard","Refined Louvain","estimated",750,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",0,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",100,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",1000,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",1500,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",200,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",2500,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",300,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",500,4,Inf,-Inf,-Inf
+"SimKumar4hard","SC3","estimated",750,4,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Trapnell","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Trapnell","SC3","estimated",750,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Zhengmix4eq","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",100,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Zhengmix4eq","SC3","estimated",750,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",0,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",100,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",1000,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",1500,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",200,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",2500,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",300,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",500,5,Inf,-Inf,-Inf
+"Zhengmix8eq","Refined Louvain","estimated",750,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",0,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",100,4,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",1000,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",1500,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",200,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",2500,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",300,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",500,5,Inf,-Inf,-Inf
+"Zhengmix8eq","SC3","estimated",750,5,Inf,-Inf,-Inf

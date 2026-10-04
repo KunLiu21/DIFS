@@ -1,0 +1,27 @@
+"data.name","clust","total","runs","mean_dropped","mean_frac"
+"Baron","SC3",8569,90,3569,0.416501342046913
+"Baron","Refined Louvain",8569,90,0,0
+"Darmanis","Refined Louvain",466,90,0,0
+"Darmanis","SC3",466,90,0,0
+"Fletcher","Refined Louvain",616,90,0,0
+"Fletcher","SC3",616,90,0,0
+"Koh","Refined Louvain",531,90,0,0
+"Koh","SC3",531,90,0,0
+"Kumar","Refined Louvain",246,90,0,0
+"Kumar","SC3",246,90,0,0
+"Lawlor","Refined Louvain",638,90,0,0
+"Lawlor","SC3",638,90,0,0
+"Muraro","Refined Louvain",2126,90,0,0
+"Muraro","SC3",2126,90,0,0
+"Romanov","Refined Louvain",2881,90,0,0
+"Romanov","SC3",2881,90,0,0
+"SimKumar4easy","Refined Louvain",500,90,0,0
+"SimKumar4easy","SC3",500,90,0,0
+"SimKumar4hard","Refined Louvain",499,81,0,0
+"SimKumar4hard","SC3",499,81,0,0
+"Trapnell","Refined Louvain",222,90,0,0
+"Trapnell","SC3",222,90,0,0
+"Zhengmix4eq","Refined Louvain",3994,90,0,0
+"Zhengmix4eq","SC3",3994,90,0,0
+"Zhengmix8eq","Refined Louvain",3994,90,0,0
+"Zhengmix8eq","SC3",3994,88,0,0

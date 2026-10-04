@@ -1,4 +1,23 @@
-# Revision working branch
+# Unreleased: second-round source and result organization
+
+- Add 23 analysis/export scripts from the organized 2026-10-04 author package,
+  with source/destination hashes and documented portability changes.
+- Archive 55 CSVs separately from v2.0, including extended components, repeated
+  runs, k sensitivity, runtime, E8/full simulations and marker recovery.
+- Add an isolated-workspace preparer, generic R/Singularity task launcher,
+  account-free Slurm wrappers and a workbook builder with configurable paths.
+- Incorporate the author's 12-decimal signed-rank precision fix and regenerated
+  component/marker summaries. Independently verify all 72/768 comparisons from
+  observations. Retain the public helper's finite-input guards. No clustering
+  outputs are changed. Document raw versus manuscript-filtered denominators.
+
+# Fresh Kumar validation, verified 2026-10-04
+
+- Archive the successful fresh Ubuntu/R installation and public-data run;
+  genes, order, partitions and four metrics reproduce the historical example.
+  Record the earlier unexplained GroupSingletons failure alongside the success.
+
+# v2.0 revision
 
 - Validate the full Kumar prepared-input example on the cluster (job 36842924),
   then recheck labels/metrics locally and with independent contingency counts.

@@ -1,0 +1,2321 @@
+"dataset","feature_method","clustering_method","k_policy","n_requested","n_features_realised","value","baron_repaired"
+"Baron","DIFS","Refined Louvain","estimated",0,1940,0.269812690351273,TRUE
+"Baron","FEAST","Refined Louvain","estimated",0,1940,0.266286357316538,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",0,1940,0.241184100743162,FALSE
+"Baron","Seurat","Refined Louvain","estimated",0,1940,0.246015968959089,FALSE
+"Baron","Variance","Refined Louvain","estimated",0,1940,0.237525299219863,FALSE
+"Baron","DIFS","SC3","estimated",0,1940,0.215628074638968,TRUE
+"Baron","FEAST","SC3","estimated",0,1940,0.189266049382303,TRUE
+"Baron","GateOnly","SC3","estimated",0,1940,0.190438643697337,TRUE
+"Baron","Seurat","SC3","estimated",0,1940,0.188398343430703,TRUE
+"Baron","Variance","SC3","estimated",0,1940,0.183738684590943,TRUE
+"Baron","DIFS","Refined Louvain","estimated",100,100,0.2802386844871,TRUE
+"Baron","FEAST","Refined Louvain","estimated",100,100,0.0111547021808908,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",100,100,0.219212335218694,FALSE
+"Baron","Seurat","Refined Louvain","estimated",100,100,0.118751669207668,FALSE
+"Baron","Variance","Refined Louvain","estimated",100,100,0.316132131463261,FALSE
+"Baron","DIFS","SC3","estimated",100,100,0.191450600341917,TRUE
+"Baron","FEAST","SC3","estimated",100,100,0.180397497619408,TRUE
+"Baron","GateOnly","SC3","estimated",100,100,0.180969598239271,TRUE
+"Baron","Seurat","SC3","estimated",100,100,0.166360674199769,TRUE
+"Baron","Variance","SC3","estimated",100,100,0.213048497287302,TRUE
+"Baron","DIFS","Refined Louvain","estimated",200,200,0.313083872381778,TRUE
+"Baron","FEAST","Refined Louvain","estimated",200,200,0.253946846671242,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",200,200,0.261933399118232,FALSE
+"Baron","Seurat","Refined Louvain","estimated",200,200,0.154790209826368,FALSE
+"Baron","Variance","Refined Louvain","estimated",200,200,0.317965441067247,FALSE
+"Baron","DIFS","SC3","estimated",200,200,0.180878037991946,TRUE
+"Baron","FEAST","SC3","estimated",200,200,0.156359740338675,TRUE
+"Baron","GateOnly","SC3","estimated",200,200,0.15526467488907,TRUE
+"Baron","Seurat","SC3","estimated",200,200,0.142585741246401,TRUE
+"Baron","Variance","SC3","estimated",200,200,0.221866740531923,TRUE
+"Baron","DIFS","Refined Louvain","estimated",300,300,0.288864257918581,TRUE
+"Baron","FEAST","Refined Louvain","estimated",300,300,0.27300118977267,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",300,300,0.271531428251163,FALSE
+"Baron","Seurat","Refined Louvain","estimated",300,300,0.24887645535932,FALSE
+"Baron","Variance","Refined Louvain","estimated",300,300,0.304449021344951,FALSE
+"Baron","DIFS","SC3","estimated",300,300,0.162192760756644,TRUE
+"Baron","FEAST","SC3","estimated",300,300,0.174382816544917,TRUE
+"Baron","GateOnly","SC3","estimated",300,300,0.149916586809072,TRUE
+"Baron","Seurat","SC3","estimated",300,300,0.161974978757141,TRUE
+"Baron","Variance","SC3","estimated",300,300,0.186693356231351,TRUE
+"Baron","DIFS","Refined Louvain","estimated",500,500,0.260894073315848,TRUE
+"Baron","FEAST","Refined Louvain","estimated",500,500,0.299034088279991,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",500,500,0.263529587926026,FALSE
+"Baron","Seurat","Refined Louvain","estimated",500,500,0.236991671013712,FALSE
+"Baron","Variance","Refined Louvain","estimated",500,500,0.283612554684824,FALSE
+"Baron","DIFS","SC3","estimated",500,500,0.191715896271827,TRUE
+"Baron","FEAST","SC3","estimated",500,500,0.149874849754905,TRUE
+"Baron","GateOnly","SC3","estimated",500,500,0.180384976869733,TRUE
+"Baron","Seurat","SC3","estimated",500,500,0.135253098111801,TRUE
+"Baron","Variance","SC3","estimated",500,500,0.204788038529364,TRUE
+"Baron","DIFS","Refined Louvain","estimated",750,750,0.25349252363168,TRUE
+"Baron","FEAST","Refined Louvain","estimated",750,750,0.271297220355416,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",750,750,0.29383510269333,FALSE
+"Baron","Seurat","Refined Louvain","estimated",750,750,0.263615016023016,FALSE
+"Baron","Variance","Refined Louvain","estimated",750,750,0.271652161004242,FALSE
+"Baron","DIFS","SC3","estimated",750,750,0.19174243527687,TRUE
+"Baron","FEAST","SC3","estimated",750,750,0.180398330784322,TRUE
+"Baron","GateOnly","SC3","estimated",750,750,0.186765615625013,TRUE
+"Baron","Seurat","SC3","estimated",750,750,0.151158001866739,TRUE
+"Baron","Variance","SC3","estimated",750,750,0.19760911811064,TRUE
+"Baron","DIFS","Refined Louvain","estimated",1000,1000,0.259060086879714,TRUE
+"Baron","FEAST","Refined Louvain","estimated",1000,1000,0.279575566802568,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",1000,1000,0.247554056943513,FALSE
+"Baron","Seurat","Refined Louvain","estimated",1000,1000,0.266768877732608,FALSE
+"Baron","Variance","Refined Louvain","estimated",1000,1000,0.264929114032157,FALSE
+"Baron","DIFS","SC3","estimated",1000,1000,0.195206197102766,TRUE
+"Baron","FEAST","SC3","estimated",1000,1000,0.188553467295583,TRUE
+"Baron","GateOnly","SC3","estimated",1000,1000,0.197496409171403,TRUE
+"Baron","Seurat","SC3","estimated",1000,1000,0.154730621172911,TRUE
+"Baron","Variance","SC3","estimated",1000,1000,0.189248084066728,TRUE
+"Baron","DIFS","Refined Louvain","estimated",1500,1500,0.265864622799881,TRUE
+"Baron","FEAST","Refined Louvain","estimated",1500,1500,0.27342179936858,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",1500,1500,0.260231677674999,FALSE
+"Baron","Seurat","Refined Louvain","estimated",1500,1500,0.275171178125036,FALSE
+"Baron","Variance","Refined Louvain","estimated",1500,1500,0.258687524374952,FALSE
+"Baron","DIFS","SC3","estimated",1500,1500,0.191253833930551,TRUE
+"Baron","FEAST","SC3","estimated",1500,1500,0.181387082879269,TRUE
+"Baron","GateOnly","SC3","estimated",1500,1500,0.17623070763821,TRUE
+"Baron","Seurat","SC3","estimated",1500,1500,0.163332293271062,TRUE
+"Baron","Variance","SC3","estimated",1500,1500,0.182165248928391,TRUE
+"Baron","DIFS","Refined Louvain","estimated",2500,2500,0.269901217072658,TRUE
+"Baron","FEAST","Refined Louvain","estimated",2500,2500,0.27233680520552,FALSE
+"Baron","GateOnly","Refined Louvain","estimated",2500,1940,0.241184100743162,FALSE
+"Baron","Seurat","Refined Louvain","estimated",2500,2500,0.280274325201735,FALSE
+"Baron","Variance","Refined Louvain","estimated",2500,2500,0.242429351429108,FALSE
+"Baron","DIFS","SC3","estimated",2500,2500,0.204250578226668,TRUE
+"Baron","FEAST","SC3","estimated",2500,2500,0.187087552697274,TRUE
+"Baron","GateOnly","SC3","estimated",2500,1940,0.190438643697337,TRUE
+"Baron","Seurat","SC3","estimated",2500,2500,0.172984026744065,TRUE
+"Baron","Variance","SC3","estimated",2500,2500,0.202013333670433,TRUE
+"Baron","DIFS","Refined Louvain","true",0,1940,0.506680551302267,TRUE
+"Baron","FEAST","Refined Louvain","true",0,1940,0.514979605410807,FALSE
+"Baron","GateOnly","Refined Louvain","true",0,1940,0.498550282917641,FALSE
+"Baron","Seurat","Refined Louvain","true",0,1940,0.59506418977656,FALSE
+"Baron","Variance","Refined Louvain","true",0,1940,0.499550173331532,FALSE
+"Baron","DIFS","SC3","true",0,1940,0.603698793302619,TRUE
+"Baron","FEAST","SC3","true",0,1940,0.533510083630602,TRUE
+"Baron","GateOnly","SC3","true",0,1940,0.575433040211709,TRUE
+"Baron","Seurat","SC3","true",0,1940,0.58319536521399,TRUE
+"Baron","Variance","SC3","true",0,1940,0.575258297316658,TRUE
+"Baron","DIFS","Refined Louvain","true",100,100,0.618259986815556,TRUE
+"Baron","FEAST","Refined Louvain","true",100,100,0.532274691097211,FALSE
+"Baron","GateOnly","Refined Louvain","true",100,100,0.345754689463575,FALSE
+"Baron","Seurat","Refined Louvain","true",100,100,0.27271284828482,FALSE
+"Baron","Variance","Refined Louvain","true",100,100,0.53769073995138,FALSE
+"Baron","DIFS","SC3","true",100,100,0.791598546747094,TRUE
+"Baron","FEAST","SC3","true",100,100,0.783817694068507,TRUE
+"Baron","GateOnly","SC3","true",100,100,0.595674300663674,TRUE
+"Baron","Seurat","SC3","true",100,100,0.906509188397328,TRUE
+"Baron","Variance","SC3","true",100,100,0.553111626411321,TRUE
+"Baron","DIFS","Refined Louvain","true",200,200,0.53908752765545,TRUE
+"Baron","FEAST","Refined Louvain","true",200,200,0.585599929805954,FALSE
+"Baron","GateOnly","Refined Louvain","true",200,200,0.405606006482994,FALSE
+"Baron","Seurat","Refined Louvain","true",200,200,0.526476028997345,FALSE
+"Baron","Variance","Refined Louvain","true",200,200,0.533406307089764,FALSE
+"Baron","DIFS","SC3","true",200,200,0.549925509713591,TRUE
+"Baron","FEAST","SC3","true",200,200,0.538716381366441,TRUE
+"Baron","GateOnly","SC3","true",200,200,0.677830864714159,TRUE
+"Baron","Seurat","SC3","true",200,200,0.523138447301671,TRUE
+"Baron","Variance","SC3","true",200,200,0.537261033889213,TRUE
+"Baron","DIFS","Refined Louvain","true",300,300,0.537822433528317,TRUE
+"Baron","FEAST","Refined Louvain","true",300,300,0.592147985640595,FALSE
+"Baron","GateOnly","Refined Louvain","true",300,300,0.478809864416221,FALSE
+"Baron","Seurat","Refined Louvain","true",300,300,0.561415318664332,FALSE
+"Baron","Variance","Refined Louvain","true",300,300,0.51804964198668,FALSE
+"Baron","DIFS","SC3","true",300,300,0.570516510251123,TRUE
+"Baron","FEAST","SC3","true",300,300,0.633047876135809,TRUE
+"Baron","GateOnly","SC3","true",300,300,0.500890543435878,TRUE
+"Baron","Seurat","SC3","true",300,300,0.733072794216296,TRUE
+"Baron","Variance","SC3","true",300,300,0.550969839171977,TRUE
+"Baron","DIFS","Refined Louvain","true",500,500,0.568695386535028,TRUE
+"Baron","FEAST","Refined Louvain","true",500,500,0.584051878903005,FALSE
+"Baron","GateOnly","Refined Louvain","true",500,500,0.485887025786449,FALSE
+"Baron","Seurat","Refined Louvain","true",500,500,0.581845982054346,FALSE
+"Baron","Variance","Refined Louvain","true",500,500,0.506112285340281,FALSE
+"Baron","DIFS","SC3","true",500,500,0.648615103150262,TRUE
+"Baron","FEAST","SC3","true",500,500,0.569955008113833,TRUE
+"Baron","GateOnly","SC3","true",500,500,0.503591274430623,TRUE
+"Baron","Seurat","SC3","true",500,500,0.710741816395895,TRUE
+"Baron","Variance","SC3","true",500,500,0.548692094618078,TRUE
+"Baron","DIFS","Refined Louvain","true",750,750,0.546400642914638,TRUE
+"Baron","FEAST","Refined Louvain","true",750,750,0.573981257666233,FALSE
+"Baron","GateOnly","Refined Louvain","true",750,750,0.493517495765554,FALSE
+"Baron","Seurat","Refined Louvain","true",750,750,0.634416625207295,FALSE
+"Baron","Variance","Refined Louvain","true",750,750,0.505148023252678,FALSE
+"Baron","DIFS","SC3","true",750,750,0.570364753553912,TRUE
+"Baron","FEAST","SC3","true",750,750,0.570105091505759,TRUE
+"Baron","GateOnly","SC3","true",750,750,0.563579974990026,TRUE
+"Baron","Seurat","SC3","true",750,750,0.731453251420254,TRUE
+"Baron","Variance","SC3","true",750,750,0.576521315970592,TRUE
+"Baron","DIFS","Refined Louvain","true",1000,1000,0.514272320138128,TRUE
+"Baron","FEAST","Refined Louvain","true",1000,1000,0.568272838982044,FALSE
+"Baron","GateOnly","Refined Louvain","true",1000,1000,0.496184221322952,FALSE
+"Baron","Seurat","Refined Louvain","true",1000,1000,0.588347853255975,FALSE
+"Baron","Variance","Refined Louvain","true",1000,1000,0.495472523177209,FALSE
+"Baron","DIFS","SC3","true",1000,1000,0.575222094955826,TRUE
+"Baron","FEAST","SC3","true",1000,1000,0.56993986624065,TRUE
+"Baron","GateOnly","SC3","true",1000,1000,0.565411931538219,TRUE
+"Baron","Seurat","SC3","true",1000,1000,0.633235447844405,TRUE
+"Baron","Variance","SC3","true",1000,1000,0.557221156150385,TRUE
+"Baron","DIFS","Refined Louvain","true",1500,1500,0.50777253720357,TRUE
+"Baron","FEAST","Refined Louvain","true",1500,1500,0.511860928101925,FALSE
+"Baron","GateOnly","Refined Louvain","true",1500,1500,0.494209717510643,FALSE
+"Baron","Seurat","Refined Louvain","true",1500,1500,0.588414034004075,FALSE
+"Baron","Variance","Refined Louvain","true",1500,1500,0.499526606141332,FALSE
+"Baron","DIFS","SC3","true",1500,1500,0.574202626659121,TRUE
+"Baron","FEAST","SC3","true",1500,1500,0.535448780855018,TRUE
+"Baron","GateOnly","SC3","true",1500,1500,0.56732101352682,TRUE
+"Baron","Seurat","SC3","true",1500,1500,0.57072324626438,TRUE
+"Baron","Variance","SC3","true",1500,1500,0.552551903227379,TRUE
+"Baron","DIFS","Refined Louvain","true",2500,2500,0.499500900531678,TRUE
+"Baron","FEAST","Refined Louvain","true",2500,2500,0.518426354405341,FALSE
+"Baron","GateOnly","Refined Louvain","true",2500,1940,0.498550282917641,FALSE
+"Baron","Seurat","Refined Louvain","true",2500,2500,0.589740570540096,FALSE
+"Baron","Variance","Refined Louvain","true",2500,2500,0.495774623281023,FALSE
+"Baron","DIFS","SC3","true",2500,2500,0.563000810893395,TRUE
+"Baron","FEAST","SC3","true",2500,2500,0.540422878763648,TRUE
+"Baron","GateOnly","SC3","true",2500,1940,0.575433040211709,TRUE
+"Baron","Seurat","SC3","true",2500,2500,0.552996894033312,TRUE
+"Baron","Variance","SC3","true",2500,2500,0.597189539584067,TRUE
+"Darmanis","DIFS","Refined Louvain","estimated",0,2346,0.480418679941267,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",0,2346,0.474025643381053,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",0,2346,0.503734102063668,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",0,2346,0.425856513225799,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",0,2346,0.479271149755062,FALSE
+"Darmanis","DIFS","SC3","estimated",0,2346,0.579302151468418,FALSE
+"Darmanis","FEAST","SC3","estimated",0,2346,0.688667650682026,FALSE
+"Darmanis","GateOnly","SC3","estimated",0,2346,0.535967585041038,FALSE
+"Darmanis","Seurat","SC3","estimated",0,2346,0.544922055151873,FALSE
+"Darmanis","Variance","SC3","estimated",0,2346,0.520565783909538,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",100,100,0.497360760342441,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",100,100,0.269969132636663,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",100,100,0.439926717139334,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",100,100,0.44692798297721,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",100,100,0.493160360752745,FALSE
+"Darmanis","DIFS","SC3","estimated",100,100,0.636928537026599,FALSE
+"Darmanis","FEAST","SC3","estimated",100,100,0.367207454550923,FALSE
+"Darmanis","GateOnly","SC3","estimated",100,100,0.424015239277166,FALSE
+"Darmanis","Seurat","SC3","estimated",100,100,0.56620885074256,FALSE
+"Darmanis","Variance","SC3","estimated",100,100,0.542084982318449,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",200,200,0.564252059576749,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",200,200,0.44523235812551,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",200,200,0.48257340397528,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",200,200,0.445698570983325,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",200,200,0.48353319565172,FALSE
+"Darmanis","DIFS","SC3","estimated",200,200,0.577270719038347,FALSE
+"Darmanis","FEAST","SC3","estimated",200,200,0.613760619890651,FALSE
+"Darmanis","GateOnly","SC3","estimated",200,200,0.534771077197767,FALSE
+"Darmanis","Seurat","SC3","estimated",200,200,0.574238239200567,FALSE
+"Darmanis","Variance","SC3","estimated",200,200,0.543908854283978,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",300,300,0.500568818561505,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",300,300,0.521813256035895,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",300,300,0.496992291315844,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",300,300,0.525286074922107,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",300,300,0.477196113388532,FALSE
+"Darmanis","DIFS","SC3","estimated",300,300,0.64540338139632,FALSE
+"Darmanis","FEAST","SC3","estimated",300,300,0.686750877494058,FALSE
+"Darmanis","GateOnly","SC3","estimated",300,300,0.522224022663849,FALSE
+"Darmanis","Seurat","SC3","estimated",300,300,0.638684917905867,FALSE
+"Darmanis","Variance","SC3","estimated",300,300,0.589431864576787,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",500,500,0.541465623162687,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",500,500,0.54276425991014,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",500,500,0.531568198483648,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",500,500,0.519385587165211,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",500,500,0.499447398610114,FALSE
+"Darmanis","DIFS","SC3","estimated",500,500,0.567653554929931,FALSE
+"Darmanis","FEAST","SC3","estimated",500,500,0.776018015041175,FALSE
+"Darmanis","GateOnly","SC3","estimated",500,500,0.500275312710698,FALSE
+"Darmanis","Seurat","SC3","estimated",500,500,0.594272706073405,FALSE
+"Darmanis","Variance","SC3","estimated",500,500,0.495199488007343,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",750,750,0.53615606265929,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",750,750,0.482508096670183,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",750,750,0.511538045194339,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",750,750,0.492130720556838,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",750,750,0.476010954709017,FALSE
+"Darmanis","DIFS","SC3","estimated",750,750,0.698081678669671,FALSE
+"Darmanis","FEAST","SC3","estimated",750,750,0.790472386636169,FALSE
+"Darmanis","GateOnly","SC3","estimated",750,750,0.509950006887016,FALSE
+"Darmanis","Seurat","SC3","estimated",750,750,0.526583562328651,FALSE
+"Darmanis","Variance","SC3","estimated",750,750,0.563166239298198,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",1000,1000,0.475845911675676,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",1000,1000,0.486167805249538,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",1000,1000,0.543272337813357,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",1000,1000,0.484142239281316,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",1000,1000,0.477469606195992,FALSE
+"Darmanis","DIFS","SC3","estimated",1000,1000,0.656151323564738,FALSE
+"Darmanis","FEAST","SC3","estimated",1000,1000,0.768365258205501,FALSE
+"Darmanis","GateOnly","SC3","estimated",1000,1000,0.485477905135267,FALSE
+"Darmanis","Seurat","SC3","estimated",1000,1000,0.53719602013023,FALSE
+"Darmanis","Variance","SC3","estimated",1000,1000,0.576155130929914,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",1500,1500,0.483625923595452,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",1500,1500,0.473977207737627,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",1500,1500,0.550576708950081,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",1500,1500,0.514337150269425,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",1500,1500,0.510406468905883,FALSE
+"Darmanis","DIFS","SC3","estimated",1500,1500,0.657980499190447,FALSE
+"Darmanis","FEAST","SC3","estimated",1500,1500,0.723809266520965,FALSE
+"Darmanis","GateOnly","SC3","estimated",1500,1500,0.523776434388685,FALSE
+"Darmanis","Seurat","SC3","estimated",1500,1500,0.542324805052238,FALSE
+"Darmanis","Variance","SC3","estimated",1500,1500,0.519953729831289,FALSE
+"Darmanis","DIFS","Refined Louvain","estimated",2500,2500,0.484489277734421,FALSE
+"Darmanis","FEAST","Refined Louvain","estimated",2500,2500,0.472061620485448,FALSE
+"Darmanis","GateOnly","Refined Louvain","estimated",2500,2346,0.503734102063668,FALSE
+"Darmanis","Seurat","Refined Louvain","estimated",2500,2500,0.532925027112093,FALSE
+"Darmanis","Variance","Refined Louvain","estimated",2500,2500,0.481050312739931,FALSE
+"Darmanis","DIFS","SC3","estimated",2500,2500,0.505328013488629,FALSE
+"Darmanis","FEAST","SC3","estimated",2500,2500,0.560231962650235,FALSE
+"Darmanis","GateOnly","SC3","estimated",2500,2346,0.535967585041038,FALSE
+"Darmanis","Seurat","SC3","estimated",2500,2500,0.555258822515821,FALSE
+"Darmanis","Variance","SC3","estimated",2500,2500,0.54171491956199,FALSE
+"Darmanis","DIFS","Refined Louvain","true",0,2346,0.584255682432126,FALSE
+"Darmanis","FEAST","Refined Louvain","true",0,2346,0.512815824914138,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",0,2346,0.59016254759346,FALSE
+"Darmanis","Seurat","Refined Louvain","true",0,2346,0.584852108019108,FALSE
+"Darmanis","Variance","Refined Louvain","true",0,2346,0.57948066090923,FALSE
+"Darmanis","DIFS","SC3","true",0,2346,0.769091764931861,FALSE
+"Darmanis","FEAST","SC3","true",0,2346,0.776597775347239,FALSE
+"Darmanis","GateOnly","SC3","true",0,2346,0.676686272409707,FALSE
+"Darmanis","Seurat","SC3","true",0,2346,0.711897381507005,FALSE
+"Darmanis","Variance","SC3","true",0,2346,0.698594216348746,FALSE
+"Darmanis","DIFS","Refined Louvain","true",100,100,0.592417297291452,FALSE
+"Darmanis","FEAST","Refined Louvain","true",100,100,0.322084510018783,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",100,100,0.451742351497557,FALSE
+"Darmanis","Seurat","Refined Louvain","true",100,100,0.518148834781166,FALSE
+"Darmanis","Variance","Refined Louvain","true",100,100,0.703553647424279,FALSE
+"Darmanis","DIFS","SC3","true",100,100,0.61235512079149,FALSE
+"Darmanis","FEAST","SC3","true",100,100,0.351968275409413,FALSE
+"Darmanis","GateOnly","SC3","true",100,100,0.597506034250334,FALSE
+"Darmanis","Seurat","SC3","true",100,100,0.540839828085809,FALSE
+"Darmanis","Variance","SC3","true",100,100,0.625379365634962,FALSE
+"Darmanis","DIFS","Refined Louvain","true",200,200,0.551532674631972,FALSE
+"Darmanis","FEAST","Refined Louvain","true",200,200,0.677817830043085,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",200,200,0.542186961545117,FALSE
+"Darmanis","Seurat","Refined Louvain","true",200,200,0.448284901171952,FALSE
+"Darmanis","Variance","Refined Louvain","true",200,200,0.693808602948704,FALSE
+"Darmanis","DIFS","SC3","true",200,200,0.677700221388436,FALSE
+"Darmanis","FEAST","SC3","true",200,200,0.658861959466479,FALSE
+"Darmanis","GateOnly","SC3","true",200,200,0.556619141148282,FALSE
+"Darmanis","Seurat","SC3","true",200,200,0.589028386191298,FALSE
+"Darmanis","Variance","SC3","true",200,200,0.641333936407425,FALSE
+"Darmanis","DIFS","Refined Louvain","true",300,300,0.624047263040861,FALSE
+"Darmanis","FEAST","Refined Louvain","true",300,300,0.707542878223658,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",300,300,0.564955654632296,FALSE
+"Darmanis","Seurat","Refined Louvain","true",300,300,0.523705022697735,FALSE
+"Darmanis","Variance","Refined Louvain","true",300,300,0.591166606314746,FALSE
+"Darmanis","DIFS","SC3","true",300,300,0.691435953039771,FALSE
+"Darmanis","FEAST","SC3","true",300,300,0.736953769012565,FALSE
+"Darmanis","GateOnly","SC3","true",300,300,0.659380233630626,FALSE
+"Darmanis","Seurat","SC3","true",300,300,0.622588939385156,FALSE
+"Darmanis","Variance","SC3","true",300,300,0.654697639377064,FALSE
+"Darmanis","DIFS","Refined Louvain","true",500,500,0.561442635113958,FALSE
+"Darmanis","FEAST","Refined Louvain","true",500,500,0.679221838986391,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",500,500,0.542026660691074,FALSE
+"Darmanis","Seurat","Refined Louvain","true",500,500,0.630710075744452,FALSE
+"Darmanis","Variance","Refined Louvain","true",500,500,0.590570237807521,FALSE
+"Darmanis","DIFS","SC3","true",500,500,0.668338434845753,FALSE
+"Darmanis","FEAST","SC3","true",500,500,0.764407224117016,FALSE
+"Darmanis","GateOnly","SC3","true",500,500,0.66622934629352,FALSE
+"Darmanis","Seurat","SC3","true",500,500,0.660211423449945,FALSE
+"Darmanis","Variance","SC3","true",500,500,0.63483882877582,FALSE
+"Darmanis","DIFS","Refined Louvain","true",750,750,0.602901512506009,FALSE
+"Darmanis","FEAST","Refined Louvain","true",750,750,0.631497015668595,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",750,750,0.518045995280441,FALSE
+"Darmanis","Seurat","Refined Louvain","true",750,750,0.62994564423788,FALSE
+"Darmanis","Variance","Refined Louvain","true",750,750,0.578857317776155,FALSE
+"Darmanis","DIFS","SC3","true",750,750,0.681207930233295,FALSE
+"Darmanis","FEAST","SC3","true",750,750,0.779914758644621,FALSE
+"Darmanis","GateOnly","SC3","true",750,750,0.636672394708821,FALSE
+"Darmanis","Seurat","SC3","true",750,750,0.670479327801618,FALSE
+"Darmanis","Variance","SC3","true",750,750,0.679552531594701,FALSE
+"Darmanis","DIFS","Refined Louvain","true",1000,1000,0.571236952169625,FALSE
+"Darmanis","FEAST","Refined Louvain","true",1000,1000,0.665502501888405,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",1000,1000,0.516325264554112,FALSE
+"Darmanis","Seurat","Refined Louvain","true",1000,1000,0.778615649321051,FALSE
+"Darmanis","Variance","Refined Louvain","true",1000,1000,0.571046244521813,FALSE
+"Darmanis","DIFS","SC3","true",1000,1000,0.675706746787175,FALSE
+"Darmanis","FEAST","SC3","true",1000,1000,0.778433212760961,FALSE
+"Darmanis","GateOnly","SC3","true",1000,1000,0.655640522796364,FALSE
+"Darmanis","Seurat","SC3","true",1000,1000,0.670845697527677,FALSE
+"Darmanis","Variance","SC3","true",1000,1000,0.697525202535493,FALSE
+"Darmanis","DIFS","Refined Louvain","true",1500,1500,0.57850918355424,FALSE
+"Darmanis","FEAST","Refined Louvain","true",1500,1500,0.598204299158464,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",1500,1500,0.575499890564582,FALSE
+"Darmanis","Seurat","Refined Louvain","true",1500,1500,0.580994967052043,FALSE
+"Darmanis","Variance","Refined Louvain","true",1500,1500,0.685300673194015,FALSE
+"Darmanis","DIFS","SC3","true",1500,1500,0.767562261650858,FALSE
+"Darmanis","FEAST","SC3","true",1500,1500,0.792754986605573,FALSE
+"Darmanis","GateOnly","SC3","true",1500,1500,0.672648415036348,FALSE
+"Darmanis","Seurat","SC3","true",1500,1500,0.657606408272537,FALSE
+"Darmanis","Variance","SC3","true",1500,1500,0.70064511917466,FALSE
+"Darmanis","DIFS","Refined Louvain","true",2500,2500,0.58575535207645,FALSE
+"Darmanis","FEAST","Refined Louvain","true",2500,2500,0.509496431028545,FALSE
+"Darmanis","GateOnly","Refined Louvain","true",2500,2346,0.59016254759346,FALSE
+"Darmanis","Seurat","Refined Louvain","true",2500,2500,0.54793747116449,FALSE
+"Darmanis","Variance","Refined Louvain","true",2500,2500,0.676463599689493,FALSE
+"Darmanis","DIFS","SC3","true",2500,2500,0.752450645486808,FALSE
+"Darmanis","FEAST","SC3","true",2500,2500,0.776597775347239,FALSE
+"Darmanis","GateOnly","SC3","true",2500,2346,0.676686272409707,FALSE
+"Darmanis","Seurat","SC3","true",2500,2500,0.767530800812928,FALSE
+"Darmanis","Variance","SC3","true",2500,2500,0.668529551286411,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",0,2918,0.778552101522591,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",0,2918,0.677174068098037,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",0,2918,0.727354424940324,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",0,2500,0.700833723341134,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",0,2918,0.724602647294261,FALSE
+"Fletcher","DIFS","SC3","estimated",0,2918,0.815658156801025,FALSE
+"Fletcher","FEAST","SC3","estimated",0,2918,0.779723910281021,FALSE
+"Fletcher","GateOnly","SC3","estimated",0,2918,0.81997292498201,FALSE
+"Fletcher","Seurat","SC3","estimated",0,2500,0.80212136619748,FALSE
+"Fletcher","Variance","SC3","estimated",0,2918,0.803907253431119,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",100,100,0.599847079604166,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",100,100,0.520813994075028,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",100,100,0.366799728627543,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",100,100,0.607162848362218,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",100,100,0.544640006561669,FALSE
+"Fletcher","DIFS","SC3","estimated",100,100,0.727032393290053,FALSE
+"Fletcher","FEAST","SC3","estimated",100,100,0.480426481208564,FALSE
+"Fletcher","GateOnly","SC3","estimated",100,100,0.423759364711427,FALSE
+"Fletcher","Seurat","SC3","estimated",100,100,0.618464468008244,FALSE
+"Fletcher","Variance","SC3","estimated",100,100,0.616946514678888,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",200,200,0.684678578787136,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",200,200,0.639855574249472,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",200,200,0.421276282772034,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",200,200,0.5864931833935,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",200,200,0.643585979335022,FALSE
+"Fletcher","DIFS","SC3","estimated",200,200,0.744141073848901,FALSE
+"Fletcher","FEAST","SC3","estimated",200,200,0.631762376599069,FALSE
+"Fletcher","GateOnly","SC3","estimated",200,200,0.547081486018012,FALSE
+"Fletcher","Seurat","SC3","estimated",200,200,0.638464813631726,FALSE
+"Fletcher","Variance","SC3","estimated",200,200,0.711829690451829,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",300,300,0.810343468404158,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",300,300,0.744904561334752,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",300,300,0.53977555361236,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",300,300,0.595999953685078,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",300,300,0.66456718714863,FALSE
+"Fletcher","DIFS","SC3","estimated",300,300,0.779151201080371,FALSE
+"Fletcher","FEAST","SC3","estimated",300,300,0.738693321244756,FALSE
+"Fletcher","GateOnly","SC3","estimated",300,300,0.647256177196154,FALSE
+"Fletcher","Seurat","SC3","estimated",300,300,0.711499762254163,FALSE
+"Fletcher","Variance","SC3","estimated",300,300,0.752174590492862,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",500,500,0.76244876998914,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",500,500,0.787916924133268,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",500,500,0.575260791283655,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",500,500,0.607710918526411,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",500,500,0.661440763882473,FALSE
+"Fletcher","DIFS","SC3","estimated",500,500,0.783965109956336,FALSE
+"Fletcher","FEAST","SC3","estimated",500,500,0.757867817247777,FALSE
+"Fletcher","GateOnly","SC3","estimated",500,500,0.733705156946177,FALSE
+"Fletcher","Seurat","SC3","estimated",500,500,0.721715321696203,FALSE
+"Fletcher","Variance","SC3","estimated",500,500,0.747372745579669,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",750,750,0.826519941877969,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",750,750,0.680076995816755,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",750,750,0.571324665500762,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",750,750,0.581306431556735,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",750,750,0.669275793988558,FALSE
+"Fletcher","DIFS","SC3","estimated",750,750,0.780157801079984,FALSE
+"Fletcher","FEAST","SC3","estimated",750,750,0.786994610454621,FALSE
+"Fletcher","GateOnly","SC3","estimated",750,750,0.775631735352367,FALSE
+"Fletcher","Seurat","SC3","estimated",750,750,0.733513511660699,FALSE
+"Fletcher","Variance","SC3","estimated",750,750,0.77959728552974,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",1000,1000,0.76848180531742,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",1000,1000,0.736759135902271,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",1000,1000,0.692822355180252,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",1000,1000,0.616062619323389,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",1000,1000,0.701104045099369,FALSE
+"Fletcher","DIFS","SC3","estimated",1000,1000,0.795992025176235,FALSE
+"Fletcher","FEAST","SC3","estimated",1000,1000,0.789974158346343,FALSE
+"Fletcher","GateOnly","SC3","estimated",1000,1000,0.76679811982429,FALSE
+"Fletcher","Seurat","SC3","estimated",1000,1000,0.776514113680624,FALSE
+"Fletcher","Variance","SC3","estimated",1000,1000,0.820013893423277,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",1500,1500,0.716541019475945,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",1500,1500,0.725397678235196,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",1500,1500,0.700411765963684,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",1500,1500,0.618995971485746,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",1500,1500,0.69427257287575,FALSE
+"Fletcher","DIFS","SC3","estimated",1500,1500,0.811405947908542,FALSE
+"Fletcher","FEAST","SC3","estimated",1500,1500,0.760016455655934,FALSE
+"Fletcher","GateOnly","SC3","estimated",1500,1500,0.79977060160316,FALSE
+"Fletcher","Seurat","SC3","estimated",1500,1500,0.735942567515228,FALSE
+"Fletcher","Variance","SC3","estimated",1500,1500,0.781794457553829,FALSE
+"Fletcher","DIFS","Refined Louvain","estimated",2500,2500,0.772681324016529,FALSE
+"Fletcher","FEAST","Refined Louvain","estimated",2500,2500,0.672969592200707,FALSE
+"Fletcher","GateOnly","Refined Louvain","estimated",2500,2500,0.677125273751534,FALSE
+"Fletcher","Seurat","Refined Louvain","estimated",2500,2500,0.700833723341134,FALSE
+"Fletcher","Variance","Refined Louvain","estimated",2500,2500,0.706921549160152,FALSE
+"Fletcher","DIFS","SC3","estimated",2500,2500,0.828053135225871,FALSE
+"Fletcher","FEAST","SC3","estimated",2500,2500,0.789241022590929,FALSE
+"Fletcher","GateOnly","SC3","estimated",2500,2500,0.8146912887745,FALSE
+"Fletcher","Seurat","SC3","estimated",2500,2500,0.80212136619748,FALSE
+"Fletcher","Variance","SC3","estimated",2500,2500,0.807818569126952,FALSE
+"Fletcher","DIFS","Refined Louvain","true",0,2918,0.778552101522591,FALSE
+"Fletcher","FEAST","Refined Louvain","true",0,2918,0.677174068098037,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",0,2918,0.727354424940324,FALSE
+"Fletcher","Seurat","Refined Louvain","true",0,2500,0.700833723341134,FALSE
+"Fletcher","Variance","Refined Louvain","true",0,2918,0.724602647294261,FALSE
+"Fletcher","DIFS","SC3","true",0,2918,0.815658156801025,FALSE
+"Fletcher","FEAST","SC3","true",0,2918,0.779723910281021,FALSE
+"Fletcher","GateOnly","SC3","true",0,2918,0.81997292498201,FALSE
+"Fletcher","Seurat","SC3","true",0,2500,0.80212136619748,FALSE
+"Fletcher","Variance","SC3","true",0,2918,0.803907253431119,FALSE
+"Fletcher","DIFS","Refined Louvain","true",100,100,0.599847079604166,FALSE
+"Fletcher","FEAST","Refined Louvain","true",100,100,0.520813994075028,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",100,100,0.366799728627543,FALSE
+"Fletcher","Seurat","Refined Louvain","true",100,100,0.607162848362218,FALSE
+"Fletcher","Variance","Refined Louvain","true",100,100,0.544640006561669,FALSE
+"Fletcher","DIFS","SC3","true",100,100,0.727032393290053,FALSE
+"Fletcher","FEAST","SC3","true",100,100,0.480426481208564,FALSE
+"Fletcher","GateOnly","SC3","true",100,100,0.423759364711427,FALSE
+"Fletcher","Seurat","SC3","true",100,100,0.618464468008244,FALSE
+"Fletcher","Variance","SC3","true",100,100,0.616946514678888,FALSE
+"Fletcher","DIFS","Refined Louvain","true",200,200,0.684678578787136,FALSE
+"Fletcher","FEAST","Refined Louvain","true",200,200,0.639855574249472,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",200,200,0.421276282772034,FALSE
+"Fletcher","Seurat","Refined Louvain","true",200,200,0.5864931833935,FALSE
+"Fletcher","Variance","Refined Louvain","true",200,200,0.643585979335022,FALSE
+"Fletcher","DIFS","SC3","true",200,200,0.744141073848901,FALSE
+"Fletcher","FEAST","SC3","true",200,200,0.631762376599069,FALSE
+"Fletcher","GateOnly","SC3","true",200,200,0.547081486018012,FALSE
+"Fletcher","Seurat","SC3","true",200,200,0.638464813631726,FALSE
+"Fletcher","Variance","SC3","true",200,200,0.711829690451829,FALSE
+"Fletcher","DIFS","Refined Louvain","true",300,300,0.810343468404158,FALSE
+"Fletcher","FEAST","Refined Louvain","true",300,300,0.744904561334752,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",300,300,0.53977555361236,FALSE
+"Fletcher","Seurat","Refined Louvain","true",300,300,0.595999953685078,FALSE
+"Fletcher","Variance","Refined Louvain","true",300,300,0.66456718714863,FALSE
+"Fletcher","DIFS","SC3","true",300,300,0.779151201080371,FALSE
+"Fletcher","FEAST","SC3","true",300,300,0.738693321244756,FALSE
+"Fletcher","GateOnly","SC3","true",300,300,0.647256177196154,FALSE
+"Fletcher","Seurat","SC3","true",300,300,0.711499762254163,FALSE
+"Fletcher","Variance","SC3","true",300,300,0.752174590492862,FALSE
+"Fletcher","DIFS","Refined Louvain","true",500,500,0.76244876998914,FALSE
+"Fletcher","FEAST","Refined Louvain","true",500,500,0.787916924133268,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",500,500,0.575260791283655,FALSE
+"Fletcher","Seurat","Refined Louvain","true",500,500,0.607710918526411,FALSE
+"Fletcher","Variance","Refined Louvain","true",500,500,0.661440763882473,FALSE
+"Fletcher","DIFS","SC3","true",500,500,0.783965109956336,FALSE
+"Fletcher","FEAST","SC3","true",500,500,0.757867817247777,FALSE
+"Fletcher","GateOnly","SC3","true",500,500,0.733705156946177,FALSE
+"Fletcher","Seurat","SC3","true",500,500,0.721715321696203,FALSE
+"Fletcher","Variance","SC3","true",500,500,0.747372745579669,FALSE
+"Fletcher","DIFS","Refined Louvain","true",750,750,0.826519941877969,FALSE
+"Fletcher","FEAST","Refined Louvain","true",750,750,0.680076995816755,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",750,750,0.571324665500762,FALSE
+"Fletcher","Seurat","Refined Louvain","true",750,750,0.581306431556735,FALSE
+"Fletcher","Variance","Refined Louvain","true",750,750,0.669275793988558,FALSE
+"Fletcher","DIFS","SC3","true",750,750,0.780157801079984,FALSE
+"Fletcher","FEAST","SC3","true",750,750,0.786994610454621,FALSE
+"Fletcher","GateOnly","SC3","true",750,750,0.775631735352367,FALSE
+"Fletcher","Seurat","SC3","true",750,750,0.733513511660699,FALSE
+"Fletcher","Variance","SC3","true",750,750,0.77959728552974,FALSE
+"Fletcher","DIFS","Refined Louvain","true",1000,1000,0.76848180531742,FALSE
+"Fletcher","FEAST","Refined Louvain","true",1000,1000,0.736759135902271,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",1000,1000,0.692822355180252,FALSE
+"Fletcher","Seurat","Refined Louvain","true",1000,1000,0.616062619323389,FALSE
+"Fletcher","Variance","Refined Louvain","true",1000,1000,0.701104045099369,FALSE
+"Fletcher","DIFS","SC3","true",1000,1000,0.795992025176235,FALSE
+"Fletcher","FEAST","SC3","true",1000,1000,0.789974158346343,FALSE
+"Fletcher","GateOnly","SC3","true",1000,1000,0.76679811982429,FALSE
+"Fletcher","Seurat","SC3","true",1000,1000,0.776514113680624,FALSE
+"Fletcher","Variance","SC3","true",1000,1000,0.820013893423277,FALSE
+"Fletcher","DIFS","Refined Louvain","true",1500,1500,0.716541019475945,FALSE
+"Fletcher","FEAST","Refined Louvain","true",1500,1500,0.725397678235196,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",1500,1500,0.700411765963684,FALSE
+"Fletcher","Seurat","Refined Louvain","true",1500,1500,0.618995971485746,FALSE
+"Fletcher","Variance","Refined Louvain","true",1500,1500,0.69427257287575,FALSE
+"Fletcher","DIFS","SC3","true",1500,1500,0.811405947908542,FALSE
+"Fletcher","FEAST","SC3","true",1500,1500,0.760016455655934,FALSE
+"Fletcher","GateOnly","SC3","true",1500,1500,0.79977060160316,FALSE
+"Fletcher","Seurat","SC3","true",1500,1500,0.735942567515228,FALSE
+"Fletcher","Variance","SC3","true",1500,1500,0.781794457553829,FALSE
+"Fletcher","DIFS","Refined Louvain","true",2500,2500,0.772681324016529,FALSE
+"Fletcher","FEAST","Refined Louvain","true",2500,2500,0.672969592200707,FALSE
+"Fletcher","GateOnly","Refined Louvain","true",2500,2500,0.677125273751534,FALSE
+"Fletcher","Seurat","Refined Louvain","true",2500,2500,0.700833723341134,FALSE
+"Fletcher","Variance","Refined Louvain","true",2500,2500,0.706921549160152,FALSE
+"Fletcher","DIFS","SC3","true",2500,2500,0.828053135225871,FALSE
+"Fletcher","FEAST","SC3","true",2500,2500,0.789241022590929,FALSE
+"Fletcher","GateOnly","SC3","true",2500,2500,0.8146912887745,FALSE
+"Fletcher","Seurat","SC3","true",2500,2500,0.80212136619748,FALSE
+"Fletcher","Variance","SC3","true",2500,2500,0.807818569126952,FALSE
+"Koh","DIFS","Refined Louvain","estimated",0,1156,0.822714210114876,FALSE
+"Koh","FEAST","Refined Louvain","estimated",0,1156,0.837382969646991,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",0,1156,0.749906199275283,FALSE
+"Koh","Seurat","Refined Louvain","estimated",0,1156,0.845458153104473,FALSE
+"Koh","Variance","Refined Louvain","estimated",0,1156,0.848616732897112,FALSE
+"Koh","DIFS","SC3","estimated",0,1156,0.783486952127683,FALSE
+"Koh","FEAST","SC3","estimated",0,1156,0.832029465002324,FALSE
+"Koh","GateOnly","SC3","estimated",0,1156,0.849476900918174,FALSE
+"Koh","Seurat","SC3","estimated",0,1156,0.836284296934748,FALSE
+"Koh","Variance","SC3","estimated",0,1156,0.849476900918174,FALSE
+"Koh","DIFS","Refined Louvain","estimated",100,100,0.770073024258487,FALSE
+"Koh","FEAST","Refined Louvain","estimated",100,100,0.783633981920498,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",100,100,0.718364627001586,FALSE
+"Koh","Seurat","Refined Louvain","estimated",100,100,0.716718493629891,FALSE
+"Koh","Variance","Refined Louvain","estimated",100,100,0.841817672326992,FALSE
+"Koh","DIFS","SC3","estimated",100,100,0.783486952127683,FALSE
+"Koh","FEAST","SC3","estimated",100,100,0.829572399170042,FALSE
+"Koh","GateOnly","SC3","estimated",100,100,0.735797438612367,FALSE
+"Koh","Seurat","SC3","estimated",100,100,0.754411044713331,FALSE
+"Koh","Variance","SC3","estimated",100,100,0.838235890120928,FALSE
+"Koh","DIFS","Refined Louvain","estimated",200,200,0.764601976107804,FALSE
+"Koh","FEAST","Refined Louvain","estimated",200,200,0.836662755186261,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",200,200,0.713753047111605,FALSE
+"Koh","Seurat","Refined Louvain","estimated",200,200,0.720254021259971,FALSE
+"Koh","Variance","Refined Louvain","estimated",200,200,0.849476900918174,FALSE
+"Koh","DIFS","SC3","estimated",200,200,0.77836001245926,FALSE
+"Koh","FEAST","SC3","estimated",200,200,0.837094056041326,FALSE
+"Koh","GateOnly","SC3","estimated",200,200,0.841368904354593,FALSE
+"Koh","Seurat","SC3","estimated",200,200,0.774502742463413,FALSE
+"Koh","Variance","SC3","estimated",200,200,0.773879273861452,FALSE
+"Koh","DIFS","Refined Louvain","estimated",300,300,0.838239064708374,FALSE
+"Koh","FEAST","Refined Louvain","estimated",300,300,0.833021255402306,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",300,300,0.811233096491016,FALSE
+"Koh","Seurat","Refined Louvain","estimated",300,300,0.745067910468507,FALSE
+"Koh","Variance","Refined Louvain","estimated",300,300,0.841314832210465,FALSE
+"Koh","DIFS","SC3","estimated",300,300,0.779725682584503,FALSE
+"Koh","FEAST","SC3","estimated",300,300,0.845458153104473,FALSE
+"Koh","GateOnly","SC3","estimated",300,300,0.837380582230488,FALSE
+"Koh","Seurat","SC3","estimated",300,300,0.763305395399851,FALSE
+"Koh","Variance","SC3","estimated",300,300,0.779725682584503,FALSE
+"Koh","DIFS","Refined Louvain","estimated",500,500,0.822360122100095,FALSE
+"Koh","FEAST","Refined Louvain","estimated",500,500,0.833021255402306,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",500,500,0.724121605745934,FALSE
+"Koh","Seurat","Refined Louvain","estimated",500,500,0.765848435159738,FALSE
+"Koh","Variance","Refined Louvain","estimated",500,500,0.76649754209086,FALSE
+"Koh","DIFS","SC3","estimated",500,500,0.783486952127683,FALSE
+"Koh","FEAST","SC3","estimated",500,500,0.845458153104473,FALSE
+"Koh","GateOnly","SC3","estimated",500,500,0.779296388360247,FALSE
+"Koh","Seurat","SC3","estimated",500,500,0.767142179817361,FALSE
+"Koh","Variance","SC3","estimated",500,500,0.841806131234007,FALSE
+"Koh","DIFS","Refined Louvain","estimated",750,750,0.828107947892285,FALSE
+"Koh","FEAST","Refined Louvain","estimated",750,750,0.816319308421706,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",750,750,0.743375888013535,FALSE
+"Koh","Seurat","Refined Louvain","estimated",750,750,0.841506629321477,FALSE
+"Koh","Variance","Refined Louvain","estimated",750,750,0.770485860942133,FALSE
+"Koh","DIFS","SC3","estimated",750,750,0.77969641797366,FALSE
+"Koh","FEAST","SC3","estimated",750,750,0.845008514857132,FALSE
+"Koh","GateOnly","SC3","estimated",750,750,0.779296388360247,FALSE
+"Koh","Seurat","SC3","estimated",750,750,0.766033956770033,FALSE
+"Koh","Variance","SC3","estimated",750,750,0.767142179817361,FALSE
+"Koh","DIFS","Refined Louvain","estimated",1000,1000,0.842304788379669,FALSE
+"Koh","FEAST","Refined Louvain","estimated",1000,1000,0.839821535562385,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",1000,1000,0.743248530898194,FALSE
+"Koh","Seurat","Refined Louvain","estimated",1000,1000,0.845458153104473,FALSE
+"Koh","Variance","Refined Louvain","estimated",1000,1000,0.84102493739424,FALSE
+"Koh","DIFS","SC3","estimated",1000,1000,0.783486952127683,FALSE
+"Koh","FEAST","SC3","estimated",1000,1000,0.832029465002324,FALSE
+"Koh","GateOnly","SC3","estimated",1000,1000,0.783486952127683,FALSE
+"Koh","Seurat","SC3","estimated",1000,1000,0.849476900918174,FALSE
+"Koh","Variance","SC3","estimated",1000,1000,0.783486952127683,FALSE
+"Koh","DIFS","Refined Louvain","estimated",1500,1500,0.837295760446963,FALSE
+"Koh","FEAST","Refined Louvain","estimated",1500,1500,0.839821535562385,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",1500,1156,0.749906199275283,FALSE
+"Koh","Seurat","Refined Louvain","estimated",1500,1500,0.845458153104473,FALSE
+"Koh","Variance","Refined Louvain","estimated",1500,1500,0.770485860942133,FALSE
+"Koh","DIFS","SC3","estimated",1500,1500,0.783486952127683,FALSE
+"Koh","FEAST","SC3","estimated",1500,1500,0.832029465002324,FALSE
+"Koh","GateOnly","SC3","estimated",1500,1156,0.849476900918174,FALSE
+"Koh","Seurat","SC3","estimated",1500,1500,0.836284296934748,FALSE
+"Koh","Variance","SC3","estimated",1500,1500,0.771123564342529,FALSE
+"Koh","DIFS","Refined Louvain","estimated",2500,1742,0.857436692033755,FALSE
+"Koh","FEAST","Refined Louvain","estimated",2500,2500,0.839821535562385,FALSE
+"Koh","GateOnly","Refined Louvain","estimated",2500,1156,0.749906199275283,FALSE
+"Koh","Seurat","Refined Louvain","estimated",2500,2500,0.845458153104473,FALSE
+"Koh","Variance","Refined Louvain","estimated",2500,2500,0.781417295591443,FALSE
+"Koh","DIFS","SC3","estimated",2500,1742,0.783486952127683,FALSE
+"Koh","FEAST","SC3","estimated",2500,2500,0.845008514857132,FALSE
+"Koh","GateOnly","SC3","estimated",2500,1156,0.849476900918174,FALSE
+"Koh","Seurat","SC3","estimated",2500,2500,0.836284296934748,FALSE
+"Koh","Variance","SC3","estimated",2500,2500,0.845008514857132,FALSE
+"Koh","DIFS","Refined Louvain","true",0,1156,0.983050928179305,FALSE
+"Koh","FEAST","Refined Louvain","true",0,1156,0.98157072669904,FALSE
+"Koh","GateOnly","Refined Louvain","true",0,1156,0.958602255243004,FALSE
+"Koh","Seurat","Refined Louvain","true",0,1156,0.942859322528809,FALSE
+"Koh","Variance","Refined Louvain","true",0,1156,0.987522198443937,FALSE
+"Koh","DIFS","SC3","true",0,1156,0.943896297199487,FALSE
+"Koh","FEAST","SC3","true",0,1156,0.98684574817232,FALSE
+"Koh","GateOnly","SC3","true",0,1156,0.946647501377554,FALSE
+"Koh","Seurat","SC3","true",0,1156,0.93801587567886,FALSE
+"Koh","Variance","SC3","true",0,1156,0.995629509752225,FALSE
+"Koh","DIFS","Refined Louvain","true",100,100,0.988345058506465,FALSE
+"Koh","FEAST","Refined Louvain","true",100,100,0.882853926162881,FALSE
+"Koh","GateOnly","Refined Louvain","true",100,100,0.788973694068792,FALSE
+"Koh","Seurat","Refined Louvain","true",100,100,0.863811983504561,FALSE
+"Koh","Variance","Refined Louvain","true",100,100,0.875957710562966,FALSE
+"Koh","DIFS","SC3","true",100,100,0.989006212452603,FALSE
+"Koh","FEAST","SC3","true",100,100,0.900816352371141,FALSE
+"Koh","GateOnly","SC3","true",100,100,0.855256599949188,FALSE
+"Koh","Seurat","SC3","true",100,100,0.905194799377356,FALSE
+"Koh","Variance","SC3","true",100,100,0.937279523797944,FALSE
+"Koh","DIFS","Refined Louvain","true",200,200,0.982649527493714,FALSE
+"Koh","FEAST","Refined Louvain","true",200,200,0.956436728177345,FALSE
+"Koh","GateOnly","Refined Louvain","true",200,200,0.921643749801497,FALSE
+"Koh","Seurat","Refined Louvain","true",200,200,0.936090204988453,FALSE
+"Koh","Variance","Refined Louvain","true",200,200,0.995702593593863,FALSE
+"Koh","DIFS","SC3","true",200,200,0.936965570126625,FALSE
+"Koh","FEAST","SC3","true",200,200,0.986807148568613,FALSE
+"Koh","GateOnly","SC3","true",200,200,0.907404785717525,FALSE
+"Koh","Seurat","SC3","true",200,200,0.9029294402314,FALSE
+"Koh","Variance","SC3","true",200,200,0.937147210294919,FALSE
+"Koh","DIFS","Refined Louvain","true",300,300,0.978647478157131,FALSE
+"Koh","FEAST","Refined Louvain","true",300,300,0.978694456342323,FALSE
+"Koh","GateOnly","Refined Louvain","true",300,300,0.945616904615052,FALSE
+"Koh","Seurat","Refined Louvain","true",300,300,0.916122838113421,FALSE
+"Koh","Variance","Refined Louvain","true",300,300,0.968943639852103,FALSE
+"Koh","DIFS","SC3","true",300,300,0.948734916664746,FALSE
+"Koh","FEAST","SC3","true",300,300,0.95081842219113,FALSE
+"Koh","GateOnly","SC3","true",300,300,0.92905202597839,FALSE
+"Koh","Seurat","SC3","true",300,300,0.937469886878348,FALSE
+"Koh","Variance","SC3","true",300,300,0.952517006041776,FALSE
+"Koh","DIFS","Refined Louvain","true",500,500,0.970108852888862,FALSE
+"Koh","FEAST","Refined Louvain","true",500,500,0.987222709716265,FALSE
+"Koh","GateOnly","Refined Louvain","true",500,500,0.95135484246073,FALSE
+"Koh","Seurat","Refined Louvain","true",500,500,0.923167886314576,FALSE
+"Koh","Variance","Refined Louvain","true",500,500,0.978514125789098,FALSE
+"Koh","DIFS","SC3","true",500,500,0.933959342976559,FALSE
+"Koh","FEAST","SC3","true",500,500,0.995629509752225,FALSE
+"Koh","GateOnly","SC3","true",500,500,0.939787040252692,FALSE
+"Koh","Seurat","SC3","true",500,500,0.940995485463235,FALSE
+"Koh","Variance","SC3","true",500,500,0.99304890587493,FALSE
+"Koh","DIFS","Refined Louvain","true",750,750,0.987391193085843,FALSE
+"Koh","FEAST","Refined Louvain","true",750,750,0.977301343984057,FALSE
+"Koh","GateOnly","Refined Louvain","true",750,750,0.950090079575188,FALSE
+"Koh","Seurat","Refined Louvain","true",750,750,0.971805969005767,FALSE
+"Koh","Variance","Refined Louvain","true",750,750,0.986924096576624,FALSE
+"Koh","DIFS","SC3","true",750,750,0.939629654142972,FALSE
+"Koh","FEAST","SC3","true",750,750,0.995629509752225,FALSE
+"Koh","GateOnly","SC3","true",750,750,0.948734916664746,FALSE
+"Koh","Seurat","SC3","true",750,750,0.93550562151292,FALSE
+"Koh","Variance","SC3","true",750,750,0.946647501377554,FALSE
+"Koh","DIFS","Refined Louvain","true",1000,1000,0.983050928179305,FALSE
+"Koh","FEAST","Refined Louvain","true",1000,1000,0.98845891440728,FALSE
+"Koh","GateOnly","Refined Louvain","true",1000,1000,0.951126630813803,FALSE
+"Koh","Seurat","Refined Louvain","true",1000,1000,0.913801263348824,FALSE
+"Koh","Variance","Refined Louvain","true",1000,1000,0.986835720532733,FALSE
+"Koh","DIFS","SC3","true",1000,1000,0.943896297199487,FALSE
+"Koh","FEAST","SC3","true",1000,1000,0.991326107381781,FALSE
+"Koh","GateOnly","SC3","true",1000,1000,0.948734916664746,FALSE
+"Koh","Seurat","SC3","true",1000,1000,0.932580667132444,FALSE
+"Koh","Variance","SC3","true",1000,1000,0.949017812166923,FALSE
+"Koh","DIFS","Refined Louvain","true",1500,1500,0.987391193085843,FALSE
+"Koh","FEAST","Refined Louvain","true",1500,1500,0.987222709716265,FALSE
+"Koh","GateOnly","Refined Louvain","true",1500,1156,0.958602255243004,FALSE
+"Koh","Seurat","Refined Louvain","true",1500,1500,0.93891456880963,FALSE
+"Koh","Variance","Refined Louvain","true",1500,1500,0.991168322267704,FALSE
+"Koh","DIFS","SC3","true",1500,1500,0.943896297199487,FALSE
+"Koh","FEAST","SC3","true",1500,1500,0.98292327390788,FALSE
+"Koh","GateOnly","SC3","true",1500,1156,0.946647501377554,FALSE
+"Koh","Seurat","SC3","true",1500,1500,0.926438518484206,FALSE
+"Koh","Variance","SC3","true",1500,1500,0.941723335692921,FALSE
+"Koh","DIFS","Refined Louvain","true",2500,1909,0.983707195284736,FALSE
+"Koh","FEAST","Refined Louvain","true",2500,2500,0.98318565227235,FALSE
+"Koh","GateOnly","Refined Louvain","true",2500,1156,0.958602255243004,FALSE
+"Koh","Seurat","Refined Louvain","true",2500,2500,0.988372071403737,FALSE
+"Koh","Variance","Refined Louvain","true",2500,2500,0.991773586154419,FALSE
+"Koh","DIFS","SC3","true",2500,1909,0.943896297199487,FALSE
+"Koh","FEAST","SC3","true",2500,2500,0.98292327390788,FALSE
+"Koh","GateOnly","SC3","true",2500,1156,0.946647501377554,FALSE
+"Koh","Seurat","SC3","true",2500,2500,0.929437822973861,FALSE
+"Koh","Variance","SC3","true",2500,2500,0.943896297199487,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",0,453,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",0,453,0.975764779664105,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",0,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",0,453,0.950225438730545,FALSE
+"Kumar","Variance","Refined Louvain","estimated",0,453,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","estimated",0,453,1,FALSE
+"Kumar","FEAST","SC3","estimated",0,453,1,FALSE
+"Kumar","GateOnly","SC3","estimated",0,453,1,FALSE
+"Kumar","Seurat","SC3","estimated",0,453,1,FALSE
+"Kumar","Variance","SC3","estimated",0,453,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",100,100,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",100,100,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",100,100,0.988771468816226,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",100,100,0.949211345705182,FALSE
+"Kumar","Variance","Refined Louvain","estimated",100,100,0.977700915968083,FALSE
+"Kumar","DIFS","SC3","estimated",100,100,1,FALSE
+"Kumar","FEAST","SC3","estimated",100,100,0.973980591663917,FALSE
+"Kumar","GateOnly","SC3","estimated",100,100,1,FALSE
+"Kumar","Seurat","SC3","estimated",100,100,0.974806339315736,FALSE
+"Kumar","Variance","SC3","estimated",100,100,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",200,200,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",200,200,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",200,200,0.988771468816226,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",200,200,0.950076857950636,FALSE
+"Kumar","Variance","Refined Louvain","estimated",200,200,0.977700915968083,FALSE
+"Kumar","DIFS","SC3","estimated",200,200,1,FALSE
+"Kumar","FEAST","SC3","estimated",200,200,1,FALSE
+"Kumar","GateOnly","SC3","estimated",200,200,1,FALSE
+"Kumar","Seurat","SC3","estimated",200,200,1,FALSE
+"Kumar","Variance","SC3","estimated",200,200,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",300,300,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",300,300,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",300,300,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",300,300,0.961814739563433,FALSE
+"Kumar","Variance","Refined Louvain","estimated",300,300,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","estimated",300,300,1,FALSE
+"Kumar","FEAST","SC3","estimated",300,300,1,FALSE
+"Kumar","GateOnly","SC3","estimated",300,300,1,FALSE
+"Kumar","Seurat","SC3","estimated",300,300,1,FALSE
+"Kumar","Variance","SC3","estimated",300,300,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",500,500,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",500,500,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",500,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",500,500,0.950225438730545,FALSE
+"Kumar","Variance","Refined Louvain","estimated",500,500,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","estimated",500,500,1,FALSE
+"Kumar","FEAST","SC3","estimated",500,500,1,FALSE
+"Kumar","GateOnly","SC3","estimated",500,453,1,FALSE
+"Kumar","Seurat","SC3","estimated",500,500,1,FALSE
+"Kumar","Variance","SC3","estimated",500,500,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",750,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",750,750,0.975764779664105,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",750,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",750,750,0.963746289702248,FALSE
+"Kumar","Variance","Refined Louvain","estimated",750,750,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","estimated",750,697,1,FALSE
+"Kumar","FEAST","SC3","estimated",750,750,1,FALSE
+"Kumar","GateOnly","SC3","estimated",750,453,1,FALSE
+"Kumar","Seurat","SC3","estimated",750,750,1,FALSE
+"Kumar","Variance","SC3","estimated",750,750,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",1000,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",1000,1000,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",1000,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",1000,1000,0.975764779664105,FALSE
+"Kumar","Variance","Refined Louvain","estimated",1000,1000,0.988771468816226,FALSE
+"Kumar","DIFS","SC3","estimated",1000,697,1,FALSE
+"Kumar","FEAST","SC3","estimated",1000,1000,1,FALSE
+"Kumar","GateOnly","SC3","estimated",1000,453,1,FALSE
+"Kumar","Seurat","SC3","estimated",1000,1000,1,FALSE
+"Kumar","Variance","SC3","estimated",1000,1000,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",1500,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",1500,1500,0.988771468816226,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",1500,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",1500,1500,0.975764779664105,FALSE
+"Kumar","Variance","Refined Louvain","estimated",1500,1500,1,FALSE
+"Kumar","DIFS","SC3","estimated",1500,697,1,FALSE
+"Kumar","FEAST","SC3","estimated",1500,1500,1,FALSE
+"Kumar","GateOnly","SC3","estimated",1500,453,1,FALSE
+"Kumar","Seurat","SC3","estimated",1500,1500,1,FALSE
+"Kumar","Variance","SC3","estimated",1500,1500,1,FALSE
+"Kumar","DIFS","Refined Louvain","estimated",2500,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","estimated",2500,2500,1,FALSE
+"Kumar","GateOnly","Refined Louvain","estimated",2500,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","estimated",2500,2500,0.988771468816226,FALSE
+"Kumar","Variance","Refined Louvain","estimated",2500,2500,1,FALSE
+"Kumar","DIFS","SC3","estimated",2500,697,1,FALSE
+"Kumar","FEAST","SC3","estimated",2500,2500,1,FALSE
+"Kumar","GateOnly","SC3","estimated",2500,453,1,FALSE
+"Kumar","Seurat","SC3","estimated",2500,2500,1,FALSE
+"Kumar","Variance","SC3","estimated",2500,2500,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",0,453,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","true",0,453,0.975764779664105,FALSE
+"Kumar","GateOnly","Refined Louvain","true",0,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","true",0,453,0.950225438730545,FALSE
+"Kumar","Variance","Refined Louvain","true",0,453,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","true",0,453,1,FALSE
+"Kumar","FEAST","SC3","true",0,453,1,FALSE
+"Kumar","GateOnly","SC3","true",0,453,1,FALSE
+"Kumar","Seurat","SC3","true",0,453,1,FALSE
+"Kumar","Variance","SC3","true",0,453,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",100,100,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","true",100,100,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","true",100,100,0.988771468816226,FALSE
+"Kumar","Seurat","Refined Louvain","true",100,100,0.949211345705182,FALSE
+"Kumar","Variance","Refined Louvain","true",100,100,0.977700915968083,FALSE
+"Kumar","DIFS","SC3","true",100,100,1,FALSE
+"Kumar","FEAST","SC3","true",100,100,0.973980591663917,FALSE
+"Kumar","GateOnly","SC3","true",100,100,1,FALSE
+"Kumar","Seurat","SC3","true",100,100,0.974806339315736,FALSE
+"Kumar","Variance","SC3","true",100,100,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",200,200,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","true",200,200,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","true",200,200,0.988771468816226,FALSE
+"Kumar","Seurat","Refined Louvain","true",200,200,0.950076857950636,FALSE
+"Kumar","Variance","Refined Louvain","true",200,200,0.977700915968083,FALSE
+"Kumar","DIFS","SC3","true",200,200,1,FALSE
+"Kumar","FEAST","SC3","true",200,200,1,FALSE
+"Kumar","GateOnly","SC3","true",200,200,1,FALSE
+"Kumar","Seurat","SC3","true",200,200,1,FALSE
+"Kumar","Variance","SC3","true",200,200,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",300,300,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","true",300,300,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","true",300,300,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","true",300,300,0.961814739563433,FALSE
+"Kumar","Variance","Refined Louvain","true",300,300,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","true",300,300,1,FALSE
+"Kumar","FEAST","SC3","true",300,300,1,FALSE
+"Kumar","GateOnly","SC3","true",300,300,1,FALSE
+"Kumar","Seurat","SC3","true",300,300,1,FALSE
+"Kumar","Variance","SC3","true",300,300,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",500,500,0.988771468816226,FALSE
+"Kumar","FEAST","Refined Louvain","true",500,500,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","true",500,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","true",500,500,0.950225438730545,FALSE
+"Kumar","Variance","Refined Louvain","true",500,500,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","true",500,500,1,FALSE
+"Kumar","FEAST","SC3","true",500,500,1,FALSE
+"Kumar","GateOnly","SC3","true",500,453,1,FALSE
+"Kumar","Seurat","SC3","true",500,500,1,FALSE
+"Kumar","Variance","SC3","true",500,500,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",750,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","true",750,750,0.975764779664105,FALSE
+"Kumar","GateOnly","Refined Louvain","true",750,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","true",750,750,0.963746289702248,FALSE
+"Kumar","Variance","Refined Louvain","true",750,750,0.976814611412101,FALSE
+"Kumar","DIFS","SC3","true",750,697,1,FALSE
+"Kumar","FEAST","SC3","true",750,750,1,FALSE
+"Kumar","GateOnly","SC3","true",750,453,1,FALSE
+"Kumar","Seurat","SC3","true",750,750,1,FALSE
+"Kumar","Variance","SC3","true",750,750,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",1000,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","true",1000,1000,0.986911481731239,FALSE
+"Kumar","GateOnly","Refined Louvain","true",1000,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","true",1000,1000,0.975764779664105,FALSE
+"Kumar","Variance","Refined Louvain","true",1000,1000,0.988771468816226,FALSE
+"Kumar","DIFS","SC3","true",1000,697,1,FALSE
+"Kumar","FEAST","SC3","true",1000,1000,1,FALSE
+"Kumar","GateOnly","SC3","true",1000,453,1,FALSE
+"Kumar","Seurat","SC3","true",1000,1000,1,FALSE
+"Kumar","Variance","SC3","true",1000,1000,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",1500,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","true",1500,1500,0.988771468816226,FALSE
+"Kumar","GateOnly","Refined Louvain","true",1500,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","true",1500,1500,0.975764779664105,FALSE
+"Kumar","Variance","Refined Louvain","true",1500,1500,1,FALSE
+"Kumar","DIFS","SC3","true",1500,697,1,FALSE
+"Kumar","FEAST","SC3","true",1500,1500,1,FALSE
+"Kumar","GateOnly","SC3","true",1500,453,1,FALSE
+"Kumar","Seurat","SC3","true",1500,1500,1,FALSE
+"Kumar","Variance","SC3","true",1500,1500,1,FALSE
+"Kumar","DIFS","Refined Louvain","true",2500,697,0.975764779664105,FALSE
+"Kumar","FEAST","Refined Louvain","true",2500,2500,1,FALSE
+"Kumar","GateOnly","Refined Louvain","true",2500,453,0.975764779664105,FALSE
+"Kumar","Seurat","Refined Louvain","true",2500,2500,0.988771468816226,FALSE
+"Kumar","Variance","Refined Louvain","true",2500,2500,1,FALSE
+"Kumar","DIFS","SC3","true",2500,697,1,FALSE
+"Kumar","FEAST","SC3","true",2500,2500,1,FALSE
+"Kumar","GateOnly","SC3","true",2500,453,1,FALSE
+"Kumar","Seurat","SC3","true",2500,2500,1,FALSE
+"Kumar","Variance","SC3","true",2500,2500,1,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",0,1652,0.474426520377311,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",0,1652,0.546508150856646,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",0,1652,0.619386243184741,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",0,1652,0.533456648181124,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",0,1652,0.746546074447294,FALSE
+"Lawlor","DIFS","SC3","estimated",0,1652,0.940018998970639,FALSE
+"Lawlor","FEAST","SC3","estimated",0,1652,0.924190871594857,FALSE
+"Lawlor","GateOnly","SC3","estimated",0,1652,0.902908368117852,FALSE
+"Lawlor","Seurat","SC3","estimated",0,1652,0.881641580070172,FALSE
+"Lawlor","Variance","SC3","estimated",0,1652,0.935667465511545,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",100,100,0.694602474171878,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",100,100,0.726130752368789,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",100,100,0.392560977393728,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",100,100,0.705783730786608,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",100,100,0.749896613779239,FALSE
+"Lawlor","DIFS","SC3","estimated",100,100,0.713569494484324,FALSE
+"Lawlor","FEAST","SC3","estimated",100,100,0.866030239326013,FALSE
+"Lawlor","GateOnly","SC3","estimated",100,100,0.360376214286087,FALSE
+"Lawlor","Seurat","SC3","estimated",100,100,0.455832087574169,FALSE
+"Lawlor","Variance","SC3","estimated",100,100,0.755000844991745,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",200,200,0.903583069280356,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",200,200,0.511588770779189,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",200,200,0.436236090339952,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",200,200,0.462918997429515,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",200,200,0.733903822963141,FALSE
+"Lawlor","DIFS","SC3","estimated",200,200,0.726911184696441,FALSE
+"Lawlor","FEAST","SC3","estimated",200,200,0.901953685406308,FALSE
+"Lawlor","GateOnly","SC3","estimated",200,200,0.44545714901004,FALSE
+"Lawlor","Seurat","SC3","estimated",200,200,0.813850019585159,FALSE
+"Lawlor","Variance","SC3","estimated",200,200,0.748182802668201,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",300,300,0.916344363507109,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",300,300,0.531047889078465,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",300,300,0.441997960892481,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",300,300,0.427698761677593,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",300,300,0.767346013863987,FALSE
+"Lawlor","DIFS","SC3","estimated",300,300,0.929980798631462,FALSE
+"Lawlor","FEAST","SC3","estimated",300,300,0.928107997053445,FALSE
+"Lawlor","GateOnly","SC3","estimated",300,300,0.664217179766155,FALSE
+"Lawlor","Seurat","SC3","estimated",300,300,0.860704375057801,FALSE
+"Lawlor","Variance","SC3","estimated",300,300,0.938239468854352,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",500,500,0.911465480324926,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",500,500,0.523039672773746,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",500,500,0.588731300032676,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",500,500,0.473148841860905,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",500,500,0.734368507099264,FALSE
+"Lawlor","DIFS","SC3","estimated",500,500,0.942875333439709,FALSE
+"Lawlor","FEAST","SC3","estimated",500,500,0.932744211549223,FALSE
+"Lawlor","GateOnly","SC3","estimated",500,500,0.621291383725247,FALSE
+"Lawlor","Seurat","SC3","estimated",500,500,0.8610142602707,FALSE
+"Lawlor","Variance","SC3","estimated",500,500,0.935775850770831,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",750,750,0.881513887347126,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",750,750,0.576613473761847,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",750,750,0.580817050823171,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",750,750,0.437715126909346,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",750,750,0.726881296190391,FALSE
+"Lawlor","DIFS","SC3","estimated",750,750,0.931755844005205,FALSE
+"Lawlor","FEAST","SC3","estimated",750,750,0.921565449742204,FALSE
+"Lawlor","GateOnly","SC3","estimated",750,750,0.673363927774331,FALSE
+"Lawlor","Seurat","SC3","estimated",750,750,0.879692449778048,FALSE
+"Lawlor","Variance","SC3","estimated",750,750,0.92667371111867,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",1000,1000,0.87360548377481,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",1000,1000,0.513175371121268,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",1000,1000,0.613184806510418,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",1000,1000,0.5049231230459,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",1000,1000,0.718246236255491,FALSE
+"Lawlor","DIFS","SC3","estimated",1000,1000,0.926189135781123,FALSE
+"Lawlor","FEAST","SC3","estimated",1000,1000,0.916772487890049,FALSE
+"Lawlor","GateOnly","SC3","estimated",1000,1000,0.672532327155941,FALSE
+"Lawlor","Seurat","SC3","estimated",1000,1000,0.904434574247525,FALSE
+"Lawlor","Variance","SC3","estimated",1000,1000,0.930377528096513,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",1500,1500,0.474586501997299,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",1500,1500,0.546691619985758,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",1500,1500,0.584754204260251,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",1500,1500,0.518293254893029,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",1500,1500,0.754760189876634,FALSE
+"Lawlor","DIFS","SC3","estimated",1500,1500,0.931221514867883,FALSE
+"Lawlor","FEAST","SC3","estimated",1500,1500,0.918813054109552,FALSE
+"Lawlor","GateOnly","SC3","estimated",1500,1500,0.890403278751472,FALSE
+"Lawlor","Seurat","SC3","estimated",1500,1500,0.887444775468357,FALSE
+"Lawlor","Variance","SC3","estimated",1500,1500,0.918517886888693,FALSE
+"Lawlor","DIFS","Refined Louvain","estimated",2500,2329,0.468194624996385,FALSE
+"Lawlor","FEAST","Refined Louvain","estimated",2500,2500,0.684240536620741,FALSE
+"Lawlor","GateOnly","Refined Louvain","estimated",2500,1652,0.619386243184741,FALSE
+"Lawlor","Seurat","Refined Louvain","estimated",2500,2500,0.643537793622873,FALSE
+"Lawlor","Variance","Refined Louvain","estimated",2500,2500,0.603102742394523,FALSE
+"Lawlor","DIFS","SC3","estimated",2500,2329,0.939526476233109,FALSE
+"Lawlor","FEAST","SC3","estimated",2500,2500,0.92497433073937,FALSE
+"Lawlor","GateOnly","SC3","estimated",2500,1652,0.902908368117852,FALSE
+"Lawlor","Seurat","SC3","estimated",2500,2500,0.902573536298102,FALSE
+"Lawlor","Variance","SC3","estimated",2500,2500,0.892361253537712,FALSE
+"Lawlor","DIFS","Refined Louvain","true",0,1652,0.517149026802024,FALSE
+"Lawlor","FEAST","Refined Louvain","true",0,1652,0.546118914394665,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",0,1652,0.621786602808945,FALSE
+"Lawlor","Seurat","Refined Louvain","true",0,1652,0.540548545891698,FALSE
+"Lawlor","Variance","Refined Louvain","true",0,1652,0.746546074447294,FALSE
+"Lawlor","DIFS","SC3","true",0,1652,0.945360889704658,FALSE
+"Lawlor","FEAST","SC3","true",0,1652,0.935748952126741,FALSE
+"Lawlor","GateOnly","SC3","true",0,1652,0.681811215179917,FALSE
+"Lawlor","Seurat","SC3","true",0,1652,0.740520699145779,FALSE
+"Lawlor","Variance","SC3","true",0,1652,0.914702022092248,FALSE
+"Lawlor","DIFS","Refined Louvain","true",100,100,0.548657359988964,FALSE
+"Lawlor","FEAST","Refined Louvain","true",100,100,0.676184667668436,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",100,100,0.32690957262335,FALSE
+"Lawlor","Seurat","Refined Louvain","true",100,100,0.550296214478025,FALSE
+"Lawlor","Variance","Refined Louvain","true",100,100,0.567771947884295,FALSE
+"Lawlor","DIFS","SC3","true",100,100,0.727374307333847,FALSE
+"Lawlor","FEAST","SC3","true",100,100,0.729411977218066,FALSE
+"Lawlor","GateOnly","SC3","true",100,100,0.281556522544422,FALSE
+"Lawlor","Seurat","SC3","true",100,100,0.415540616894461,FALSE
+"Lawlor","Variance","SC3","true",100,100,0.768950360634879,FALSE
+"Lawlor","DIFS","Refined Louvain","true",200,200,0.746274485509801,FALSE
+"Lawlor","FEAST","Refined Louvain","true",200,200,0.534118131217057,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",200,200,0.359506980559645,FALSE
+"Lawlor","Seurat","Refined Louvain","true",200,200,0.409697441678769,FALSE
+"Lawlor","Variance","Refined Louvain","true",200,200,0.733903822963141,FALSE
+"Lawlor","DIFS","SC3","true",200,200,0.904846597015943,FALSE
+"Lawlor","FEAST","SC3","true",200,200,0.925412438056753,FALSE
+"Lawlor","GateOnly","SC3","true",200,200,0.298433925793924,FALSE
+"Lawlor","Seurat","SC3","true",200,200,0.468593954719274,FALSE
+"Lawlor","Variance","SC3","true",200,200,0.72685698670162,FALSE
+"Lawlor","DIFS","Refined Louvain","true",300,300,0.689982456891451,FALSE
+"Lawlor","FEAST","Refined Louvain","true",300,300,0.554000101937304,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",300,300,0.391909751565547,FALSE
+"Lawlor","Seurat","Refined Louvain","true",300,300,0.416243521879765,FALSE
+"Lawlor","Variance","Refined Louvain","true",300,300,0.73651997023771,FALSE
+"Lawlor","DIFS","SC3","true",300,300,0.760440573521634,FALSE
+"Lawlor","FEAST","SC3","true",300,300,0.926197966925679,FALSE
+"Lawlor","GateOnly","SC3","true",300,300,0.479342597001339,FALSE
+"Lawlor","Seurat","SC3","true",300,300,0.641414253110716,FALSE
+"Lawlor","Variance","SC3","true",300,300,0.686592697179289,FALSE
+"Lawlor","DIFS","Refined Louvain","true",500,500,0.702117282185355,FALSE
+"Lawlor","FEAST","Refined Louvain","true",500,500,0.528130124032156,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",500,500,0.588731300032676,FALSE
+"Lawlor","Seurat","Refined Louvain","true",500,500,0.420501408192982,FALSE
+"Lawlor","Variance","Refined Louvain","true",500,500,0.74201363712525,FALSE
+"Lawlor","DIFS","SC3","true",500,500,0.892166935092281,FALSE
+"Lawlor","FEAST","SC3","true",500,500,0.936599750912149,FALSE
+"Lawlor","GateOnly","SC3","true",500,500,0.566226897272114,FALSE
+"Lawlor","Seurat","SC3","true",500,500,0.891307749652897,FALSE
+"Lawlor","Variance","SC3","true",500,500,0.892324520773332,FALSE
+"Lawlor","DIFS","Refined Louvain","true",750,750,0.513437669954067,FALSE
+"Lawlor","FEAST","Refined Louvain","true",750,750,0.532837145236065,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",750,750,0.567270113302885,FALSE
+"Lawlor","Seurat","Refined Louvain","true",750,750,0.330753979517364,FALSE
+"Lawlor","Variance","Refined Louvain","true",750,750,0.561873774940755,FALSE
+"Lawlor","DIFS","SC3","true",750,750,0.931950940437441,FALSE
+"Lawlor","FEAST","SC3","true",750,750,0.930475112390177,FALSE
+"Lawlor","GateOnly","SC3","true",750,750,0.633608257405515,FALSE
+"Lawlor","Seurat","SC3","true",750,750,0.681694585758286,FALSE
+"Lawlor","Variance","SC3","true",750,750,0.909744020139694,FALSE
+"Lawlor","DIFS","Refined Louvain","true",1000,1000,0.528137302655066,FALSE
+"Lawlor","FEAST","Refined Louvain","true",1000,1000,0.509047206128419,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",1000,1000,0.582733575459656,FALSE
+"Lawlor","Seurat","Refined Louvain","true",1000,1000,0.402958013249497,FALSE
+"Lawlor","Variance","Refined Louvain","true",1000,1000,0.558283714887006,FALSE
+"Lawlor","DIFS","SC3","true",1000,1000,0.932716258718711,FALSE
+"Lawlor","FEAST","SC3","true",1000,1000,0.936629378927773,FALSE
+"Lawlor","GateOnly","SC3","true",1000,1000,0.609287801962774,FALSE
+"Lawlor","Seurat","SC3","true",1000,1000,0.880639071306346,FALSE
+"Lawlor","Variance","SC3","true",1000,1000,0.69288555092634,FALSE
+"Lawlor","DIFS","Refined Louvain","true",1500,1500,0.528663270336598,FALSE
+"Lawlor","FEAST","Refined Louvain","true",1500,1500,0.527424878292272,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",1500,1500,0.571245637656691,FALSE
+"Lawlor","Seurat","Refined Louvain","true",1500,1500,0.523390987364529,FALSE
+"Lawlor","Variance","Refined Louvain","true",1500,1500,0.569088581905522,FALSE
+"Lawlor","DIFS","SC3","true",1500,1500,0.945087026099778,FALSE
+"Lawlor","FEAST","SC3","true",1500,1500,0.915656182179374,FALSE
+"Lawlor","GateOnly","SC3","true",1500,1500,0.623070738559719,FALSE
+"Lawlor","Seurat","SC3","true",1500,1500,0.680311387207682,FALSE
+"Lawlor","Variance","SC3","true",1500,1500,0.909908621115946,FALSE
+"Lawlor","DIFS","Refined Louvain","true",2500,2500,0.413745438233558,FALSE
+"Lawlor","FEAST","Refined Louvain","true",2500,2500,0.507850178064268,FALSE
+"Lawlor","GateOnly","Refined Louvain","true",2500,1652,0.621786602808945,FALSE
+"Lawlor","Seurat","Refined Louvain","true",2500,2500,0.643537793622873,FALSE
+"Lawlor","Variance","Refined Louvain","true",2500,2500,0.576914813186782,FALSE
+"Lawlor","DIFS","SC3","true",2500,2500,0.946305570077958,FALSE
+"Lawlor","FEAST","SC3","true",2500,2500,0.940815113340085,FALSE
+"Lawlor","GateOnly","SC3","true",2500,1652,0.681811215179917,FALSE
+"Lawlor","Seurat","SC3","true",2500,2500,0.682535435780699,FALSE
+"Lawlor","Variance","SC3","true",2500,2500,0.884267299804688,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",0,1125,0.338738027081009,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",0,1125,0.368349648380852,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",0,1125,0.338990659775037,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",0,1125,0.33823452761168,FALSE
+"Muraro","Variance","Refined Louvain","estimated",0,1125,0.327352829436919,FALSE
+"Muraro","DIFS","SC3","estimated",0,1125,0.405399802819136,FALSE
+"Muraro","FEAST","SC3","estimated",0,1125,0.437147949288047,FALSE
+"Muraro","GateOnly","SC3","estimated",0,1125,0.422437571677647,FALSE
+"Muraro","Seurat","SC3","estimated",0,1125,0.401357632919592,FALSE
+"Muraro","Variance","SC3","estimated",0,1125,0.418644795263778,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",100,100,0.385180186941581,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",100,100,0.347982616731433,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",100,100,0.271657649006135,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",100,100,0.196563075012597,FALSE
+"Muraro","Variance","Refined Louvain","estimated",100,100,0.353999798224332,FALSE
+"Muraro","DIFS","SC3","estimated",100,100,0.47427199373546,FALSE
+"Muraro","FEAST","SC3","estimated",100,100,0.426054188490359,FALSE
+"Muraro","GateOnly","SC3","estimated",100,100,0.526042518181247,FALSE
+"Muraro","Seurat","SC3","estimated",100,100,0.214644878055767,FALSE
+"Muraro","Variance","SC3","estimated",100,100,0.413558715711286,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",200,200,0.355874617947408,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",200,200,0.369684516370265,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",200,200,0.336982703636627,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",200,200,0.249355455558827,FALSE
+"Muraro","Variance","Refined Louvain","estimated",200,200,0.309765980292359,FALSE
+"Muraro","DIFS","SC3","estimated",200,200,0.392121705161873,FALSE
+"Muraro","FEAST","SC3","estimated",200,200,0.409683322171504,FALSE
+"Muraro","GateOnly","SC3","estimated",200,200,0.394369619465842,FALSE
+"Muraro","Seurat","SC3","estimated",200,200,0.385500774202493,FALSE
+"Muraro","Variance","SC3","estimated",200,200,0.411801104647139,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",300,300,0.380702428743392,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",300,300,0.333530738363861,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",300,300,0.323552248541242,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",300,300,0.340190387112028,FALSE
+"Muraro","Variance","Refined Louvain","estimated",300,300,0.336211021064359,FALSE
+"Muraro","DIFS","SC3","estimated",300,300,0.368101999594562,FALSE
+"Muraro","FEAST","SC3","estimated",300,300,0.38804939292311,FALSE
+"Muraro","GateOnly","SC3","estimated",300,300,0.381465309779036,FALSE
+"Muraro","Seurat","SC3","estimated",300,300,0.557717260313697,FALSE
+"Muraro","Variance","SC3","estimated",300,300,0.423737788539534,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",500,500,0.337659461244112,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",500,500,0.358693227971998,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",500,500,0.322450985637986,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",500,500,0.336942912363983,FALSE
+"Muraro","Variance","Refined Louvain","estimated",500,500,0.337375895713974,FALSE
+"Muraro","DIFS","SC3","estimated",500,500,0.401026939196861,FALSE
+"Muraro","FEAST","SC3","estimated",500,500,0.441418162127753,FALSE
+"Muraro","GateOnly","SC3","estimated",500,500,0.46025927050333,FALSE
+"Muraro","Seurat","SC3","estimated",500,500,0.422797447959077,FALSE
+"Muraro","Variance","SC3","estimated",500,500,0.40640140421333,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",750,750,0.347684872625419,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",750,750,0.335620124192532,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",750,750,0.305610222061784,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",750,750,0.331602965345018,FALSE
+"Muraro","Variance","Refined Louvain","estimated",750,750,0.340183845823939,FALSE
+"Muraro","DIFS","SC3","estimated",750,750,0.427481604135257,FALSE
+"Muraro","FEAST","SC3","estimated",750,750,0.417562403219326,FALSE
+"Muraro","GateOnly","SC3","estimated",750,750,0.415809618905099,FALSE
+"Muraro","Seurat","SC3","estimated",750,750,0.424400000396319,FALSE
+"Muraro","Variance","SC3","estimated",750,750,0.407770160230044,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",1000,1000,0.339716564323759,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",1000,1000,0.32777155514447,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",1000,1000,0.324914408882337,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",1000,1000,0.374562069263734,FALSE
+"Muraro","Variance","Refined Louvain","estimated",1000,1000,0.323442317091917,FALSE
+"Muraro","DIFS","SC3","estimated",1000,1000,0.430690412197953,FALSE
+"Muraro","FEAST","SC3","estimated",1000,1000,0.442181761144868,FALSE
+"Muraro","GateOnly","SC3","estimated",1000,1000,0.401646273396147,FALSE
+"Muraro","Seurat","SC3","estimated",1000,1000,0.36711183519885,FALSE
+"Muraro","Variance","SC3","estimated",1000,1000,0.409656583515963,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",1500,1500,0.340611925807336,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",1500,1500,0.338901402336778,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",1500,1125,0.338990659775037,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",1500,1500,0.319039019602084,FALSE
+"Muraro","Variance","Refined Louvain","estimated",1500,1500,0.343611720041892,FALSE
+"Muraro","DIFS","SC3","estimated",1500,1500,0.439133778411433,FALSE
+"Muraro","FEAST","SC3","estimated",1500,1500,0.434401382914464,FALSE
+"Muraro","GateOnly","SC3","estimated",1500,1125,0.422437571677647,FALSE
+"Muraro","Seurat","SC3","estimated",1500,1500,0.413910612676404,FALSE
+"Muraro","Variance","SC3","estimated",1500,1500,0.402542400204825,FALSE
+"Muraro","DIFS","Refined Louvain","estimated",2500,2323,0.355144063846657,FALSE
+"Muraro","FEAST","Refined Louvain","estimated",2500,2500,0.325562261055338,FALSE
+"Muraro","GateOnly","Refined Louvain","estimated",2500,1125,0.338990659775037,FALSE
+"Muraro","Seurat","Refined Louvain","estimated",2500,2500,0.352316296618559,FALSE
+"Muraro","Variance","Refined Louvain","estimated",2500,2500,0.41107635312213,FALSE
+"Muraro","DIFS","SC3","estimated",2500,2323,0.46547465237003,FALSE
+"Muraro","FEAST","SC3","estimated",2500,2500,0.436210598457646,FALSE
+"Muraro","GateOnly","SC3","estimated",2500,1125,0.422437571677647,FALSE
+"Muraro","Seurat","SC3","estimated",2500,2500,0.405562235587792,FALSE
+"Muraro","Variance","SC3","estimated",2500,2500,0.426383637996031,FALSE
+"Muraro","DIFS","Refined Louvain","true",0,1125,0.665183365927301,FALSE
+"Muraro","FEAST","Refined Louvain","true",0,1125,0.709632791595532,FALSE
+"Muraro","GateOnly","Refined Louvain","true",0,1125,0.663145511206524,FALSE
+"Muraro","Seurat","Refined Louvain","true",0,1125,0.885446357700516,FALSE
+"Muraro","Variance","Refined Louvain","true",0,1125,0.644484435845248,FALSE
+"Muraro","DIFS","SC3","true",0,1125,0.735098770432224,FALSE
+"Muraro","FEAST","SC3","true",0,1125,0.737744307959242,FALSE
+"Muraro","GateOnly","SC3","true",0,1125,0.738838999647229,FALSE
+"Muraro","Seurat","SC3","true",0,1125,0.715014272459227,FALSE
+"Muraro","Variance","SC3","true",0,1125,0.733039718548637,FALSE
+"Muraro","DIFS","Refined Louvain","true",100,100,0.719626734361174,FALSE
+"Muraro","FEAST","Refined Louvain","true",100,100,0.650914579943808,FALSE
+"Muraro","GateOnly","Refined Louvain","true",100,100,0.554388174765377,FALSE
+"Muraro","Seurat","Refined Louvain","true",100,100,0.328356688258058,FALSE
+"Muraro","Variance","Refined Louvain","true",100,100,0.872221997008238,FALSE
+"Muraro","DIFS","SC3","true",100,100,0.697438550349458,FALSE
+"Muraro","FEAST","SC3","true",100,100,0.929221705675511,FALSE
+"Muraro","GateOnly","SC3","true",100,100,0.673625358231217,FALSE
+"Muraro","Seurat","SC3","true",100,100,0.266321706892434,FALSE
+"Muraro","Variance","SC3","true",100,100,0.736434108220478,FALSE
+"Muraro","DIFS","Refined Louvain","true",200,200,0.702792128848187,FALSE
+"Muraro","FEAST","Refined Louvain","true",200,200,0.667777268456031,FALSE
+"Muraro","GateOnly","Refined Louvain","true",200,200,0.669544593526557,FALSE
+"Muraro","Seurat","Refined Louvain","true",200,200,0.378173210618369,FALSE
+"Muraro","Variance","Refined Louvain","true",200,200,0.713197992350192,FALSE
+"Muraro","DIFS","SC3","true",200,200,0.931825077343648,FALSE
+"Muraro","FEAST","SC3","true",200,200,0.926709372936162,FALSE
+"Muraro","GateOnly","SC3","true",200,200,0.68835782136022,FALSE
+"Muraro","Seurat","SC3","true",200,200,0.397833085770971,FALSE
+"Muraro","Variance","SC3","true",200,200,0.931343146772216,FALSE
+"Muraro","DIFS","Refined Louvain","true",300,300,0.66412856027082,FALSE
+"Muraro","FEAST","Refined Louvain","true",300,300,0.716438894718175,FALSE
+"Muraro","GateOnly","Refined Louvain","true",300,300,0.718278108994598,FALSE
+"Muraro","Seurat","Refined Louvain","true",300,300,0.785095984376456,FALSE
+"Muraro","Variance","Refined Louvain","true",300,300,0.704880622405641,FALSE
+"Muraro","DIFS","SC3","true",300,300,0.732792606395704,FALSE
+"Muraro","FEAST","SC3","true",300,300,0.92790302929417,FALSE
+"Muraro","GateOnly","SC3","true",300,300,0.704413689586773,FALSE
+"Muraro","Seurat","SC3","true",300,300,0.655567951929434,FALSE
+"Muraro","Variance","SC3","true",300,300,0.733468361363997,FALSE
+"Muraro","DIFS","Refined Louvain","true",500,500,0.670417713358743,FALSE
+"Muraro","FEAST","Refined Louvain","true",500,500,0.711630907583364,FALSE
+"Muraro","GateOnly","Refined Louvain","true",500,500,0.64909296950175,FALSE
+"Muraro","Seurat","Refined Louvain","true",500,500,0.825851282079194,FALSE
+"Muraro","Variance","Refined Louvain","true",500,500,0.713033964110375,FALSE
+"Muraro","DIFS","SC3","true",500,500,0.732716720681197,FALSE
+"Muraro","FEAST","SC3","true",500,500,0.93681530652588,FALSE
+"Muraro","GateOnly","SC3","true",500,500,0.705070755390918,FALSE
+"Muraro","Seurat","SC3","true",500,500,0.713335998445372,FALSE
+"Muraro","Variance","SC3","true",500,500,0.73945393958937,FALSE
+"Muraro","DIFS","Refined Louvain","true",750,750,0.66814510718225,FALSE
+"Muraro","FEAST","Refined Louvain","true",750,750,0.711303734610361,FALSE
+"Muraro","GateOnly","Refined Louvain","true",750,750,0.670983459244381,FALSE
+"Muraro","Seurat","Refined Louvain","true",750,750,0.861607130886229,FALSE
+"Muraro","Variance","Refined Louvain","true",750,750,0.704872074916043,FALSE
+"Muraro","DIFS","SC3","true",750,750,0.729881840901031,FALSE
+"Muraro","FEAST","SC3","true",750,750,0.735611881752919,FALSE
+"Muraro","GateOnly","SC3","true",750,750,0.736333074056757,FALSE
+"Muraro","Seurat","SC3","true",750,750,0.699919475720007,FALSE
+"Muraro","Variance","SC3","true",750,750,0.742746127760762,FALSE
+"Muraro","DIFS","Refined Louvain","true",1000,1000,0.667327348908107,FALSE
+"Muraro","FEAST","Refined Louvain","true",1000,1000,0.713109237284383,FALSE
+"Muraro","GateOnly","Refined Louvain","true",1000,1000,0.665771705163133,FALSE
+"Muraro","Seurat","Refined Louvain","true",1000,1000,0.857080433047398,FALSE
+"Muraro","Variance","Refined Louvain","true",1000,1000,0.665659026913053,FALSE
+"Muraro","DIFS","SC3","true",1000,1000,0.732036421923695,FALSE
+"Muraro","FEAST","SC3","true",1000,1000,0.739724514437438,FALSE
+"Muraro","GateOnly","SC3","true",1000,1000,0.736357696448364,FALSE
+"Muraro","Seurat","SC3","true",1000,1000,0.702341324659289,FALSE
+"Muraro","Variance","SC3","true",1000,1000,0.737848315899998,FALSE
+"Muraro","DIFS","Refined Louvain","true",1500,1500,0.735194726426286,FALSE
+"Muraro","FEAST","Refined Louvain","true",1500,1500,0.707131869902539,FALSE
+"Muraro","GateOnly","Refined Louvain","true",1500,1125,0.663145511206524,FALSE
+"Muraro","Seurat","Refined Louvain","true",1500,1500,0.895498977926235,FALSE
+"Muraro","Variance","Refined Louvain","true",1500,1500,0.663034628190334,FALSE
+"Muraro","DIFS","SC3","true",1500,1500,0.739445599923379,FALSE
+"Muraro","FEAST","SC3","true",1500,1500,0.743012353082182,FALSE
+"Muraro","GateOnly","SC3","true",1500,1125,0.738838999647229,FALSE
+"Muraro","Seurat","SC3","true",1500,1500,0.724437907105449,FALSE
+"Muraro","Variance","SC3","true",1500,1500,0.739330520066497,FALSE
+"Muraro","DIFS","Refined Louvain","true",2500,1921,0.668052913643621,FALSE
+"Muraro","FEAST","Refined Louvain","true",2500,2500,0.663881919688374,FALSE
+"Muraro","GateOnly","Refined Louvain","true",2500,1125,0.663145511206524,FALSE
+"Muraro","Seurat","Refined Louvain","true",2500,2500,0.905914569450898,FALSE
+"Muraro","Variance","Refined Louvain","true",2500,2500,0.665176851594432,FALSE
+"Muraro","DIFS","SC3","true",2500,1921,0.737690922154214,FALSE
+"Muraro","FEAST","SC3","true",2500,2500,0.733299253776698,FALSE
+"Muraro","GateOnly","SC3","true",2500,1125,0.738838999647229,FALSE
+"Muraro","Seurat","SC3","true",2500,2500,0.728916190678715,FALSE
+"Muraro","Variance","SC3","true",2500,2500,0.740547708884876,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",0,2332,0.194428763259948,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",0,2332,0.206274304452496,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",0,2332,0.197373283165606,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",0,2332,0.194446701086142,FALSE
+"Romanov","Variance","Refined Louvain","estimated",0,2332,0.180072215267683,FALSE
+"Romanov","DIFS","SC3","estimated",0,2332,0.204155943248865,FALSE
+"Romanov","FEAST","SC3","estimated",0,2332,0.242348372444404,FALSE
+"Romanov","GateOnly","SC3","estimated",0,2332,0.204039267711552,FALSE
+"Romanov","Seurat","SC3","estimated",0,2332,0.194293081701708,FALSE
+"Romanov","Variance","SC3","estimated",0,2332,0.210095481000652,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",100,100,0.219755391501409,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",100,100,0.21002088949443,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",100,100,0.182583766136939,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",100,100,0.182257684273369,FALSE
+"Romanov","Variance","Refined Louvain","estimated",100,100,0.190876424590737,FALSE
+"Romanov","DIFS","SC3","estimated",100,100,0.226692522603957,FALSE
+"Romanov","FEAST","SC3","estimated",100,100,0.228296446009962,FALSE
+"Romanov","GateOnly","SC3","estimated",100,100,0.337337798963821,FALSE
+"Romanov","Seurat","SC3","estimated",100,100,0.199251929240504,FALSE
+"Romanov","Variance","SC3","estimated",100,100,0.245307035707892,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",200,200,0.212336021149734,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",200,200,0.207367853711863,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",200,200,0.187081472915023,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",200,200,0.181275199499188,FALSE
+"Romanov","Variance","Refined Louvain","estimated",200,200,0.198415693156604,FALSE
+"Romanov","DIFS","SC3","estimated",200,200,0.18624928697198,FALSE
+"Romanov","FEAST","SC3","estimated",200,200,0.273918303275091,FALSE
+"Romanov","GateOnly","SC3","estimated",200,200,0.155349794538588,FALSE
+"Romanov","Seurat","SC3","estimated",200,200,0.199022278683634,FALSE
+"Romanov","Variance","SC3","estimated",200,200,0.224254365295453,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",300,300,0.203368603872718,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",300,300,0.183571092809298,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",300,300,0.203884042010743,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",300,300,0.184947329116379,FALSE
+"Romanov","Variance","Refined Louvain","estimated",300,300,0.194256822773006,FALSE
+"Romanov","DIFS","SC3","estimated",300,300,0.206771313382481,FALSE
+"Romanov","FEAST","SC3","estimated",300,300,0.221604335991128,FALSE
+"Romanov","GateOnly","SC3","estimated",300,300,0.193358508928828,FALSE
+"Romanov","Seurat","SC3","estimated",300,300,0.224874556063925,FALSE
+"Romanov","Variance","SC3","estimated",300,300,0.210945086253699,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",500,500,0.20359795773429,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",500,500,0.190803961490681,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",500,500,0.192525668619233,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",500,500,0.189386266658814,FALSE
+"Romanov","Variance","Refined Louvain","estimated",500,500,0.190944437388915,FALSE
+"Romanov","DIFS","SC3","estimated",500,500,0.240058826784168,FALSE
+"Romanov","FEAST","SC3","estimated",500,500,0.210222435507704,FALSE
+"Romanov","GateOnly","SC3","estimated",500,500,0.214406713809103,FALSE
+"Romanov","Seurat","SC3","estimated",500,500,0.202282318608253,FALSE
+"Romanov","Variance","SC3","estimated",500,500,0.240018299766739,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",750,750,0.182155859641421,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",750,750,0.195766811281303,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",750,750,0.188458973795384,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",750,750,0.189835153658103,FALSE
+"Romanov","Variance","Refined Louvain","estimated",750,750,0.194822746082297,FALSE
+"Romanov","DIFS","SC3","estimated",750,750,0.244055934257586,FALSE
+"Romanov","FEAST","SC3","estimated",750,750,0.218985270083638,FALSE
+"Romanov","GateOnly","SC3","estimated",750,750,0.223762818824947,FALSE
+"Romanov","Seurat","SC3","estimated",750,750,0.213398166375987,FALSE
+"Romanov","Variance","SC3","estimated",750,750,0.227378710352294,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",1000,1000,0.190819861902157,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",1000,1000,0.176181919074421,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",1000,1000,0.167138155963393,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",1000,1000,0.211510269138896,FALSE
+"Romanov","Variance","Refined Louvain","estimated",1000,1000,0.190108902013602,FALSE
+"Romanov","DIFS","SC3","estimated",1000,1000,0.239919494283122,FALSE
+"Romanov","FEAST","SC3","estimated",1000,1000,0.231573547168328,FALSE
+"Romanov","GateOnly","SC3","estimated",1000,1000,0.224707246276519,FALSE
+"Romanov","Seurat","SC3","estimated",1000,1000,0.21318226057395,FALSE
+"Romanov","Variance","SC3","estimated",1000,1000,0.216508939160872,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",1500,1500,0.200088086499453,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",1500,1500,0.182113084041792,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",1500,1500,0.179275168300404,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",1500,1500,0.21000180970445,FALSE
+"Romanov","Variance","Refined Louvain","estimated",1500,1500,0.184879001394064,FALSE
+"Romanov","DIFS","SC3","estimated",1500,1500,0.192118213676131,FALSE
+"Romanov","FEAST","SC3","estimated",1500,1500,0.231230553681688,FALSE
+"Romanov","GateOnly","SC3","estimated",1500,1500,0.223027323926514,FALSE
+"Romanov","Seurat","SC3","estimated",1500,1500,0.197119617353122,FALSE
+"Romanov","Variance","SC3","estimated",1500,1500,0.195098129543262,FALSE
+"Romanov","DIFS","Refined Louvain","estimated",2500,2500,0.192305146501658,FALSE
+"Romanov","FEAST","Refined Louvain","estimated",2500,2500,0.187708661423708,FALSE
+"Romanov","GateOnly","Refined Louvain","estimated",2500,2332,0.197373283165606,FALSE
+"Romanov","Seurat","Refined Louvain","estimated",2500,2500,0.199613011155079,FALSE
+"Romanov","Variance","Refined Louvain","estimated",2500,2500,0.187472870262132,FALSE
+"Romanov","DIFS","SC3","estimated",2500,2500,0.232253090647491,FALSE
+"Romanov","FEAST","SC3","estimated",2500,2500,0.220996279541498,FALSE
+"Romanov","GateOnly","SC3","estimated",2500,2332,0.204039267711552,FALSE
+"Romanov","Seurat","SC3","estimated",2500,2500,0.197222632701682,FALSE
+"Romanov","Variance","SC3","estimated",2500,2500,0.20267069273602,FALSE
+"Romanov","DIFS","Refined Louvain","true",0,2332,0.708810510018368,FALSE
+"Romanov","FEAST","Refined Louvain","true",0,2332,0.63959302957388,FALSE
+"Romanov","GateOnly","Refined Louvain","true",0,2332,0.69979495713338,FALSE
+"Romanov","Seurat","Refined Louvain","true",0,2332,0.776735815674872,FALSE
+"Romanov","Variance","Refined Louvain","true",0,2332,0.656472623670257,FALSE
+"Romanov","DIFS","SC3","true",0,2332,0.53507688374567,FALSE
+"Romanov","FEAST","SC3","true",0,2332,0.529962975910557,FALSE
+"Romanov","GateOnly","SC3","true",0,2332,0.493207555517855,FALSE
+"Romanov","Seurat","SC3","true",0,2332,0.593184823044864,FALSE
+"Romanov","Variance","SC3","true",0,2332,0.532802632202585,FALSE
+"Romanov","DIFS","Refined Louvain","true",100,100,0.514614017679569,FALSE
+"Romanov","FEAST","Refined Louvain","true",100,100,0.489094855700626,FALSE
+"Romanov","GateOnly","Refined Louvain","true",100,100,0.469286838248402,FALSE
+"Romanov","Seurat","Refined Louvain","true",100,100,0.680890057840551,FALSE
+"Romanov","Variance","Refined Louvain","true",100,100,0.515977445100477,FALSE
+"Romanov","DIFS","SC3","true",100,100,0.585073461709872,FALSE
+"Romanov","FEAST","SC3","true",100,100,0.526230372690975,FALSE
+"Romanov","GateOnly","SC3","true",100,100,0.592317116299976,FALSE
+"Romanov","Seurat","SC3","true",100,100,0.482011223668307,FALSE
+"Romanov","Variance","SC3","true",100,100,0.575703899692764,FALSE
+"Romanov","DIFS","Refined Louvain","true",200,200,0.540300056814981,FALSE
+"Romanov","FEAST","Refined Louvain","true",200,200,0.562137707069033,FALSE
+"Romanov","GateOnly","Refined Louvain","true",200,200,0.528277610371371,FALSE
+"Romanov","Seurat","Refined Louvain","true",200,200,0.674803504121321,FALSE
+"Romanov","Variance","Refined Louvain","true",200,200,0.580257408710389,FALSE
+"Romanov","DIFS","SC3","true",200,200,0.545522203083118,FALSE
+"Romanov","FEAST","SC3","true",200,200,0.49574047163599,FALSE
+"Romanov","GateOnly","SC3","true",200,200,0.553270901443499,FALSE
+"Romanov","Seurat","SC3","true",200,200,0.590782720967846,FALSE
+"Romanov","Variance","SC3","true",200,200,0.531274352787107,FALSE
+"Romanov","DIFS","Refined Louvain","true",300,300,0.582116924893038,FALSE
+"Romanov","FEAST","Refined Louvain","true",300,300,0.579845691029639,FALSE
+"Romanov","GateOnly","Refined Louvain","true",300,300,0.661434198702662,FALSE
+"Romanov","Seurat","Refined Louvain","true",300,300,0.641871137451365,FALSE
+"Romanov","Variance","Refined Louvain","true",300,300,0.58412469242679,FALSE
+"Romanov","DIFS","SC3","true",300,300,0.55261323780775,FALSE
+"Romanov","FEAST","SC3","true",300,300,0.52768706612097,FALSE
+"Romanov","GateOnly","SC3","true",300,300,0.568006384291137,FALSE
+"Romanov","Seurat","SC3","true",300,300,0.650918643288336,FALSE
+"Romanov","Variance","SC3","true",300,300,0.522607555224831,FALSE
+"Romanov","DIFS","Refined Louvain","true",500,500,0.603434764681221,FALSE
+"Romanov","FEAST","Refined Louvain","true",500,500,0.675592506858678,FALSE
+"Romanov","GateOnly","Refined Louvain","true",500,500,0.62491659457317,FALSE
+"Romanov","Seurat","Refined Louvain","true",500,500,0.733492059543511,FALSE
+"Romanov","Variance","Refined Louvain","true",500,500,0.607206049706237,FALSE
+"Romanov","DIFS","SC3","true",500,500,0.624463479139276,FALSE
+"Romanov","FEAST","SC3","true",500,500,0.530394859789871,FALSE
+"Romanov","GateOnly","SC3","true",500,500,0.47397264738922,FALSE
+"Romanov","Seurat","SC3","true",500,500,0.590526407542683,FALSE
+"Romanov","Variance","SC3","true",500,500,0.509377498387343,FALSE
+"Romanov","DIFS","Refined Louvain","true",750,750,0.606209839840597,FALSE
+"Romanov","FEAST","Refined Louvain","true",750,750,0.663211660756671,FALSE
+"Romanov","GateOnly","Refined Louvain","true",750,750,0.6166848458374,FALSE
+"Romanov","Seurat","Refined Louvain","true",750,750,0.825069921372388,FALSE
+"Romanov","Variance","Refined Louvain","true",750,750,0.60700857906903,FALSE
+"Romanov","DIFS","SC3","true",750,750,0.526817953520827,FALSE
+"Romanov","FEAST","SC3","true",750,750,0.472562773695945,FALSE
+"Romanov","GateOnly","SC3","true",750,750,0.53296420047518,FALSE
+"Romanov","Seurat","SC3","true",750,750,0.587407271246669,FALSE
+"Romanov","Variance","SC3","true",750,750,0.530045427815299,FALSE
+"Romanov","DIFS","Refined Louvain","true",1000,1000,0.624929489461955,FALSE
+"Romanov","FEAST","Refined Louvain","true",1000,1000,0.608745905285377,FALSE
+"Romanov","GateOnly","Refined Louvain","true",1000,1000,0.622366155424574,FALSE
+"Romanov","Seurat","Refined Louvain","true",1000,1000,0.784600322109366,FALSE
+"Romanov","Variance","Refined Louvain","true",1000,1000,0.628248897180416,FALSE
+"Romanov","DIFS","SC3","true",1000,1000,0.537798800479195,FALSE
+"Romanov","FEAST","SC3","true",1000,1000,0.51678432651693,FALSE
+"Romanov","GateOnly","SC3","true",1000,1000,0.485077180790698,FALSE
+"Romanov","Seurat","SC3","true",1000,1000,0.674446944866818,FALSE
+"Romanov","Variance","SC3","true",1000,1000,0.557264175274437,FALSE
+"Romanov","DIFS","Refined Louvain","true",1500,1500,0.719460392101556,FALSE
+"Romanov","FEAST","Refined Louvain","true",1500,1500,0.61434989063069,FALSE
+"Romanov","GateOnly","Refined Louvain","true",1500,1500,0.629596238884952,FALSE
+"Romanov","Seurat","Refined Louvain","true",1500,1500,0.787576673943119,FALSE
+"Romanov","Variance","Refined Louvain","true",1500,1500,0.644033735823581,FALSE
+"Romanov","DIFS","SC3","true",1500,1500,0.541848021208392,FALSE
+"Romanov","FEAST","SC3","true",1500,1500,0.52719631472086,FALSE
+"Romanov","GateOnly","SC3","true",1500,1500,0.523723593777546,FALSE
+"Romanov","Seurat","SC3","true",1500,1500,0.624026995094356,FALSE
+"Romanov","Variance","SC3","true",1500,1500,0.539403123802741,FALSE
+"Romanov","DIFS","Refined Louvain","true",2500,2500,0.711872581305731,FALSE
+"Romanov","FEAST","Refined Louvain","true",2500,2500,0.704094228502302,FALSE
+"Romanov","GateOnly","Refined Louvain","true",2500,2332,0.69979495713338,FALSE
+"Romanov","Seurat","Refined Louvain","true",2500,2500,0.780766140932947,FALSE
+"Romanov","Variance","Refined Louvain","true",2500,2500,0.64030419001989,FALSE
+"Romanov","DIFS","SC3","true",2500,2500,0.538116858401518,FALSE
+"Romanov","FEAST","SC3","true",2500,2500,0.487157784565329,FALSE
+"Romanov","GateOnly","SC3","true",2500,2332,0.493207555517855,FALSE
+"Romanov","Seurat","SC3","true",2500,2500,0.561501542386014,FALSE
+"Romanov","Variance","SC3","true",2500,2500,0.520792061118641,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",0,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",0,326,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",0,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",0,326,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",0,326,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",0,326,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",0,326,0.517946056687623,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",0,326,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",0,326,0.726872970607939,FALSE
+"SimKumar4easy","Variance","SC3","estimated",0,326,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",100,100,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",100,100,0.951921847455925,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",100,100,0.994831705846302,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",100,100,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",100,100,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",100,100,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",100,100,0.726872970607939,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",100,100,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",100,100,0.520035232515541,FALSE
+"SimKumar4easy","Variance","SC3","estimated",100,100,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",200,200,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",200,200,0.951921847455925,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",200,200,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",200,200,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",200,200,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",200,200,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",200,200,0.726872970607939,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",200,200,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",200,200,0.726872970607939,FALSE
+"SimKumar4easy","Variance","SC3","estimated",200,200,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",300,300,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",300,300,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",300,300,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",300,300,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",300,300,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",300,300,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",300,300,0.726872970607939,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",300,300,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",300,300,0.726872970607939,FALSE
+"SimKumar4easy","Variance","SC3","estimated",300,300,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",500,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",500,500,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",500,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",500,500,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",500,500,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",500,326,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",500,500,0.517946056687623,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",500,326,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",500,500,0.517946056687623,FALSE
+"SimKumar4easy","Variance","SC3","estimated",500,500,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",750,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",750,750,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",750,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",750,750,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",750,750,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",750,326,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",750,750,0.517946056687623,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",750,326,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",750,750,0.517946056687623,FALSE
+"SimKumar4easy","Variance","SC3","estimated",750,750,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",1000,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",1000,1000,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",1000,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",1000,1000,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",1000,1000,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",1000,326,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",1000,1000,0.517946056687623,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",1000,326,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",1000,1000,0.517946056687623,FALSE
+"SimKumar4easy","Variance","SC3","estimated",1000,1000,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",1500,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",1500,1500,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",1500,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",1500,1500,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",1500,1500,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",1500,326,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",1500,1500,0.517946056687623,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",1500,326,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",1500,1500,0.517946056687623,FALSE
+"SimKumar4easy","Variance","SC3","estimated",1500,1500,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","estimated",2500,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","estimated",2500,2500,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","estimated",2500,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","estimated",2500,2500,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","estimated",2500,2500,1,FALSE
+"SimKumar4easy","DIFS","SC3","estimated",2500,326,0.517946056687623,FALSE
+"SimKumar4easy","FEAST","SC3","estimated",2500,2500,0.517946056687623,FALSE
+"SimKumar4easy","GateOnly","SC3","estimated",2500,326,0.517946056687623,FALSE
+"SimKumar4easy","Seurat","SC3","estimated",2500,2500,0.517946056687623,FALSE
+"SimKumar4easy","Variance","SC3","estimated",2500,2500,0.517946056687623,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",0,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",0,326,0.634621377910468,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",0,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",0,326,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",0,326,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",0,326,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",0,326,0.994332054139068,FALSE
+"SimKumar4easy","GateOnly","SC3","true",0,326,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",0,326,0.996189860390945,FALSE
+"SimKumar4easy","Variance","SC3","true",0,326,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",100,100,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",100,100,0.636629187043368,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",100,100,0.994831705846302,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",100,100,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",100,100,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",100,100,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",100,100,0.903666362237472,FALSE
+"SimKumar4easy","GateOnly","SC3","true",100,100,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",100,100,0.606963456689151,FALSE
+"SimKumar4easy","Variance","SC3","true",100,100,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",200,200,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",200,200,0.704899750040398,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",200,200,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",200,200,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",200,200,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",200,200,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",200,200,0.996187262765033,FALSE
+"SimKumar4easy","GateOnly","SC3","true",200,200,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",200,200,0.943498287431496,FALSE
+"SimKumar4easy","Variance","SC3","true",200,200,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",300,300,0.98897459128478,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",300,300,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",300,300,0.994332054139068,FALSE
+"SimKumar4easy","GateOnly","SC3","true",300,300,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",300,300,0.952529843393628,FALSE
+"SimKumar4easy","Variance","SC3","true",300,300,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",500,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",500,500,0.998076601267035,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",500,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",500,500,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",500,500,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",500,326,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",500,500,0.998076601267035,FALSE
+"SimKumar4easy","GateOnly","SC3","true",500,326,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",500,500,1,FALSE
+"SimKumar4easy","Variance","SC3","true",500,500,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",750,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",750,750,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",750,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",750,750,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",750,750,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",750,326,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",750,750,1,FALSE
+"SimKumar4easy","GateOnly","SC3","true",750,326,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",750,750,1,FALSE
+"SimKumar4easy","Variance","SC3","true",750,750,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",1000,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",1000,1000,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",1000,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",1000,1000,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",1000,1000,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",1000,326,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",1000,1000,1,FALSE
+"SimKumar4easy","GateOnly","SC3","true",1000,326,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",1000,1000,1,FALSE
+"SimKumar4easy","Variance","SC3","true",1000,1000,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",1500,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",1500,1500,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",1500,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",1500,1500,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",1500,1500,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",1500,326,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",1500,1500,1,FALSE
+"SimKumar4easy","GateOnly","SC3","true",1500,326,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",1500,1500,1,FALSE
+"SimKumar4easy","Variance","SC3","true",1500,1500,1,FALSE
+"SimKumar4easy","DIFS","Refined Louvain","true",2500,326,1,FALSE
+"SimKumar4easy","FEAST","Refined Louvain","true",2500,2500,1,FALSE
+"SimKumar4easy","GateOnly","Refined Louvain","true",2500,326,1,FALSE
+"SimKumar4easy","Seurat","Refined Louvain","true",2500,2500,1,FALSE
+"SimKumar4easy","Variance","Refined Louvain","true",2500,2500,1,FALSE
+"SimKumar4easy","DIFS","SC3","true",2500,326,1,FALSE
+"SimKumar4easy","FEAST","SC3","true",2500,2500,1,FALSE
+"SimKumar4easy","GateOnly","SC3","true",2500,326,1,FALSE
+"SimKumar4easy","Seurat","SC3","true",2500,2500,1,FALSE
+"SimKumar4easy","Variance","SC3","true",2500,2500,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",0,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",0,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",0,325,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",0,325,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",0,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",0,325,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",0,325,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",0,325,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",100,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",100,100,0.398590533227554,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",100,100,0.398590533227554,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",100,100,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",100,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",100,100,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",100,100,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",100,100,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",200,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",200,200,0.874554100011518,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",200,200,0.398590533227554,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",200,200,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",200,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",200,200,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",200,200,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",200,200,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",300,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",300,300,0.882192440123387,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",300,300,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",300,300,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",300,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",300,300,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",300,300,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",300,300,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",500,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",500,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",500,500,0.882192440123387,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",500,500,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",500,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",500,325,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",500,500,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",500,500,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",750,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",750,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",750,750,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",750,750,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",750,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",750,325,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",750,750,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",750,750,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",1000,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",1000,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",1000,1000,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",1000,1000,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",1000,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",1000,325,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",1000,1000,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",1000,1000,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",1500,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",1500,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",1500,1500,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",1500,1500,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",1500,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",1500,325,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",1500,1500,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",1500,1500,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","estimated",2500,325,1,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","estimated",2500,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","estimated",2500,2500,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","estimated",2500,2500,1,FALSE
+"SimKumar4hard","DIFS","SC3","estimated",2500,325,0,FALSE
+"SimKumar4hard","GateOnly","SC3","estimated",2500,325,0,FALSE
+"SimKumar4hard","Seurat","SC3","estimated",2500,2500,0,FALSE
+"SimKumar4hard","Variance","SC3","estimated",2500,2500,0,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",0,325,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",0,325,-0.0108073344326939,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",0,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",0,325,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",0,325,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",0,325,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",0,325,-0.00630070050311972,FALSE
+"SimKumar4hard","GateOnly","SC3","true",0,325,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",0,325,0.958207274785667,FALSE
+"SimKumar4hard","Variance","SC3","true",0,325,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",100,100,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",100,100,-0.0107856407746975,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",100,100,0.592462316975652,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",100,100,0.528251007306277,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",100,100,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",100,100,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",100,100,-0.00174525639584726,FALSE
+"SimKumar4hard","GateOnly","SC3","true",100,100,0.922745833703036,FALSE
+"SimKumar4hard","Seurat","SC3","true",100,100,0.282343402848782,FALSE
+"SimKumar4hard","Variance","SC3","true",100,100,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",200,200,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",200,200,-0.00151814294089472,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",200,200,0.985580540818373,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",200,200,0.956507120127451,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",200,200,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",200,200,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",200,200,-0.00414383780902331,FALSE
+"SimKumar4hard","GateOnly","SC3","true",200,200,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",200,200,0.333035754775711,FALSE
+"SimKumar4hard","Variance","SC3","true",200,200,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",300,300,-0.00753068225954441,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",300,300,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",300,300,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",300,300,-0.00667513742553796,FALSE
+"SimKumar4hard","GateOnly","SC3","true",300,300,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",300,300,0.599366116597485,FALSE
+"SimKumar4hard","Variance","SC3","true",300,300,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",500,327,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",500,500,-0.008970747959815,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",500,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",500,500,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",500,500,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",500,327,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",500,500,-0.00475467075085778,FALSE
+"SimKumar4hard","GateOnly","SC3","true",500,325,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",500,500,0.939570942535961,FALSE
+"SimKumar4hard","Variance","SC3","true",500,500,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",750,327,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",750,750,-0.00931808008711553,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",750,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",750,750,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",750,750,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",750,327,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",750,750,-0.00672990252718925,FALSE
+"SimKumar4hard","GateOnly","SC3","true",750,325,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",750,750,0.944085054058222,FALSE
+"SimKumar4hard","Variance","SC3","true",750,750,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",1000,327,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",1000,1000,0.0363946118535094,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",1000,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",1000,1000,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",1000,1000,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",1000,327,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",1000,1000,-0.00834183879343588,FALSE
+"SimKumar4hard","GateOnly","SC3","true",1000,325,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",1000,1000,0.978449065861791,FALSE
+"SimKumar4hard","Variance","SC3","true",1000,1000,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",1500,327,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",1500,1500,0.0349207182305541,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",1500,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",1500,1500,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",1500,1500,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",1500,327,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",1500,1500,-0.00856006369463126,FALSE
+"SimKumar4hard","GateOnly","SC3","true",1500,325,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",1500,1500,1,FALSE
+"SimKumar4hard","Variance","SC3","true",1500,1500,1,FALSE
+"SimKumar4hard","DIFS","Refined Louvain","true",2500,327,1,FALSE
+"SimKumar4hard","FEAST","Refined Louvain","true",2500,2500,0.116255900691977,FALSE
+"SimKumar4hard","GateOnly","Refined Louvain","true",2500,325,1,FALSE
+"SimKumar4hard","Seurat","Refined Louvain","true",2500,2500,1,FALSE
+"SimKumar4hard","Variance","Refined Louvain","true",2500,2500,1,FALSE
+"SimKumar4hard","DIFS","SC3","true",2500,327,1,FALSE
+"SimKumar4hard","FEAST","SC3","true",2500,2500,-0.0085066638655551,FALSE
+"SimKumar4hard","GateOnly","SC3","true",2500,325,1,FALSE
+"SimKumar4hard","Seurat","SC3","true",2500,2500,1,FALSE
+"SimKumar4hard","Variance","SC3","true",2500,2500,1,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",0,775,0.40731058020647,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",0,775,0.383722214553224,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",0,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",0,775,0.286473428182583,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",0,775,0.389633240161969,FALSE
+"Trapnell","DIFS","SC3","estimated",0,775,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","estimated",0,775,0.213574005215485,FALSE
+"Trapnell","GateOnly","SC3","estimated",0,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","estimated",0,775,0.200687435862436,FALSE
+"Trapnell","Variance","SC3","estimated",0,775,0.454263103262495,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",100,100,0.421155504048502,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",100,100,0.110483834712464,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",100,100,0.350245923436057,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",100,100,0.0951549344152329,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",100,100,0.39589435641917,FALSE
+"Trapnell","DIFS","SC3","estimated",100,100,0.209565871365121,FALSE
+"Trapnell","FEAST","SC3","estimated",100,100,0.209313209690326,FALSE
+"Trapnell","GateOnly","SC3","estimated",100,100,0.0893692192255059,FALSE
+"Trapnell","Seurat","SC3","estimated",100,100,0.406465494639818,FALSE
+"Trapnell","Variance","SC3","estimated",100,100,0.171853308555892,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",200,200,0.427790914697616,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",200,200,0.0011024101037112,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",200,200,0.419210484364439,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",200,200,0.102727952202324,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",200,200,0.40963197031019,FALSE
+"Trapnell","DIFS","SC3","estimated",200,200,0.215904383603479,FALSE
+"Trapnell","FEAST","SC3","estimated",200,200,0.206314077582256,FALSE
+"Trapnell","GateOnly","SC3","estimated",200,200,0.105431658333174,FALSE
+"Trapnell","Seurat","SC3","estimated",200,200,0.202044847077311,FALSE
+"Trapnell","Variance","SC3","estimated",200,200,0.455784407123095,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",300,300,0.421605112878002,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",300,300,0.108350869700101,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",300,300,0.44392828100297,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",300,300,0.291506965548094,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",300,300,0.41987488548164,FALSE
+"Trapnell","DIFS","SC3","estimated",300,300,0.455784407123095,FALSE
+"Trapnell","FEAST","SC3","estimated",300,300,0.173149441389365,FALSE
+"Trapnell","GateOnly","SC3","estimated",300,300,0.196659779342637,FALSE
+"Trapnell","Seurat","SC3","estimated",300,300,0.208159136789382,FALSE
+"Trapnell","Variance","SC3","estimated",300,300,0.455784407123095,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",500,500,0.394895794842113,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",500,500,0.0966559133135552,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",500,500,0.444630387046871,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",500,500,0.293713536119966,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",500,500,0.394966722225069,FALSE
+"Trapnell","DIFS","SC3","estimated",500,500,0.455087400334474,FALSE
+"Trapnell","FEAST","SC3","estimated",500,500,0.210408196234582,FALSE
+"Trapnell","GateOnly","SC3","estimated",500,500,0.445713109258756,FALSE
+"Trapnell","Seurat","SC3","estimated",500,500,0.314915680018047,FALSE
+"Trapnell","Variance","SC3","estimated",500,500,0.45408590751551,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",750,750,0.419503367597968,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",750,750,0.415264893817798,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",750,750,0.444630387046871,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",750,750,0.28540984384911,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",750,750,0.40034701563758,FALSE
+"Trapnell","DIFS","SC3","estimated",750,750,0.453574394563188,FALSE
+"Trapnell","FEAST","SC3","estimated",750,750,0.213574005215485,FALSE
+"Trapnell","GateOnly","SC3","estimated",750,750,0.455784407123095,FALSE
+"Trapnell","Seurat","SC3","estimated",750,750,0.324574384072896,FALSE
+"Trapnell","Variance","SC3","estimated",750,750,0.453574394563188,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",1000,1000,0.419285964815292,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",1000,1000,0.383722214553224,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",1000,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",1000,1000,0.288780881966083,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",1000,1000,0.408195285479477,FALSE
+"Trapnell","DIFS","SC3","estimated",1000,1000,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","estimated",1000,1000,0.213574005215485,FALSE
+"Trapnell","GateOnly","SC3","estimated",1000,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","estimated",1000,1000,0.31415406742491,FALSE
+"Trapnell","Variance","SC3","estimated",1000,1000,0.455190810384428,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",1500,1170,0.393492828734752,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",1500,1500,0.278418875558761,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",1500,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",1500,1500,0.282144030747127,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",1500,1500,0.409521491802491,FALSE
+"Trapnell","DIFS","SC3","estimated",1500,1170,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","estimated",1500,1500,0.326017180790273,FALSE
+"Trapnell","GateOnly","SC3","estimated",1500,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","estimated",1500,1500,0.441339731010984,FALSE
+"Trapnell","Variance","SC3","estimated",1500,1500,0.455190810384428,FALSE
+"Trapnell","DIFS","Refined Louvain","estimated",2500,1170,0.393492828734752,FALSE
+"Trapnell","FEAST","Refined Louvain","estimated",2500,2500,0.26934299562177,FALSE
+"Trapnell","GateOnly","Refined Louvain","estimated",2500,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","estimated",2500,2500,0.268591930845707,FALSE
+"Trapnell","Variance","Refined Louvain","estimated",2500,2500,0.408195285479477,FALSE
+"Trapnell","DIFS","SC3","estimated",2500,1170,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","estimated",2500,2500,0.337454490528269,FALSE
+"Trapnell","GateOnly","SC3","estimated",2500,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","estimated",2500,2500,0.441538773079542,FALSE
+"Trapnell","Variance","SC3","estimated",2500,2500,0.455190810384428,FALSE
+"Trapnell","DIFS","Refined Louvain","true",0,775,0.40731058020647,FALSE
+"Trapnell","FEAST","Refined Louvain","true",0,775,0.383722214553224,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",0,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","true",0,775,0.286473428182583,FALSE
+"Trapnell","Variance","Refined Louvain","true",0,775,0.389633240161969,FALSE
+"Trapnell","DIFS","SC3","true",0,775,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","true",0,775,0.213574005215485,FALSE
+"Trapnell","GateOnly","SC3","true",0,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","true",0,775,0.200687435862436,FALSE
+"Trapnell","Variance","SC3","true",0,775,0.454263103262495,FALSE
+"Trapnell","DIFS","Refined Louvain","true",100,100,0.421155504048502,FALSE
+"Trapnell","FEAST","Refined Louvain","true",100,100,0.110483834712464,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",100,100,0.350245923436057,FALSE
+"Trapnell","Seurat","Refined Louvain","true",100,100,0.0951549344152329,FALSE
+"Trapnell","Variance","Refined Louvain","true",100,100,0.39589435641917,FALSE
+"Trapnell","DIFS","SC3","true",100,100,0.209565871365121,FALSE
+"Trapnell","FEAST","SC3","true",100,100,0.209313209690326,FALSE
+"Trapnell","GateOnly","SC3","true",100,100,0.0893692192255059,FALSE
+"Trapnell","Seurat","SC3","true",100,100,0.406465494639818,FALSE
+"Trapnell","Variance","SC3","true",100,100,0.171853308555892,FALSE
+"Trapnell","DIFS","Refined Louvain","true",200,200,0.427790914697616,FALSE
+"Trapnell","FEAST","Refined Louvain","true",200,200,0.0011024101037112,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",200,200,0.419210484364439,FALSE
+"Trapnell","Seurat","Refined Louvain","true",200,200,0.102727952202324,FALSE
+"Trapnell","Variance","Refined Louvain","true",200,200,0.40963197031019,FALSE
+"Trapnell","DIFS","SC3","true",200,200,0.215904383603479,FALSE
+"Trapnell","FEAST","SC3","true",200,200,0.206314077582256,FALSE
+"Trapnell","GateOnly","SC3","true",200,200,0.105431658333174,FALSE
+"Trapnell","Seurat","SC3","true",200,200,0.202044847077311,FALSE
+"Trapnell","Variance","SC3","true",200,200,0.455784407123095,FALSE
+"Trapnell","DIFS","Refined Louvain","true",300,300,0.421605112878002,FALSE
+"Trapnell","FEAST","Refined Louvain","true",300,300,0.108350869700101,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",300,300,0.44392828100297,FALSE
+"Trapnell","Seurat","Refined Louvain","true",300,300,0.291506965548094,FALSE
+"Trapnell","Variance","Refined Louvain","true",300,300,0.41987488548164,FALSE
+"Trapnell","DIFS","SC3","true",300,300,0.455784407123095,FALSE
+"Trapnell","FEAST","SC3","true",300,300,0.173149441389365,FALSE
+"Trapnell","GateOnly","SC3","true",300,300,0.196659779342637,FALSE
+"Trapnell","Seurat","SC3","true",300,300,0.208159136789382,FALSE
+"Trapnell","Variance","SC3","true",300,300,0.455784407123095,FALSE
+"Trapnell","DIFS","Refined Louvain","true",500,500,0.394895794842113,FALSE
+"Trapnell","FEAST","Refined Louvain","true",500,500,0.0966559133135552,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",500,500,0.444630387046871,FALSE
+"Trapnell","Seurat","Refined Louvain","true",500,500,0.293713536119966,FALSE
+"Trapnell","Variance","Refined Louvain","true",500,500,0.394966722225069,FALSE
+"Trapnell","DIFS","SC3","true",500,500,0.455087400334474,FALSE
+"Trapnell","FEAST","SC3","true",500,500,0.210408196234582,FALSE
+"Trapnell","GateOnly","SC3","true",500,500,0.445713109258756,FALSE
+"Trapnell","Seurat","SC3","true",500,500,0.314915680018047,FALSE
+"Trapnell","Variance","SC3","true",500,500,0.45408590751551,FALSE
+"Trapnell","DIFS","Refined Louvain","true",750,750,0.419503367597968,FALSE
+"Trapnell","FEAST","Refined Louvain","true",750,750,0.415264893817798,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",750,750,0.444630387046871,FALSE
+"Trapnell","Seurat","Refined Louvain","true",750,750,0.28540984384911,FALSE
+"Trapnell","Variance","Refined Louvain","true",750,750,0.40034701563758,FALSE
+"Trapnell","DIFS","SC3","true",750,750,0.453574394563188,FALSE
+"Trapnell","FEAST","SC3","true",750,750,0.213574005215485,FALSE
+"Trapnell","GateOnly","SC3","true",750,750,0.455784407123095,FALSE
+"Trapnell","Seurat","SC3","true",750,750,0.324574384072896,FALSE
+"Trapnell","Variance","SC3","true",750,750,0.453574394563188,FALSE
+"Trapnell","DIFS","Refined Louvain","true",1000,1000,0.419285964815292,FALSE
+"Trapnell","FEAST","Refined Louvain","true",1000,1000,0.383722214553224,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",1000,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","true",1000,1000,0.288780881966083,FALSE
+"Trapnell","Variance","Refined Louvain","true",1000,1000,0.408195285479477,FALSE
+"Trapnell","DIFS","SC3","true",1000,1000,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","true",1000,1000,0.213574005215485,FALSE
+"Trapnell","GateOnly","SC3","true",1000,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","true",1000,1000,0.31415406742491,FALSE
+"Trapnell","Variance","SC3","true",1000,1000,0.455190810384428,FALSE
+"Trapnell","DIFS","Refined Louvain","true",1500,1170,0.393492828734752,FALSE
+"Trapnell","FEAST","Refined Louvain","true",1500,1500,0.278418875558761,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",1500,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","true",1500,1500,0.282144030747127,FALSE
+"Trapnell","Variance","Refined Louvain","true",1500,1500,0.409521491802491,FALSE
+"Trapnell","DIFS","SC3","true",1500,1170,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","true",1500,1500,0.326017180790273,FALSE
+"Trapnell","GateOnly","SC3","true",1500,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","true",1500,1500,0.441339731010984,FALSE
+"Trapnell","Variance","SC3","true",1500,1500,0.455190810384428,FALSE
+"Trapnell","DIFS","Refined Louvain","true",2500,1170,0.393492828734752,FALSE
+"Trapnell","FEAST","Refined Louvain","true",2500,2500,0.26934299562177,FALSE
+"Trapnell","GateOnly","Refined Louvain","true",2500,775,0.443744090304395,FALSE
+"Trapnell","Seurat","Refined Louvain","true",2500,2500,0.268591930845707,FALSE
+"Trapnell","Variance","Refined Louvain","true",2500,2500,0.408195285479477,FALSE
+"Trapnell","DIFS","SC3","true",2500,1170,0.455190810384428,FALSE
+"Trapnell","FEAST","SC3","true",2500,2500,0.337454490528269,FALSE
+"Trapnell","GateOnly","SC3","true",2500,775,0.453737941887082,FALSE
+"Trapnell","Seurat","SC3","true",2500,2500,0.441538773079542,FALSE
+"Trapnell","Variance","SC3","true",2500,2500,0.455190810384428,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",0,1935,0.290795927130309,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",0,1935,0.31934819186624,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",0,1935,0.251744216737345,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",0,1935,0.249533943306956,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",0,1935,0.268942170280661,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",0,1935,0.521030807657404,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",0,1935,0.455676155934063,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",0,1935,0.518165024833575,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",0,1935,0.348003782340428,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",0,1935,0.520682596333564,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",100,100,0.223635441980778,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",100,100,0.281570532744015,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",100,100,0.186754247569242,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",100,100,0.211501551387747,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",100,100,0.261015731589213,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",100,100,0.476851769501989,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",100,100,0.46309459780153,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",100,100,0.256093766581026,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",100,100,0.279777209758949,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",100,100,0.525872621955585,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",200,200,0.253085933418001,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",200,200,0.258937358097071,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",200,200,0.214742551830491,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",200,200,0.227014660436982,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",200,200,0.281195877023236,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",200,200,0.455385625183608,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",200,200,0.461481631623021,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",200,200,0.309857952518066,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",200,200,0.311101296730391,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",200,200,0.453967540113001,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",300,300,0.274374126999703,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",300,300,0.258469587880814,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",300,300,0.236125786118898,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",300,300,0.208250792148459,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",300,300,0.278003685278564,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",300,300,0.479888274804262,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",300,300,0.546412280579487,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",300,300,0.231787378141632,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",300,300,0.302155485257185,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",300,300,0.395950376999685,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",500,500,0.259876188642033,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",500,500,0.278553352674756,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",500,500,0.231709918825382,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",500,500,0.235116097666939,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",500,500,0.269969346032815,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",500,500,0.49799769544852,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",500,500,0.483465403436198,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",500,500,0.284782556486838,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",500,500,0.278433235540894,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",500,500,0.386011524571554,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",750,750,0.245809580279335,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",750,750,0.259367679679116,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",750,750,0.248062878123314,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",750,750,0.221052925800093,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",750,750,0.272702591924449,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",750,750,0.367737107391231,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",750,750,0.471209028319082,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",750,750,0.373393373999835,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",750,750,0.3158073591617,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",750,750,0.466570490170792,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",1000,1000,0.28332166903325,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",1000,1000,0.273321532107836,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",1000,1000,0.259749002987757,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",1000,1000,0.25800484959672,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",1000,1000,0.27290199961234,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",1000,1000,0.398061888696052,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",1000,1000,0.494510390748732,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",1000,1000,0.534595869443488,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",1000,1000,0.406594499653722,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",1000,1000,0.424937715543985,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",1500,1500,0.298793392728439,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",1500,1500,0.284508408270134,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",1500,1500,0.304018133735794,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",1500,1500,0.286288709776333,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",1500,1500,0.276698046747155,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",1500,1500,0.51854978108372,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",1500,1500,0.389116418010972,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",1500,1500,0.505075009306722,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",1500,1500,0.342886690681656,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",1500,1500,0.504459216275303,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","estimated",2500,2496,0.281263099911695,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","estimated",2500,2500,0.269481022117305,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","estimated",2500,1935,0.251744216737345,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","estimated",2500,2500,0.284033855507867,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","estimated",2500,2500,0.258453259187536,FALSE
+"Zhengmix4eq","DIFS","SC3","estimated",2500,2496,0.528179526397811,FALSE
+"Zhengmix4eq","FEAST","SC3","estimated",2500,2500,0.433842889913948,FALSE
+"Zhengmix4eq","GateOnly","SC3","estimated",2500,1935,0.518165024833575,FALSE
+"Zhengmix4eq","Seurat","SC3","estimated",2500,2500,0.304181329427148,FALSE
+"Zhengmix4eq","Variance","SC3","estimated",2500,2500,0.535282965413257,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",0,1935,0.982056896971247,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",0,1935,0.980061933516047,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",0,1935,0.982708630217353,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",0,1935,0.691054086366012,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",0,1935,0.983374670225232,FALSE
+"Zhengmix4eq","DIFS","SC3","true",0,1935,0.984708792426562,FALSE
+"Zhengmix4eq","FEAST","SC3","true",0,1935,0.982698500554799,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",0,1935,0.979507790326001,FALSE
+"Zhengmix4eq","Seurat","SC3","true",0,1935,0.693075049684459,FALSE
+"Zhengmix4eq","Variance","SC3","true",0,1935,0.984041391181789,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",100,100,0.932724156417917,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",100,100,0.970294669421659,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",100,100,0.636579059394834,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",100,100,0.69466934632195,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",100,100,0.688600146114812,FALSE
+"Zhengmix4eq","DIFS","SC3","true",100,100,0.706321201885592,FALSE
+"Zhengmix4eq","FEAST","SC3","true",100,100,0.700248332840249,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",100,100,0.268642043763846,FALSE
+"Zhengmix4eq","Seurat","SC3","true",100,100,0.685250515802998,FALSE
+"Zhengmix4eq","Variance","SC3","true",100,100,0.706400713252361,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",200,200,0.971573414026945,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",200,200,0.97677635637195,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",200,200,0.678368637284131,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",200,200,0.690377161612762,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",200,200,0.961967880779625,FALSE
+"Zhengmix4eq","DIFS","SC3","true",200,200,0.694175354753831,FALSE
+"Zhengmix4eq","FEAST","SC3","true",200,200,0.982033439418293,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",200,200,0.67024603173356,FALSE
+"Zhengmix4eq","Seurat","SC3","true",200,200,0.706076104529934,FALSE
+"Zhengmix4eq","Variance","SC3","true",200,200,0.973622449835673,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",300,300,0.975490551633489,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",300,300,0.980734263266718,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",300,300,0.703551506967289,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",300,300,0.690437386363027,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",300,300,0.969065919288595,FALSE
+"Zhengmix4eq","DIFS","SC3","true",300,300,0.693712195914477,FALSE
+"Zhengmix4eq","FEAST","SC3","true",300,300,0.68844833848954,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",300,300,0.696956570160536,FALSE
+"Zhengmix4eq","Seurat","SC3","true",300,300,0.694569164751572,FALSE
+"Zhengmix4eq","Variance","SC3","true",300,300,0.967175074566981,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",500,500,0.979406340601255,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",500,500,0.980084324234994,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",500,500,0.959445494414031,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",500,500,0.69067963072503,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",500,500,0.97093436062916,FALSE
+"Zhengmix4eq","DIFS","SC3","true",500,500,0.704539311653033,FALSE
+"Zhengmix4eq","FEAST","SC3","true",500,500,0.985382601934703,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",500,500,0.703300634978629,FALSE
+"Zhengmix4eq","Seurat","SC3","true",500,500,0.693075049684459,FALSE
+"Zhengmix4eq","Variance","SC3","true",500,500,0.982738325025026,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",750,750,0.981383255712278,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",750,750,0.978758485829256,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",750,750,0.967779118276047,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",750,750,0.690992053412418,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",750,750,0.978763144621179,FALSE
+"Zhengmix4eq","DIFS","SC3","true",750,750,0.984704526639901,FALSE
+"Zhengmix4eq","FEAST","SC3","true",750,750,0.985376608900584,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",750,750,0.704861702151548,FALSE
+"Zhengmix4eq","Seurat","SC3","true",750,750,0.693075049684459,FALSE
+"Zhengmix4eq","Variance","SC3","true",750,750,0.982728403465064,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",1000,1000,0.983367811811684,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",1000,1000,0.980062244722093,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",1000,1000,0.982055173039717,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",1000,1000,0.690573743723808,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",1000,1000,0.978745180918704,FALSE
+"Zhengmix4eq","DIFS","SC3","true",1000,1000,0.980714602469705,FALSE
+"Zhengmix4eq","FEAST","SC3","true",1000,1000,0.982082645646614,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",1000,1000,0.979447731511243,FALSE
+"Zhengmix4eq","Seurat","SC3","true",1000,1000,0.693075049684459,FALSE
+"Zhengmix4eq","Variance","SC3","true",1000,1000,0.979507790326001,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",1500,1500,0.984035952555774,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",1500,1500,0.97939537919616,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",1500,1500,0.980090639927853,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",1500,1500,0.691054086366012,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",1500,1500,0.979437818189005,FALSE
+"Zhengmix4eq","DIFS","SC3","true",1500,1500,0.982698500554799,FALSE
+"Zhengmix4eq","FEAST","SC3","true",1500,1500,0.98603569880754,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",1500,1500,0.985399154860866,FALSE
+"Zhengmix4eq","Seurat","SC3","true",1500,1500,0.703976883114792,FALSE
+"Zhengmix4eq","Variance","SC3","true",1500,1500,0.98015824906823,FALSE
+"Zhengmix4eq","DIFS","Refined Louvain","true",2500,2023,0.982704511191687,FALSE
+"Zhengmix4eq","FEAST","Refined Louvain","true",2500,2500,0.9813733121981,FALSE
+"Zhengmix4eq","GateOnly","Refined Louvain","true",2500,1935,0.982708630217353,FALSE
+"Zhengmix4eq","Seurat","Refined Louvain","true",2500,2500,0.691054086366012,FALSE
+"Zhengmix4eq","Variance","Refined Louvain","true",2500,2500,0.981383255712278,FALSE
+"Zhengmix4eq","DIFS","SC3","true",2500,2023,0.984033169068228,FALSE
+"Zhengmix4eq","FEAST","SC3","true",2500,2500,0.982033439418293,FALSE
+"Zhengmix4eq","GateOnly","SC3","true",2500,1935,0.979507790326001,FALSE
+"Zhengmix4eq","Seurat","SC3","true",2500,2500,0.704463175188262,FALSE
+"Zhengmix4eq","Variance","SC3","true",2500,2500,0.978800713292912,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",0,2134,0.481163268041318,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",0,2134,0.435490525348953,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",0,2134,0.451824310123959,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",0,2134,0.316701220452286,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",0,2134,0.457682452750839,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",0,2134,0.537947245967497,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",0,2134,0.532844964004311,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",0,2134,0.5403494613098,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",0,2134,0.425069135325754,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",0,2134,0.576158705550541,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",100,100,0.401576586924475,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",100,100,0.290586437639047,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",100,100,0.195099523451958,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",100,100,0.355032995238047,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",100,100,0.40277001258403,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",100,100,0.615356428404271,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",100,100,0.56930106854244,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",100,100,0.119293929830684,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",100,100,0.599297351741578,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",200,200,0.407708155836918,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",200,200,0.343327102626843,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",200,200,0.298345519165972,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",200,200,0.312846002710073,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",200,200,0.430055351206824,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",200,200,0.584800261267977,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",200,200,0.61472777668107,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",200,200,0.185804409357957,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",200,200,0.430509017559494,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",200,200,0.517988346086642,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",300,300,0.453339064101891,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",300,300,0.433511647983248,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",300,300,0.342128383484793,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",300,300,0.334249535196474,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",300,300,0.486275447251498,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",300,300,0.509406850253588,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",300,300,0.629239814252657,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",300,300,0.227092878378083,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",300,300,0.425449507915994,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",300,300,0.354148271182631,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",500,500,0.407588566665984,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",500,500,0.386821715762828,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",500,500,0.370444136937519,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",500,500,0.323949564305341,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",500,500,0.469361512668582,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",500,500,0.416671845325796,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",500,500,0.613512310427139,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",500,500,0.314065174927931,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",500,500,0.461728895995757,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",500,500,0.399355710675495,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",750,750,0.418706620880268,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",750,750,0.446589299740716,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",750,750,0.428507319785691,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",750,750,0.342360648402146,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",750,750,0.454978637089676,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",750,750,0.45065954229299,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",750,750,0.570672582834861,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",750,750,0.546633477604277,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",750,750,0.59028867847385,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",750,750,0.479705955440169,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",1000,1000,0.406265730803855,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",1000,1000,0.447096712460086,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",1000,1000,0.466542734703505,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",1000,1000,0.333276825715856,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",1000,1000,0.471146679774129,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",1000,1000,0.476067877835817,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",1000,1000,0.539812253811675,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",1000,1000,0.480279817829437,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",1000,1000,0.602386423431256,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",1000,1000,0.535756822195374,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",1500,1500,0.455910540787146,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",1500,1500,0.444356764797867,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",1500,1500,0.428535205832138,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",1500,1500,0.337632042934377,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",1500,1500,0.461078449154858,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",1500,1500,0.485976423592386,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",1500,1500,0.547138997158281,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",1500,1500,0.554114926007243,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",1500,1500,0.490097587749524,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",1500,1500,0.547292649578806,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","estimated",2500,2500,0.475562634644959,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","estimated",2500,2500,0.436000084218023,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","estimated",2500,2134,0.451824310123959,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","estimated",2500,2500,0.342432114178935,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","estimated",2500,2500,0.446177056558463,FALSE
+"Zhengmix8eq","DIFS","SC3","estimated",2500,2500,0.537041675853692,FALSE
+"Zhengmix8eq","FEAST","SC3","estimated",2500,2500,0.516292292646955,FALSE
+"Zhengmix8eq","GateOnly","SC3","estimated",2500,2134,0.5403494613098,FALSE
+"Zhengmix8eq","Seurat","SC3","estimated",2500,2500,0.432568549333137,FALSE
+"Zhengmix8eq","Variance","SC3","estimated",2500,2500,0.55680255978425,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",0,2134,0.742182853104296,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",0,2134,0.76767378113651,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",0,2134,0.754286911708078,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",0,2134,0.596845747330842,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",0,2134,0.740237864595572,FALSE
+"Zhengmix8eq","DIFS","SC3","true",0,2134,0.762445053070693,FALSE
+"Zhengmix8eq","FEAST","SC3","true",0,2134,0.752237425524955,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",0,2134,0.743228122899606,FALSE
+"Zhengmix8eq","Seurat","SC3","true",0,2134,0.46577226701802,FALSE
+"Zhengmix8eq","Variance","SC3","true",0,2134,0.748617120481214,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",100,100,0.590950347981019,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",100,100,0.536052709004221,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",100,100,0.318162663984676,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",100,100,0.471713629749976,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",100,100,0.605260495237487,FALSE
+"Zhengmix8eq","DIFS","SC3","true",100,100,0.540788113731556,FALSE
+"Zhengmix8eq","FEAST","SC3","true",100,100,0.368523078235419,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",100,100,0.0741023131001177,FALSE
+"Zhengmix8eq","Variance","SC3","true",100,100,0.524613467309635,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",200,200,0.705300580267405,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",200,200,0.607102647382229,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",200,200,0.476567222649047,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",200,200,0.525092034731331,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",200,200,0.685391791305979,FALSE
+"Zhengmix8eq","DIFS","SC3","true",200,200,0.594913570419011,FALSE
+"Zhengmix8eq","FEAST","SC3","true",200,200,0.427520934986989,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",200,200,0.270293306656425,FALSE
+"Zhengmix8eq","Seurat","SC3","true",200,200,0.399862136168117,FALSE
+"Zhengmix8eq","Variance","SC3","true",200,200,0.628329795790284,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",300,300,0.712816122239834,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",300,300,0.720453003237105,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",300,300,0.533802240993269,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",300,300,0.582398579280212,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",300,300,0.710434729192319,FALSE
+"Zhengmix8eq","DIFS","SC3","true",300,300,0.632159253223291,FALSE
+"Zhengmix8eq","FEAST","SC3","true",300,300,0.493026239276438,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",300,300,0.426287570892183,FALSE
+"Zhengmix8eq","Seurat","SC3","true",300,300,0.36478560506782,FALSE
+"Zhengmix8eq","Variance","SC3","true",300,300,0.688305867163345,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",500,500,0.725872108440017,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",500,500,0.745036308355745,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",500,500,0.566358475411319,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",500,500,0.568331009662938,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",500,500,0.726357589689883,FALSE
+"Zhengmix8eq","DIFS","SC3","true",500,500,0.648177429943636,FALSE
+"Zhengmix8eq","FEAST","SC3","true",500,500,0.739372564775446,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",500,500,0.499808365377673,FALSE
+"Zhengmix8eq","Seurat","SC3","true",500,500,0.436361665067161,FALSE
+"Zhengmix8eq","Variance","SC3","true",500,500,0.70739583712847,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",750,750,0.736754974773863,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",750,750,0.756177100295401,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",750,750,0.70086317751064,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",750,750,0.562065353366399,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",750,750,0.727701114743616,FALSE
+"Zhengmix8eq","DIFS","SC3","true",750,750,0.73954336807788,FALSE
+"Zhengmix8eq","FEAST","SC3","true",750,750,0.753898336459684,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",750,750,0.682434609095862,FALSE
+"Zhengmix8eq","Seurat","SC3","true",750,750,0.471228319611488,FALSE
+"Zhengmix8eq","Variance","SC3","true",750,750,0.728978090333015,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",1000,1000,0.738712490291205,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",1000,1000,0.758409680887976,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",1000,1000,0.712706138168064,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",1000,1000,0.587533580230748,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",1000,1000,0.747481683672815,FALSE
+"Zhengmix8eq","DIFS","SC3","true",1000,1000,0.73380438510077,FALSE
+"Zhengmix8eq","FEAST","SC3","true",1000,1000,0.74138377721509,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",1000,1000,0.702577122046823,FALSE
+"Zhengmix8eq","Seurat","SC3","true",1000,1000,0.484717879917102,FALSE
+"Zhengmix8eq","Variance","SC3","true",1000,1000,0.74159653182466,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",1500,1500,0.742801823320289,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",1500,1500,0.766775056074034,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",1500,1500,0.746834328627253,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",1500,1500,0.585661912136463,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",1500,1500,0.74536319139351,FALSE
+"Zhengmix8eq","DIFS","SC3","true",1500,1500,0.711124521074012,FALSE
+"Zhengmix8eq","FEAST","SC3","true",1500,1500,0.767629866585118,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",1500,1500,0.745777733479465,FALSE
+"Zhengmix8eq","Seurat","SC3","true",1500,1500,0.473157741055829,FALSE
+"Zhengmix8eq","Variance","SC3","true",1500,1500,0.730885448209178,FALSE
+"Zhengmix8eq","DIFS","Refined Louvain","true",2500,2259,0.76647194030324,FALSE
+"Zhengmix8eq","FEAST","Refined Louvain","true",2500,2500,0.77395477709265,FALSE
+"Zhengmix8eq","GateOnly","Refined Louvain","true",2500,2134,0.754286911708078,FALSE
+"Zhengmix8eq","Seurat","Refined Louvain","true",2500,2500,0.590738681366745,FALSE
+"Zhengmix8eq","Variance","Refined Louvain","true",2500,2500,0.744617443007343,FALSE
+"Zhengmix8eq","DIFS","SC3","true",2500,2259,0.754878618026892,FALSE
+"Zhengmix8eq","FEAST","SC3","true",2500,2500,0.750372849011546,FALSE
+"Zhengmix8eq","GateOnly","SC3","true",2500,2134,0.743228122899606,FALSE
+"Zhengmix8eq","Seurat","SC3","true",2500,2500,0.495762424754023,FALSE
+"Zhengmix8eq","Variance","SC3","true",2500,2500,0.754706762568142,FALSE

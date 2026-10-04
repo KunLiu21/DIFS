@@ -10,3 +10,5 @@ example/validated/kumar-20260925/*.log whitespace=-blank-at-eol,-blank-at-eof
 example/validated/kumar-clean-*/** -text
 example/validated/kumar-clean-*/**/*.txt whitespace=-blank-at-eol,-blank-at-eof
 example/validated/kumar-clean-*/**/*.log whitespace=-blank-at-eol,-blank-at-eof
+# Organized result snapshots retain original bytes for provenance hashes.
+results/revision2/**/*.csv -text
