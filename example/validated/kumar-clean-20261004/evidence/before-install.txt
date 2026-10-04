@@ -1,0 +1,42 @@
+$R
+[1] "R version 4.4.1 (2024-06-14)"
+
+$libPaths
+[1] "/home/runner/work/DIFS/DIFS/clean-room/library"
+[2] "/opt/R/4.4.1/lib/R/library"                    
+
+$initial_packages
+           Package      Version    LibPath                      Priority     
+base       "base"       "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+boot       "boot"       "1.3-30"   "/opt/R/4.4.1/lib/R/library" "recommended"
+class      "class"      "7.3-22"   "/opt/R/4.4.1/lib/R/library" "recommended"
+cluster    "cluster"    "2.1.6"    "/opt/R/4.4.1/lib/R/library" "recommended"
+codetools  "codetools"  "0.2-20"   "/opt/R/4.4.1/lib/R/library" "recommended"
+compiler   "compiler"   "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+datasets   "datasets"   "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+foreign    "foreign"    "0.8-86"   "/opt/R/4.4.1/lib/R/library" "recommended"
+graphics   "graphics"   "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+grDevices  "grDevices"  "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+grid       "grid"       "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+KernSmooth "KernSmooth" "2.23-24"  "/opt/R/4.4.1/lib/R/library" "recommended"
+lattice    "lattice"    "0.22-6"   "/opt/R/4.4.1/lib/R/library" "recommended"
+MASS       "MASS"       "7.3-60.2" "/opt/R/4.4.1/lib/R/library" "recommended"
+Matrix     "Matrix"     "1.7-0"    "/opt/R/4.4.1/lib/R/library" "recommended"
+methods    "methods"    "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+mgcv       "mgcv"       "1.9-1"    "/opt/R/4.4.1/lib/R/library" "recommended"
+nlme       "nlme"       "3.1-164"  "/opt/R/4.4.1/lib/R/library" "recommended"
+nnet       "nnet"       "7.3-19"   "/opt/R/4.4.1/lib/R/library" "recommended"
+parallel   "parallel"   "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+rpart      "rpart"      "4.1.23"   "/opt/R/4.4.1/lib/R/library" "recommended"
+spatial    "spatial"    "7.3-17"   "/opt/R/4.4.1/lib/R/library" "recommended"
+splines    "splines"    "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+stats      "stats"      "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+stats4     "stats4"     "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+survival   "survival"   "3.6-4"    "/opt/R/4.4.1/lib/R/library" "recommended"
+tcltk      "tcltk"      "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+tools      "tools"      "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+utils      "utils"      "4.4.1"    "/opt/R/4.4.1/lib/R/library" "base"       
+
+$empty_user_library
+[1] TRUE
+

@@ -1,0 +1,5 @@
+  cells gene_sets_identical gene_order_identical shared_genes
+1   246                TRUE                 TRUE          100
+  final_partition_ARI preliminary_partition_ARI
+1                   1                         1
+PASS: fresh data/install run reproduces the archived genes and partitions.

@@ -1,0 +1,160 @@
+{
+  "status": "PASS",
+  "executed_commit": "368959ca80ab70b19a28b54ad47deb7d5aae26d5",
+  "cells": 246,
+  "genes": 100,
+  "metrics_independent_python": {
+    "ARI": 0.9887714688162261,
+    "FM": 0.9925453227736489,
+    "Jaccard": 0.985200431245712,
+    "Purity": 0.9959349593495935
+  },
+  "gene_order_identical": true,
+  "partition_ARI_old_vs_fresh": {
+    "preliminary": 1.0,
+    "predicted": 1.0
+  },
+  "input_md5": "6f512ef2c4edd19866a6321e4842a28d",
+  "pinned_versions": {
+    "Matrix": "1.7-0",
+    "SeuratObject": "5.0.2",
+    "Seurat": "4.4.0",
+    "diptest": "0.77-2",
+    "matrixStats": "1.4.1",
+    "igraph": "2.0.3",
+    "SC3": "1.32.0",
+    "FEAST": "1.12.0"
+  },
+  "artifact_manifest": [
+    {
+      "file": "clean-room/evidence/before-install.txt",
+      "bytes": 2545,
+      "sha256": "53b9f5800d8cb8a234f1e5805e9695220438fc8c8edbb0d54b5ad1df76aaf054"
+    },
+    {
+      "file": "clean-room/evidence/comparison.log",
+      "bytes": 295,
+      "sha256": "9e37e13fe320e973ffbbae702a6779c0f6a51e8f8d77b414b5c08c6ff57cbeaf"
+    },
+    {
+      "file": "clean-room/evidence/definition-loader-test.log",
+      "bytes": 102,
+      "sha256": "52298de10e2d8a98d714efb6d01e356773570bd767d51926f148c3a354e615b6"
+    },
+    {
+      "file": "clean-room/evidence/executed-commit.txt",
+      "bytes": 41,
+      "sha256": "0e2ccd657d39ab7c71fe3f6a1ac700d86cec1175a0bc5570fb34ec90164504d5"
+    },
+    {
+      "file": "clean-room/evidence/fresh-data-check.txt",
+      "bytes": 273,
+      "sha256": "5a0a51dd5f82f5ac8a30fb622edbe7a4f2e7289323240eb13ba52251293c7523"
+    },
+    {
+      "file": "clean-room/evidence/install-session.txt",
+      "bytes": 6233,
+      "sha256": "7e79876d3f52a39700da90f96e840b63b0ef39a7d9ee8ed9cf204f335fe24fed"
+    },
+    {
+      "file": "clean-room/evidence/install.log",
+      "bytes": 838180,
+      "sha256": "2868fffae79126615a14ca352d6fdeee225906f8be38b03306a8f75f6bc8c2ee"
+    },
+    {
+      "file": "clean-room/evidence/installed-packages.csv",
+      "bytes": 17000,
+      "sha256": "1d7c034f831d287a60e3a40688befd19428c42c8685df93fe1017472dcbe5c63"
+    },
+    {
+      "file": "clean-room/evidence/old-versus-fresh.csv",
+      "bytes": 140,
+      "sha256": "0967c4b2d6a86652ed8cbc5616ca37b6ee33cc34f4c74bf292fc8272e8896b61"
+    },
+    {
+      "file": "clean-room/evidence/os-packages.txt",
+      "bytes": 62209,
+      "sha256": "f35e67877ad896af51a127a25fe6cb08cbadb59414b0f3ef020b136a40a27051"
+    },
+    {
+      "file": "clean-room/evidence/os-release.txt",
+      "bytes": 386,
+      "sha256": "594d5ddd35aedb47f00d9c34d140017907a5b9f93c975aba125fc924daac5c07"
+    },
+    {
+      "file": "clean-room/evidence/prepare.log",
+      "bytes": 404,
+      "sha256": "5170eb2276a6d4ee4002a74862b91de8e9e31b729d591b88d795687dd5810291"
+    },
+    {
+      "file": "clean-room/evidence/run-console.log",
+      "bytes": 13292,
+      "sha256": "cc3b10eee3792f5526f9b4328a6a45ed3849ea540c7046f61bae3dd06438d646"
+    },
+    {
+      "file": "clean-room/evidence/verification.log",
+      "bytes": 432,
+      "sha256": "449529375b3f92b7535a091084b3d031217e6b7f7b08315306821bf3852e5a2c"
+    },
+    {
+      "file": "example/input/provenance.csv",
+      "bytes": 198,
+      "sha256": "e76a2511eba410f34ce16b12ac251971f0a46febe18e7032a3ea1bfea7874a44"
+    },
+    {
+      "file": "example/input/sessionInfo.txt",
+      "bytes": 4695,
+      "sha256": "b70185b04a978e72bdf9b16846d4ae8bee5babf0d894e545e15b640a987f868d"
+    },
+    {
+      "file": "example/output-clean/cell_labels.csv",
+      "bytes": 11413,
+      "sha256": "6d079bbe9b3f257595aec3a1f1d14209204b46efa309eb24ce51a124924913e9"
+    },
+    {
+      "file": "example/output-clean/difs_fit.rds",
+      "bytes": 101379,
+      "sha256": "9330fe682168e882895d6fdb3ff9b5a4bd66d6a329d7622145597cdd56bca9cf"
+    },
+    {
+      "file": "example/output-clean/historical_comparison.csv",
+      "bytes": 287,
+      "sha256": "bf2e4910ec96cc56114d3854a2cd7b74b75e2a60e0206f5e35cbab570227a5f3"
+    },
+    {
+      "file": "example/output-clean/input_checksums.csv",
+      "bytes": 99,
+      "sha256": "0e6a11a283a366c4b013e425c882b027cb9b5a7d8cfa447bc4ae7b59f8b7a7f6"
+    },
+    {
+      "file": "example/output-clean/input_diagnostics.csv",
+      "bytes": 169,
+      "sha256": "2e7fca35d510b65be44ff3711291b5e6b135f718d987a8e8f14db952c44f6a9c"
+    },
+    {
+      "file": "example/output-clean/run.log",
+      "bytes": 913,
+      "sha256": "25481e8606cefa8989899e9c6028fb4c61c9717e9a405a2db3c758fadb375701"
+    },
+    {
+      "file": "example/output-clean/selected_genes.csv",
+      "bytes": 2363,
+      "sha256": "a0936fef302bcedfff378d689ed96a3f4485f0a248d2de13c50922cbef12f316"
+    },
+    {
+      "file": "example/output-clean/sessionInfo.txt",
+      "bytes": 5489,
+      "sha256": "32a5b7d9891eceffd2cdf90f530cdb93e61bd0e49d7254d97bf22d45eed449a9"
+    },
+    {
+      "file": "example/output-clean/sessionInfo_before_fit.txt",
+      "bytes": 3402,
+      "sha256": "f7c64c49fafd6e4ad6d29659f5ff207061b5f4c0672713e87ed655285bcf4ab5"
+    },
+    {
+      "file": "example/output-clean/summary.csv",
+      "bytes": 282,
+      "sha256": "ded9b8c4e730dde68c85e636c23f59be91c0afe9f2074d009655b70abc0c4c18"
+    }
+  ]
+}
