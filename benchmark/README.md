@@ -1,5 +1,10 @@
 # Benchmark reproduction
 
+For the 2026-10-04 additions, start with [REVISION2.md](REVISION2.md).
+It provides an isolated workspace and explains the numerical precision
+corrections in the new summaries. The instructions below describe the
+historical v2.0 grid and repair workflow.
+
 The code here comes from the corrected revision working version v0.5. Long
 historical discussion comments were removed; scientific function definitions
 are preserved. The repaired SC3 wrapper is loaded by the revision runner.

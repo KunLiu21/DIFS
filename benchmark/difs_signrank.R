@@ -6,6 +6,8 @@ difs_signrank <- function(d, y = NULL, max_m = 20L) {
   }
   if (!is.numeric(d) || any(!is.finite(d)))
     stop("difs_signrank: all paired differences must be finite numeric values")
+  # Match the revision's declared numerical zero/tie convention across CSV/RDS inputs.
+  d <- round(d, 12)
   n_all <- length(d)
   d <- d[d != 0]
   m <- length(d)

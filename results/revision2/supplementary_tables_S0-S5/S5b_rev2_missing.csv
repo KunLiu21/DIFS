@@ -1,0 +1,10 @@
+"result_set","task","dataset","arm","clustering_method","n_requested","k_offset","cluster_seed","subsample_rep","seed"
+"reps",791,"Zhengmix8eq","Seurat","SC3",100,NA,101,0,101
+"reps",792,"Zhengmix8eq","Seurat","SC3",100,NA,102,0,102
+"reps",793,"Zhengmix8eq","Seurat","SC3",100,NA,103,0,103
+"reps",794,"Zhengmix8eq","Seurat","SC3",100,NA,104,0,104
+"reps",795,"Zhengmix8eq","Seurat","SC3",100,NA,105,0,105
+"reps",810,"Zhengmix8eq","FEAST","SC3",100,NA,NA,5,1
+"reps",1514,"Baron","Seurat","SC3",100,NA,104,0,104
+"krange",84,"SimKumar4hard","FEAST","Refined Louvain",300,2,NA,0,1
+"krange",96,"SimKumar4hard","FEAST","SC3",300,2,NA,0,1

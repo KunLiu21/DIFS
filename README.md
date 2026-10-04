@@ -72,6 +72,15 @@ internal algorithm's random state. Environment differences may change results.
 
 ## Reproduce the paper's analyses
 
+**Second-round materials (pre-release, 2026-10-04):**
+[analysis guide](benchmark/REVISION2.md) and
+[organized result snapshot](results/revision2/README.md) add component controls,
+repeated runs, k sensitivity, markers, runtime and full-method simulations.
+The component and marker summaries include the 12-decimal signed-rank zero/tie
+correction, independently checked from their observations. This material update
+has not yet been tagged as `v2.1-revision`.
+The validated Kumar API and historical v2.0 result archive are unchanged.
+
 - [benchmark/README.md](benchmark/README.md): preparation, configuration, runs,
   repair provenance, summary tables and figures.
 - [results/README.md](results/README.md): corrected S0–S5 and diagnostic tables.
@@ -80,11 +89,15 @@ internal algorithm's random state. Environment differences may change results.
   identities and packaging changes.
 - [CHANGELOG.md](CHANGELOG.md): implementation and reporting corrections.
 
-The main grid has **2,320 observed configurations out of 2,340 planned**, plus
+The historical v2.0 main grid has **2,320 observed configurations out of 2,340 planned**, plus
 117 ablation runs and 52 Hartigan-reference runs. It is not 2,340 successful
 runs. Raw matrices and per-run RDS files are not redistributed here; download
 instructions and the corrected tabular results are provided. A single worked
 example is not a clean-environment rerun of all benchmarks.
+
+The second-round manuscript excludes the historical Variance control and uses
+1852/1872 main-grid configurations. Its workbook also includes S0b/S5b and
+S6–S9b; see the snapshot guide for exact filtering and missing/skipped counts.
 
 To regenerate corrected figures without rerunning clustering:
 

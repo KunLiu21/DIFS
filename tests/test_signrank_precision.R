@@ -1,0 +1,8 @@
+source("benchmark/difs_signrank.R")
+zero <- difs_signrank(c(2.2e-16, 1, 2, 3))
+stopifnot(zero$n_zero==1, zero$n_pos==3, zero$m==3, zero$p.value==0.25)
+tie <- difs_signrank(c(0.3, -(0.1+0.2), 0.6))
+stopifnot(tie$statistic==4.5, tie$p.value==0.75)
+stopifnot(inherits(try(difs_signrank(c(1,NA_real_)),silent=TRUE),"try-error"))
+stopifnot(inherits(try(difs_signrank(c(1,Inf)),silent=TRUE),"try-error"))
+cat("PASS: serialization-scale zeros, mathematical ties, and nonfinite-input rejection.\n")

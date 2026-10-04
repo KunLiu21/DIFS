@@ -1,0 +1,71 @@
+"method","d1","d2","id1","id2","comparable","reason","universe","n1_raw","n2_raw","n1","n2","shared","expected","fold","p_enrich","jaccard","jaccard_chance","jaccard_adj"
+"DIFS","Baron","Koh","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS","Baron","Lawlor","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS","Baron","Muraro","symbol","symbol",TRUE,"",14883,1000,1000,979,973,380,64.0036954915004,5.9371571763456,8.28529591558933e-215,0.241730279898219,0.0339165465505551,0.215109504883512
+"DIFS","Baron","Segerstolpe","symbol","symbol",TRUE,"",15724,1000,1000,987,984,373,61.7659628593233,6.0389247205542,1.45215105187965e-211,0.233416770963705,0.0323665507520962,0.207775186324817
+"DIFS","Koh","Lawlor","ensembl","ensembl",TRUE,"",18633,1000,1000,935,977,314,49.0256534106156,6.40481009748274,9.63542202332671e-179,0.196495619524406,0.0263288510676146,0.174768214754413
+"DIFS","Koh","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS","Koh","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS","Lawlor","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS","Lawlor","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS","Muraro","Segerstolpe","symbol","symbol",TRUE,"",16654,1000,1000,997,988,503,59.1471118049718,8.50421913513821,0,0.33940620782726,0.0307267087320738,0.318464876599867
+"DIFS_hartigan","Baron","Koh","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS_hartigan","Baron","Lawlor","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS_hartigan","Baron","Muraro","symbol","symbol",TRUE,"",14883,1000,1000,980,977,364,64.3324598535242,5.65810791051323,8.98719301161074e-196,0.228499686126805,0.0340065809044004,0.201339989877463
+"DIFS_hartigan","Baron","Segerstolpe","symbol","symbol",TRUE,"",15724,1000,1000,987,981,360,61.5776519969473,5.8462768281234,2.10063534963518e-197,0.223880597014925,0.0323154875740717,0.197962359613064
+"DIFS_hartigan","Koh","Lawlor","ensembl","ensembl",TRUE,"",18633,1000,1000,935,977,299,49.0256534106156,6.09884783167943,2.40486203268575e-162,0.185368877867328,0.0263288510676146,0.163340597052812
+"DIFS_hartigan","Koh","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS_hartigan","Koh","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS_hartigan","Lawlor","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS_hartigan","Lawlor","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DIFS_hartigan","Muraro","Segerstolpe","symbol","symbol",TRUE,"",16654,1000,1000,996,987,481,59.027981265762,8.14867779120535,0,0.320239680426099,0.0306948143091256,0.29871383171297
+"Seurat","Baron","Koh","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seurat","Baron","Lawlor","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seurat","Baron","Muraro","symbol","symbol",TRUE,"",14883,1000,1000,928,954,613,59.4847812940939,10.3051568260681,0,0.483057525610717,0.0326550765179251,0.465606877298238
+"Seurat","Baron","Segerstolpe","symbol","symbol",TRUE,"",15724,1000,1000,964,946,580,57.9969473416433,10.0005263481091,0,0.43609022556391,0.031331187473034,0.417850799836304
+"Seurat","Koh","Lawlor","ensembl","ensembl",TRUE,"",18633,1000,1000,736,942,99,37.2088230558686,2.66065927028524,2.35699674529359e-19,0.0626979100696643,0.0226902640661482,0.0409365061377266
+"Seurat","Koh","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seurat","Koh","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seurat","Lawlor","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seurat","Lawlor","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seurat","Muraro","Segerstolpe","symbol","symbol",TRUE,"",16654,1000,1000,987,967,605,57.3092950642488,10.5567517332353,0,0.448480355819125,0.0302299643863687,0.43128821893131
+"FEAST","Baron","Koh","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FEAST","Baron","Lawlor","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FEAST","Baron","Muraro","symbol","symbol",TRUE,"",14883,1000,1000,910,968,481,59.1869918699187,8.12678571428571,0,0.344309234073014,0.0325577734693999,0.322242974365098
+"FEAST","Baron","Segerstolpe","symbol","symbol",TRUE,"",15724,1000,1000,965,965,479,59.2231620452811,8.08805175977879,0,0.330117160578911,0.0316723776490021,0.308206412830935
+"FEAST","Koh","Lawlor","ensembl","ensembl",TRUE,"",18633,1000,1000,697,955,136,35.7234476466484,3.80702336866301,1.65934243718819e-43,0.0897097625329815,0.0221150837808113,0.0691233473704785
+"FEAST","Koh","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FEAST","Koh","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FEAST","Lawlor","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FEAST","Lawlor","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FEAST","Muraro","Segerstolpe","symbol","symbol",TRUE,"",16654,1000,1000,995,976,588,58.3115167527321,10.0837713155944,0,0.425162689804772,0.0305012235065651,0.407077838432816
+"GateOnly","Baron","Koh","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"GateOnly","Baron","Lawlor","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"GateOnly","Baron","Muraro","symbol","symbol",TRUE,"",14883,1000,1000,986,966,399,63.9975811328361,6.23461063585854,3.17208987151373e-237,0.25692208628461,0.0339131965153366,0.230837321206421
+"GateOnly","Baron","Segerstolpe","symbol","symbol",TRUE,"",15724,1000,1000,991,976,398,61.5120834393284,6.47027344460803,6.52712680425117e-242,0.253664754620778,0.0322969162974922,0.228755950096092
+"GateOnly","Koh","Lawlor","ensembl","ensembl",TRUE,"",18633,1000,1000,958,985,395,50.6429453120807,7.79970433326622,3.87695914071935e-271,0.255167958656331,0.0267748865375947,0.234676509020807
+"GateOnly","Koh","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"GateOnly","Koh","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"GateOnly","Lawlor","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"GateOnly","Lawlor","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"GateOnly","Muraro","Segerstolpe","symbol","symbol",TRUE,"",16654,1000,1000,995,983,514,58.7297345982947,8.75195509592725,0,0.351092896174863,0.0306145787969254,0.330599481246791
+"Variance","Baron","Koh","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Variance","Baron","Lawlor","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Variance","Baron","Muraro","symbol","symbol",TRUE,"",14883,1000,1000,981,955,434,62.9479943559766,6.8945802712266,8.15842243416521e-285,0.288948069241012,0.0336233990661077,0.264208249587337
+"Variance","Baron","Segerstolpe","symbol","symbol",TRUE,"",15724,1000,1000,984,970,518,60.70211142203,8.53347581929428,0,0.360724233983287,0.032076955247342,0.339538644644965
+"Variance","Koh","Lawlor","ensembl","ensembl",TRUE,"",18633,1000,1000,965,981,389,50.8058283690227,7.65660186021454,1.10173348057764e-262,0.249839434810533,0.0268207703920002,0.229165047540488
+"Variance","Koh","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Variance","Koh","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Variance","Lawlor","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Variance","Lawlor","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Variance","Muraro","Segerstolpe","symbol","symbol",TRUE,"",16654,1000,1000,989,979,541,58.1380449141347,9.3054384749094,0,0.379117028731605,0.0304555150349508,0.359613735216309
+"Random","Baron","Koh","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Random","Baron","Lawlor","symbol","ensembl",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Random","Baron","Muraro","symbol","symbol",TRUE,"",14883,1000,1000,905,837,48,50.8959887119532,0.943099863363631,0.688295366947146,0.0283353010625738,0.0301125676664617,-0.00183244626607015
+"Random","Baron","Segerstolpe","symbol","symbol",TRUE,"",15724,1000,1000,965,714,48,43.8190027982702,1.09541516088301,0.273818078811674,0.029429797670141,0.0268127331985844,0.00268916842711905
+"Random","Koh","Lawlor","ensembl","ensembl",TRUE,"",18633,1000,1000,483,939,27,24.3405248752214,1.10926120691366,0.316070619088157,0.0193548387096774,0.0174269385294686,0.00196209346236652
+"Random","Koh","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Random","Koh","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Random","Lawlor","Muraro","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Random","Lawlor","Segerstolpe","ensembl","symbol",FALSE,"identifier spaces differ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Random","Muraro","Segerstolpe","symbol","symbol",TRUE,"",16654,1000,1000,945,776,35,44.0326648252672,0.794864452080947,0.939004308161909,0.0207591933570581,0.0262717772595199,-0.00566131675525137

@@ -36,3 +36,6 @@ scenarios/*.Rdata
 scenarios/*.RData
 *.sif
 clean-room/
+work/
+__pycache__/
+*.pyc

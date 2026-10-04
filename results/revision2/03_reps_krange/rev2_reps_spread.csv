@@ -1,0 +1,312 @@
+"data.name","arm","clust","n","family","mean","sd","n"
+"Baron","DIFS","Refined Louvain",100,"seed",0.619715530789457,0.0140527857565476,5
+"Darmanis","DIFS","Refined Louvain",100,"seed",0.595971891879214,0.0111456566003001,5
+"Fletcher","DIFS","Refined Louvain",100,"seed",0.612472030125238,0.0211092342844519,5
+"Koh","DIFS","Refined Louvain",100,"seed",0.988345058506465,0,5
+"Kumar","DIFS","Refined Louvain",100,"seed",0.988771468816226,0,5
+"Lawlor","DIFS","Refined Louvain",100,"seed",0.52776868287727,0.0321956838654764,5
+"Muraro","DIFS","Refined Louvain",100,"seed",0.712707959508031,0.00591648586185925,5
+"Romanov","DIFS","Refined Louvain",100,"seed",0.486058665599367,0.0210557832131162,5
+"SimKumar4easy","DIFS","Refined Louvain",100,"seed",1,0,5
+"SimKumar4hard","DIFS","Refined Louvain",100,"seed",1,0,5
+"Trapnell","DIFS","Refined Louvain",100,"seed",0.421155504048502,0,5
+"Zhengmix4eq","DIFS","Refined Louvain",100,"seed",0.932724156417917,0,5
+"Zhengmix8eq","DIFS","Refined Louvain",100,"seed",0.591980052860793,0.00196718725515628,5
+"Baron","FEAST","Refined Louvain",100,"seed",0.538960537120247,0.010555790498475,5
+"Darmanis","FEAST","Refined Louvain",100,"seed",0.322522852556343,0.000980163711413565,5
+"Fletcher","FEAST","Refined Louvain",100,"seed",0.527596982854242,0.00987268000564223,5
+"Koh","FEAST","Refined Louvain",100,"seed",0.871584428020375,0.0251993639189523,5
+"Kumar","FEAST","Refined Louvain",100,"seed",0.986911481731239,0,5
+"Lawlor","FEAST","Refined Louvain",100,"seed",0.638130087122862,0.0722851848683204,5
+"Muraro","FEAST","Refined Louvain",100,"seed",0.733902599676657,0.0926950490605475,5
+"Romanov","FEAST","Refined Louvain",100,"seed",0.456617480654696,0.0785692110202336,5
+"SimKumar4easy","FEAST","Refined Louvain",100,"seed",0.635681703477472,0.00211863766090652,5
+"SimKumar4hard","FEAST","Refined Louvain",100,"seed",-0.0107856407746975,0,5
+"Trapnell","FEAST","Refined Louvain",100,"seed",0.110483834712464,0,5
+"Zhengmix4eq","FEAST","Refined Louvain",100,"seed",0.971630082965438,0.00157627800501751,5
+"Zhengmix8eq","FEAST","Refined Louvain",100,"seed",0.552599637155425,0.0286717017367005,5
+"Baron","Seurat","Refined Louvain",100,"seed",0.293018615953841,0.00646648641210805,5
+"Darmanis","Seurat","Refined Louvain",100,"seed",0.518148834781166,0,5
+"Fletcher","Seurat","Refined Louvain",100,"seed",0.609926985662493,0.000983343935210958,5
+"Koh","Seurat","Refined Louvain",100,"seed",0.863811983504561,0,5
+"Kumar","Seurat","Refined Louvain",100,"seed",0.949211345705182,0,5
+"Lawlor","Seurat","Refined Louvain",100,"seed",0.550296214478025,0,5
+"Muraro","Seurat","Refined Louvain",100,"seed",0.328444986392103,0.000186590837152302,5
+"Romanov","Seurat","Refined Louvain",100,"seed",0.679890944729789,0.00136809197065769,5
+"SimKumar4easy","Seurat","Refined Louvain",100,"seed",1,0,5
+"SimKumar4hard","Seurat","Refined Louvain",100,"seed",0.530029553216083,0.0024353742858978,5
+"Trapnell","Seurat","Refined Louvain",100,"seed",0.0951549344152329,0,5
+"Zhengmix4eq","Seurat","Refined Louvain",100,"seed",0.69466934632195,0,5
+"Zhengmix8eq","Seurat","Refined Louvain",100,"seed",0.501458936643486,0.00387735551876798,5
+"Baron","DIFS","SC3",100,"seed",0.788490388449963,0.00761224098116437,5
+"Darmanis","DIFS","SC3",100,"seed",0.618796246660568,0.0269407010857725,5
+"Fletcher","DIFS","SC3",100,"seed",0.678738199047979,0.0250287020768252,5
+"Koh","DIFS","SC3",100,"seed",0.979633057039653,0.0202341495317323,5
+"Kumar","DIFS","SC3",100,"seed",1,0,5
+"Lawlor","DIFS","SC3",100,"seed",0.638837397688008,0.0681933445336455,5
+"Muraro","DIFS","SC3",100,"seed",0.722785765016248,0.0154577831646696,5
+"Romanov","DIFS","SC3",100,"seed",0.520230238693822,0.0434306450765159,5
+"SimKumar4easy","DIFS","SC3",100,"seed",1,0,5
+"SimKumar4hard","DIFS","SC3",100,"seed",1,0,5
+"Trapnell","DIFS","SC3",100,"seed",0.209565871365121,0,5
+"Zhengmix4eq","DIFS","SC3",100,"seed",0.705851079428572,0.00105707871151639,5
+"Zhengmix8eq","DIFS","SC3",100,"seed",0.554085093063642,0.0332385608362917,5
+"Baron","FEAST","SC3",100,"seed",0.742808363097615,0.0749018582740068,5
+"Darmanis","FEAST","SC3",100,"seed",0.356293563084028,0.0121863271011259,5
+"Fletcher","FEAST","SC3",100,"seed",0.476026483847969,0.0138454368790202,5
+"Koh","FEAST","SC3",100,"seed",0.906295643414366,0.00619813635798777,5
+"Kumar","FEAST","SC3",100,"seed",0.973980591663917,0,5
+"Lawlor","FEAST","SC3",100,"seed",0.703962966211573,0.0176188428676875,5
+"Muraro","FEAST","SC3",100,"seed",0.931953225982465,0.00599602401515561,5
+"Romanov","FEAST","SC3",100,"seed",0.514887356875487,0.0230327555816424,5
+"SimKumar4easy","FEAST","SC3",100,"seed",0.903666362237472,0,5
+"SimKumar4hard","FEAST","SC3",100,"seed",-0.0025155452536147,0.00356825207525669,5
+"Trapnell","FEAST","SC3",100,"seed",0.209313209690326,0,5
+"Zhengmix4eq","FEAST","SC3",100,"seed",0.70367963325182,0.00264678640285511,5
+"Zhengmix8eq","FEAST","SC3",100,"seed",0.419957247210624,0.0395945361311184,5
+"Baron","Seurat","SC3",100,"seed",0.904851302979321,0.0155853070740236,4
+"Darmanis","Seurat","SC3",100,"seed",0.576707615329704,0.00979286210056459,5
+"Fletcher","Seurat","SC3",100,"seed",0.636917772284886,0.0124206280671821,5
+"Koh","Seurat","SC3",100,"seed",0.904176251057156,0.00782636349093861,5
+"Kumar","Seurat","SC3",100,"seed",0.974806339315736,0,5
+"Lawlor","Seurat","SC3",100,"seed",0.418341725140041,0.0290203500765367,5
+"Muraro","Seurat","SC3",100,"seed",0.286400748560828,0.034199241859907,5
+"Romanov","Seurat","SC3",100,"seed",0.304673598320625,0.0918102760236044,5
+"SimKumar4easy","Seurat","SC3",100,"seed",0.619444638644501,0.0147913354541021,5
+"SimKumar4hard","Seurat","SC3",100,"seed",0.279375457783509,0.0100146918294282,5
+"Trapnell","Seurat","SC3",100,"seed",0.406465494639818,0,5
+"Zhengmix4eq","Seurat","SC3",100,"seed",0.700167212051545,0.00335580936276731,5
+"Baron","DIFS","Refined Louvain",300,"seed",0.552129654498557,0.0259660713331722,5
+"Darmanis","DIFS","Refined Louvain",300,"seed",0.625811225270587,0.0165638903875506,5
+"Fletcher","DIFS","Refined Louvain",300,"seed",0.782523466915275,0.039998394953203,5
+"Koh","DIFS","Refined Louvain",300,"seed",0.978647478157131,0,5
+"Kumar","DIFS","Refined Louvain",300,"seed",0.988771468816226,0,5
+"Lawlor","DIFS","Refined Louvain",300,"seed",0.707807247344345,0.0229619051890739,5
+"Muraro","DIFS","Refined Louvain",300,"seed",0.685228513346078,0.0233697342001399,5
+"Romanov","DIFS","Refined Louvain",300,"seed",0.568058012260433,0.0173422092393686,5
+"SimKumar4easy","DIFS","Refined Louvain",300,"seed",1,0,5
+"SimKumar4hard","DIFS","Refined Louvain",300,"seed",1,0,5
+"Trapnell","DIFS","Refined Louvain",300,"seed",0.421605112878002,0,5
+"Zhengmix4eq","DIFS","Refined Louvain",300,"seed",0.975627346617289,0.000552632526431821,5
+"Zhengmix8eq","DIFS","Refined Louvain",300,"seed",0.714638518914604,0.00423081287001623,5
+"Baron","FEAST","Refined Louvain",300,"seed",0.58521976069308,0.00680885917344534,5
+"Darmanis","FEAST","Refined Louvain",300,"seed",0.707542878223658,0,5
+"Fletcher","FEAST","Refined Louvain",300,"seed",0.752071228523496,0.00389793911749414,5
+"Koh","FEAST","Refined Louvain",300,"seed",0.978370786703827,0.000723747313930966,5
+"Kumar","FEAST","Refined Louvain",300,"seed",0.986911481731239,0,5
+"Lawlor","FEAST","Refined Louvain",300,"seed",0.518072825494919,0.0248196500880617,5
+"Muraro","FEAST","Refined Louvain",300,"seed",0.738707757199673,0.0935959056434604,5
+"Romanov","FEAST","Refined Louvain",300,"seed",0.570360565962079,0.0297311852565466,5
+"SimKumar4easy","FEAST","Refined Louvain",300,"seed",0.98897459128478,0,5
+"SimKumar4hard","FEAST","Refined Louvain",300,"seed",-0.00753068225954441,0,5
+"Trapnell","FEAST","Refined Louvain",300,"seed",0.108350869700101,0,5
+"Zhengmix4eq","FEAST","Refined Louvain",300,"seed",0.979933688038592,0.00142565497395087,5
+"Zhengmix8eq","FEAST","Refined Louvain",300,"seed",0.717479165926975,0.0138254076555423,5
+"Baron","Seurat","Refined Louvain",300,"seed",0.68399225434418,0.0210262531584307,5
+"Darmanis","Seurat","Refined Louvain",300,"seed",0.565802059576049,0.0632296311530822,5
+"Fletcher","Seurat","Refined Louvain",300,"seed",0.627677736150119,0.0451744157142104,5
+"Koh","Seurat","Refined Louvain",300,"seed",0.916122838113421,0,5
+"Kumar","Seurat","Refined Louvain",300,"seed",0.961814739563433,0,5
+"Lawlor","Seurat","Refined Louvain",300,"seed",0.424669730513927,0.00774815964858022,5
+"Muraro","Seurat","Refined Louvain",300,"seed",0.7888632797838,0,5
+"Romanov","Seurat","Refined Louvain",300,"seed",0.641413794569569,0.00041749502145677,5
+"SimKumar4easy","Seurat","Refined Louvain",300,"seed",1,0,5
+"SimKumar4hard","Seurat","Refined Louvain",300,"seed",1,0,5
+"Trapnell","Seurat","Refined Louvain",300,"seed",0.291506965548094,0,5
+"Zhengmix4eq","Seurat","Refined Louvain",300,"seed",0.690437386363027,0,5
+"Zhengmix8eq","Seurat","Refined Louvain",300,"seed",0.580447712693452,0.0041099707308564,5
+"Baron","DIFS","SC3",300,"seed",0.566099785527452,0.0136506676988588,5
+"Darmanis","DIFS","SC3",300,"seed",0.68613652483133,0.00424832555213124,5
+"Fletcher","DIFS","SC3",300,"seed",0.757865299660313,0.0173343000520339,5
+"Koh","DIFS","SC3",300,"seed",0.948734916664746,0,5
+"Kumar","DIFS","SC3",300,"seed",1,0,5
+"Lawlor","DIFS","SC3",300,"seed",0.94904295961971,0.0142531277158993,5
+"Muraro","DIFS","SC3",300,"seed",0.770121741546773,0.0897195380318111,5
+"Romanov","DIFS","SC3",300,"seed",0.549823836114653,0.0327068264336634,5
+"SimKumar4easy","DIFS","SC3",300,"seed",1,0,5
+"SimKumar4hard","DIFS","SC3",300,"seed",1,0,5
+"Trapnell","DIFS","SC3",300,"seed",0.455784407123095,0,5
+"Zhengmix4eq","DIFS","SC3",300,"seed",0.698038435103843,0.00598754769054882,5
+"Zhengmix8eq","DIFS","SC3",300,"seed",0.613314139125235,0.00749582147215039,5
+"Baron","FEAST","SC3",300,"seed",0.578679588220587,0.0398280451370836,5
+"Darmanis","FEAST","SC3",300,"seed",0.743266456152701,0.00766399142567098,5
+"Fletcher","FEAST","SC3",300,"seed",0.713171122608153,0.0169027936595978,5
+"Koh","FEAST","SC3",300,"seed",0.959793391232444,0.0200686408723326,5
+"Kumar","FEAST","SC3",300,"seed",1,0,5
+"Lawlor","FEAST","SC3",300,"seed",0.932232253823231,0.00230823794564444,5
+"Muraro","FEAST","SC3",300,"seed",0.808994855560867,0.108957970933196,5
+"Romanov","FEAST","SC3",300,"seed",0.540302424365621,0.0459484822175416,5
+"SimKumar4easy","FEAST","SC3",300,"seed",0.994332054139068,0,5
+"SimKumar4hard","FEAST","SC3",300,"seed",-0.00606220412395425,0.000601626197771327,5
+"Trapnell","FEAST","SC3",300,"seed",0.173149441389365,0,5
+"Zhengmix4eq","FEAST","SC3",300,"seed",0.699456043748042,0.00760156577951791,5
+"Zhengmix8eq","FEAST","SC3",300,"seed",0.495852586469729,0.0259024251644813,5
+"Baron","Seurat","SC3",300,"seed",0.620550041784002,0.0952737331819184,5
+"Darmanis","Seurat","SC3",300,"seed",0.629206597307645,0.0101572080383987,5
+"Fletcher","Seurat","SC3",300,"seed",0.714969944077879,0.00614581455227823,5
+"Koh","Seurat","SC3",300,"seed",0.937469886878348,0,5
+"Kumar","Seurat","SC3",300,"seed",1,0,5
+"Lawlor","Seurat","SC3",300,"seed",0.710382733280891,0.026348163813229,5
+"Muraro","Seurat","SC3",300,"seed",0.655270145234994,0.0419641605466778,5
+"Romanov","Seurat","SC3",300,"seed",0.647291092171716,0.0604651471703288,5
+"SimKumar4easy","Seurat","SC3",300,"seed",0.966777911293351,0.0195948653431322,5
+"SimKumar4hard","Seurat","SC3",300,"seed",0.595896544859078,0.00392992973509534,5
+"Trapnell","Seurat","SC3",300,"seed",0.208159136789382,0,5
+"Zhengmix4eq","Seurat","SC3",300,"seed",0.696074161234298,0.00574000710239779,5
+"Zhengmix8eq","Seurat","SC3",300,"seed",0.393067403721674,0.0475687225891587,5
+"Baron","DIFS","Refined Louvain",100,"subsample",0.549916797122259,0.0543807488002931,5
+"Darmanis","DIFS","Refined Louvain",100,"subsample",0.560397038101213,0.0172539254562819,5
+"Fletcher","DIFS","Refined Louvain",100,"subsample",0.613232772091318,0.0162877157156692,5
+"Koh","DIFS","Refined Louvain",100,"subsample",0.981053284896693,0.0141270728430239,5
+"Kumar","DIFS","Refined Louvain",100,"subsample",0.987575728128592,0,5
+"Lawlor","DIFS","Refined Louvain",100,"subsample",0.540000779984899,0.0423124692385639,5
+"Muraro","DIFS","Refined Louvain",100,"subsample",0.737070311678748,0.0936453066202556,5
+"Romanov","DIFS","Refined Louvain",100,"subsample",0.493803396293825,0.0236122629263902,5
+"SimKumar4easy","DIFS","Refined Louvain",100,"subsample",1,0,5
+"SimKumar4hard","DIFS","Refined Louvain",100,"subsample",0.998654598736819,0.00300840868148564,5
+"Trapnell","DIFS","Refined Louvain",100,"subsample",0.380459705400211,0.106673104630986,5
+"Zhengmix4eq","DIFS","Refined Louvain",100,"subsample",0.933065865567723,0.00697694456491656,5
+"Zhengmix8eq","DIFS","Refined Louvain",100,"subsample",0.625824354402165,0.0247078781810457,5
+"Baron","FEAST","Refined Louvain",100,"subsample",0.537079529122369,0.0109137989412077,5
+"Darmanis","FEAST","Refined Louvain",100,"subsample",0.3436287021863,0.13622645100208,5
+"Fletcher","FEAST","Refined Louvain",100,"subsample",0.584142303176171,0.0303086950240066,5
+"Koh","FEAST","Refined Louvain",100,"subsample",0.839845080511386,0.134916920528887,5
+"Kumar","FEAST","Refined Louvain",100,"subsample",0.97981406011328,0.0163356362642276,5
+"Lawlor","FEAST","Refined Louvain",100,"subsample",0.354322622001738,0.111450895392915,5
+"Muraro","FEAST","Refined Louvain",100,"subsample",0.681928556969157,0.011385018161548,5
+"Romanov","FEAST","Refined Louvain",100,"subsample",0.387867504313999,0.0356298307523927,5
+"SimKumar4easy","FEAST","Refined Louvain",100,"subsample",0.661802291404213,0.0401044804346305,5
+"SimKumar4hard","FEAST","Refined Louvain",100,"subsample",0.419893099427338,0.286295124427216,5
+"Trapnell","FEAST","Refined Louvain",100,"subsample",0.249678697259784,0.13613371572396,5
+"Zhengmix4eq","FEAST","Refined Louvain",100,"subsample",0.968950447406065,0.00283795542362979,5
+"Zhengmix8eq","FEAST","Refined Louvain",100,"subsample",0.562104298948661,0.0234583248818248,5
+"Baron","Seurat","Refined Louvain",100,"subsample",0.386322452611633,0.0690813601843945,5
+"Darmanis","Seurat","Refined Louvain",100,"subsample",0.518609082752491,0.0479651251182216,5
+"Fletcher","Seurat","Refined Louvain",100,"subsample",0.523595422010954,0.0283483052461639,5
+"Koh","Seurat","Refined Louvain",100,"subsample",0.846879599812505,0.0190613589774831,5
+"Kumar","Seurat","Refined Louvain",100,"subsample",0.900320166115957,0.0385696289562829,5
+"Lawlor","Seurat","Refined Louvain",100,"subsample",0.467220374480948,0.0325102910238308,5
+"Muraro","Seurat","Refined Louvain",100,"subsample",0.280283115711742,0.0482378485813184,5
+"Romanov","Seurat","Refined Louvain",100,"subsample",0.655757362712637,0.0093501857297998,5
+"SimKumar4easy","Seurat","Refined Louvain",100,"subsample",1,0,5
+"SimKumar4hard","Seurat","Refined Louvain",100,"subsample",0.54880667144235,0.0947260577353395,5
+"Trapnell","Seurat","Refined Louvain",100,"subsample",0.269251705444005,0.0263896157381965,5
+"Zhengmix4eq","Seurat","Refined Louvain",100,"subsample",0.694277046751257,0.000428520386575217,5
+"Zhengmix8eq","Seurat","Refined Louvain",100,"subsample",0.516049386745228,0.0300246195525975,5
+"Baron","DIFS","SC3",100,"subsample",0.748980472331394,0.0644090421028215,5
+"Darmanis","DIFS","SC3",100,"subsample",0.650191230238646,0.0241258508761729,5
+"Fletcher","DIFS","SC3",100,"subsample",0.656435475647486,0.0338235145094545,5
+"Koh","DIFS","SC3",100,"subsample",0.967001656973759,0.0247584721583731,5
+"Kumar","DIFS","SC3",100,"subsample",1,0,5
+"Lawlor","DIFS","SC3",100,"subsample",0.620665252026039,0.0697586656143334,5
+"Muraro","DIFS","SC3",100,"subsample",0.723244204474457,0.0148751858185527,5
+"Romanov","DIFS","SC3",100,"subsample",0.504965891010771,0.0330730513244206,5
+"SimKumar4easy","DIFS","SC3",100,"subsample",1,0,5
+"SimKumar4hard","DIFS","SC3",100,"subsample",1,0,5
+"Trapnell","DIFS","SC3",100,"subsample",0.216500333740981,0.0164261264410347,5
+"Zhengmix4eq","DIFS","SC3",100,"subsample",0.704323782269218,0.00282441349112512,5
+"Zhengmix8eq","DIFS","SC3",100,"subsample",0.562738660662085,0.0268498915135654,5
+"Baron","FEAST","SC3",100,"subsample",0.72861530018259,0.0630442393224648,5
+"Darmanis","FEAST","SC3",100,"subsample",0.362079063528988,0.0789431702433694,5
+"Fletcher","FEAST","SC3",100,"subsample",0.479011485670172,0.0458972683028991,5
+"Koh","FEAST","SC3",100,"subsample",0.873223891700424,0.104898464329907,5
+"Kumar","FEAST","SC3",100,"subsample",0.985550851416865,0.0144298150667775,5
+"Lawlor","FEAST","SC3",100,"subsample",0.378419746129028,0.200986020374387,5
+"Muraro","FEAST","SC3",100,"subsample",0.866476153558659,0.114824247465381,5
+"Romanov","FEAST","SC3",100,"subsample",0.525319582091876,0.039161434760886,5
+"SimKumar4easy","FEAST","SC3",100,"subsample",0.946096374641709,0.0248289534428456,5
+"SimKumar4hard","FEAST","SC3",100,"subsample",0.358344179780747,0.274246172940694,5
+"Trapnell","FEAST","SC3",100,"subsample",0.201062194977621,0.0111212315782085,5
+"Zhengmix4eq","FEAST","SC3",100,"subsample",0.699649235639651,0.00358790871718143,5
+"Zhengmix8eq","FEAST","SC3",100,"subsample",0.46994978768779,0.0438593570719881,4
+"Baron","Seurat","SC3",100,"subsample",0.890340461773376,0.0292988537464504,5
+"Darmanis","Seurat","SC3",100,"subsample",0.590418690963022,0.00565885121980121,5
+"Fletcher","Seurat","SC3",100,"subsample",0.668819838535597,0.0179249716268221,5
+"Koh","Seurat","SC3",100,"subsample",0.893459802434156,0.00970179609512338,5
+"Kumar","Seurat","SC3",100,"subsample",0.983286273779168,0.0116595638568036,5
+"Lawlor","Seurat","SC3",100,"subsample",0.430653415768546,0.0492311549594681,5
+"Muraro","Seurat","SC3",100,"subsample",0.288709160569386,0.0312776427972296,5
+"Romanov","Seurat","SC3",100,"subsample",0.36344529544896,0.0659859796946542,5
+"SimKumar4easy","Seurat","SC3",100,"subsample",0.644254012375323,0.0346644317834708,5
+"SimKumar4hard","Seurat","SC3",100,"subsample",0.268765765170473,0.0103677038092687,5
+"Trapnell","Seurat","SC3",100,"subsample",0.184128836950861,0.0332108511031226,5
+"Zhengmix4eq","Seurat","SC3",100,"subsample",0.686514876501565,0.0134176136564632,5
+"Zhengmix8eq","Seurat","SC3",100,"subsample",0.408714958647203,0.0177299311457744,5
+"Baron","DIFS","Refined Louvain",300,"subsample",0.533143761281288,0.0329260227979059,5
+"Darmanis","DIFS","Refined Louvain",300,"subsample",0.592945811180022,0.0369930636488612,5
+"Fletcher","DIFS","Refined Louvain",300,"subsample",0.740972152179934,0.0307209552828734,5
+"Koh","DIFS","Refined Louvain",300,"subsample",0.979587167579887,0.00721432685089166,5
+"Kumar","DIFS","Refined Louvain",300,"subsample",0.987575728128592,0,5
+"Lawlor","DIFS","Refined Louvain",300,"subsample",0.617543923251232,0.0876837954482642,5
+"Muraro","DIFS","Refined Louvain",300,"subsample",0.690525802194766,0.0184645786391757,5
+"Romanov","DIFS","Refined Louvain",300,"subsample",0.585763468851154,0.0324842162625154,5
+"SimKumar4easy","DIFS","Refined Louvain",300,"subsample",1,0,5
+"SimKumar4hard","DIFS","Refined Louvain",300,"subsample",0.998586495857196,0.00193552049415747,5
+"Trapnell","DIFS","Refined Louvain",300,"subsample",0.419754513554931,0.0103405439546693,5
+"Zhengmix4eq","DIFS","Refined Louvain",300,"subsample",0.971962055571408,0.00593810506179706,5
+"Zhengmix8eq","DIFS","Refined Louvain",300,"subsample",0.687412564084924,0.00535498871795675,5
+"Baron","FEAST","Refined Louvain",300,"subsample",0.587170194277848,0.00529002243503508,5
+"Darmanis","FEAST","Refined Louvain",300,"subsample",0.631271262057293,0.0488342391178789,5
+"Fletcher","FEAST","Refined Louvain",300,"subsample",0.717772777678156,0.0127298598931287,5
+"Koh","FEAST","Refined Louvain",300,"subsample",0.972265104980106,0.0126257747485432,5
+"Kumar","FEAST","Refined Louvain",300,"subsample",0.98837860525149,0.00649655716275663,5
+"Lawlor","FEAST","Refined Louvain",300,"subsample",0.300370928003225,0.160000361169972,5
+"Muraro","FEAST","Refined Louvain",300,"subsample",0.678932855621541,0.044013150013812,5
+"Romanov","FEAST","Refined Louvain",300,"subsample",0.562269089973569,0.0320713469120705,5
+"SimKumar4easy","FEAST","Refined Louvain",300,"subsample",0.855796969413933,0.179572054956175,5
+"SimKumar4hard","FEAST","Refined Louvain",300,"subsample",0.603699120772355,0.363257538169151,5
+"Trapnell","FEAST","Refined Louvain",300,"subsample",0.143823552076356,0.139780887954144,5
+"Zhengmix4eq","FEAST","Refined Louvain",300,"subsample",0.979484299387011,0.00129769685897933,5
+"Zhengmix8eq","FEAST","Refined Louvain",300,"subsample",0.704566843592922,0.0277271401161899,5
+"Baron","Seurat","Refined Louvain",300,"subsample",0.68659961294815,0.0176863821046396,5
+"Darmanis","Seurat","Refined Louvain",300,"subsample",0.632043033275405,0.0135332163226058,5
+"Fletcher","Seurat","Refined Louvain",300,"subsample",0.579132843629473,0.0359193208760265,5
+"Koh","Seurat","Refined Louvain",300,"subsample",0.927035331491395,0.0300189335939519,5
+"Kumar","Seurat","Refined Louvain",300,"subsample",0.925415335749133,0.0303566367101546,5
+"Lawlor","Seurat","Refined Louvain",300,"subsample",0.433158325896634,0.0609673899774656,5
+"Muraro","Seurat","Refined Louvain",300,"subsample",0.703972506540168,0.0966020886607766,5
+"Romanov","Seurat","Refined Louvain",300,"subsample",0.654560000954655,0.0606854877892634,5
+"SimKumar4easy","Seurat","Refined Louvain",300,"subsample",1,0,5
+"SimKumar4hard","Seurat","Refined Louvain",300,"subsample",0.998587034023967,0.00193478334515199,5
+"Trapnell","Seurat","Refined Louvain",300,"subsample",0.29348927805203,0.0280678523904746,5
+"Zhengmix4eq","Seurat","Refined Louvain",300,"subsample",0.690492724068149,0.000749252550650098,5
+"Zhengmix8eq","Seurat","Refined Louvain",300,"subsample",0.571632881234439,0.0181663995885453,5
+"Baron","DIFS","SC3",300,"subsample",0.578109604646504,0.0458950463522078,5
+"Darmanis","DIFS","SC3",300,"subsample",0.668031069073707,0.0301662278216993,5
+"Fletcher","DIFS","SC3",300,"subsample",0.776397370331194,0.0158694685962352,5
+"Koh","DIFS","SC3",300,"subsample",0.995954245588509,0.00443406402866845,5
+"Kumar","DIFS","SC3",300,"subsample",1,0,5
+"Lawlor","DIFS","SC3",300,"subsample",0.946476834844577,0.0275722827894557,5
+"Muraro","DIFS","SC3",300,"subsample",0.847995894663947,0.108222758402281,5
+"Romanov","DIFS","SC3",300,"subsample",0.539248844791546,0.0293830057004121,5
+"SimKumar4easy","DIFS","SC3",300,"subsample",1,0,5
+"SimKumar4hard","DIFS","SC3",300,"subsample",1,0,5
+"Trapnell","DIFS","SC3",300,"subsample",0.365201903097987,0.134040719172224,5
+"Zhengmix4eq","DIFS","SC3",300,"subsample",0.753901455567868,0.123285547160867,5
+"Zhengmix8eq","DIFS","SC3",300,"subsample",0.611228528421932,0.0117518877782772,5
+"Baron","FEAST","SC3",300,"subsample",0.610552049393804,0.0596778073571534,5
+"Darmanis","FEAST","SC3",300,"subsample",0.717168703601129,0.0287926636527818,5
+"Fletcher","FEAST","SC3",300,"subsample",0.713966957283098,0.0318192060281772,5
+"Koh","FEAST","SC3",300,"subsample",0.984060230841108,0.00593422208770826,5
+"Kumar","FEAST","SC3",300,"subsample",0.994189302625745,0.00795662506678847,5
+"Lawlor","FEAST","SC3",300,"subsample",0.786004438165333,0.121546030212933,5
+"Muraro","FEAST","SC3",300,"subsample",0.926755844702756,0.00269271228611865,5
+"Romanov","FEAST","SC3",300,"subsample",0.519547303889831,0.047297371070631,5
+"SimKumar4easy","FEAST","SC3",300,"subsample",0.992577313047724,0.0043516045424964,5
+"SimKumar4hard","FEAST","SC3",300,"subsample",0.632982757715241,0.359319287661024,5
+"Trapnell","FEAST","SC3",300,"subsample",0.202985363564476,0.033296973915877,5
+"Zhengmix4eq","FEAST","SC3",300,"subsample",0.817123828035192,0.154121420671945,5
+"Zhengmix8eq","FEAST","SC3",300,"subsample",0.477409516681885,0.022422749979144,5
+"Baron","Seurat","SC3",300,"subsample",0.648980526891972,0.0600959629001351,5
+"Darmanis","Seurat","SC3",300,"subsample",0.653140074983259,0.0247293526031909,5
+"Fletcher","Seurat","SC3",300,"subsample",0.712001506453222,0.021604429633458,5
+"Koh","Seurat","SC3",300,"subsample",0.936584309617151,0.00219136402716199,5
+"Kumar","Seurat","SC3",300,"subsample",0.991522538725718,0.00775413670028928,5
+"Lawlor","Seurat","SC3",300,"subsample",0.696371876816857,0.102195859934442,5
+"Muraro","Seurat","SC3",300,"subsample",0.657386922923794,0.0375071291514649,5
+"Romanov","Seurat","SC3",300,"subsample",0.637957753861662,0.0167252689465825,5
+"SimKumar4easy","Seurat","SC3",300,"subsample",0.968947403057775,0.0218303010532648,5
+"SimKumar4hard","Seurat","SC3",300,"subsample",0.589370800574725,0.016904146806584,5
+"Trapnell","Seurat","SC3",300,"subsample",0.276715627809622,0.0911513754922601,5
+"Zhengmix4eq","Seurat","SC3",300,"subsample",0.695471891934419,0.0061121637315477,5
+"Zhengmix8eq","Seurat","SC3",300,"subsample",0.43897446532264,0.0210899648553145,5
