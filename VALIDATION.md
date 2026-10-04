@@ -56,3 +56,18 @@ matrix is not redistributed. A fresh data download/preparation, a fresh package
 installation, and a complete rerun of all paper experiments have not been
 performed as part of this release validation. A session package inventory is an
 execution record, not a tested dependency lockfile.
+
+## Fresh installation and public download, verified 2026-10-04
+
+The historical scope above describes v2.0. Subsequently, Actions run 36806258451
+at commit 368959ca80ab70b19a28b54ad47deb7d5aae26d5 passed with a fresh package
+library and public-data download. Actual artifacts and independent metric checks
+are archived under `example/validated/kumar-clean-20261004`. Selected genes and
+order agree with the prepared-input run, and both partitions have ARI 1 against it.
+The dependency recipe was tested for this run; observed package inventories are
+retained rather than claimed identical in every dependency to the old environment.
+
+One earlier execution failed in GroupSingletons; the passing retry followed a
+diagnostic-only change. Its cause remains unestablished. This is one successful
+fresh reproduction, not proof of zero intermittent failures or a complete rerun
+of the manuscript. No new release tag is created by archiving this evidence.

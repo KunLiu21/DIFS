@@ -1,0 +1,2 @@
+"dataset","k_policy","k","seed","n_requested","n_features","n_cells","stage1_n","stage2_n","ratio","gate_n","stage2_executed","ARI","FM","Jaccard","Purity"
+"Kumar","true",3,1,100,100,246,453,616,"1:1",453,TRUE,0.988771468816226,0.992545322773649,0.985200431245712,0.995934959349594

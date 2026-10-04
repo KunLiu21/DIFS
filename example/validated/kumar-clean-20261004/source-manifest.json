@@ -1,0 +1,132 @@
+[
+  {
+    "path": "cell_labels.csv",
+    "sha256": "6d079bbe9b3f257595aec3a1f1d14209204b46efa309eb24ce51a124924913e9",
+    "bytes": 11413
+  },
+  {
+    "path": "difs_fit.rds",
+    "sha256": "9330fe682168e882895d6fdb3ff9b5a4bd66d6a329d7622145597cdd56bca9cf",
+    "bytes": 101379
+  },
+  {
+    "path": "historical_comparison.csv",
+    "sha256": "bf2e4910ec96cc56114d3854a2cd7b74b75e2a60e0206f5e35cbab570227a5f3",
+    "bytes": 287
+  },
+  {
+    "path": "input_checksums.csv",
+    "sha256": "0e6a11a283a366c4b013e425c882b027cb9b5a7d8cfa447bc4ae7b59f8b7a7f6",
+    "bytes": 99
+  },
+  {
+    "path": "input_diagnostics.csv",
+    "sha256": "2e7fca35d510b65be44ff3711291b5e6b135f718d987a8e8f14db952c44f6a9c",
+    "bytes": 169
+  },
+  {
+    "path": "run.log",
+    "sha256": "25481e8606cefa8989899e9c6028fb4c61c9717e9a405a2db3c758fadb375701",
+    "bytes": 913
+  },
+  {
+    "path": "selected_genes.csv",
+    "sha256": "a0936fef302bcedfff378d689ed96a3f4485f0a248d2de13c50922cbef12f316",
+    "bytes": 2363
+  },
+  {
+    "path": "sessionInfo.txt",
+    "sha256": "32a5b7d9891eceffd2cdf90f530cdb93e61bd0e49d7254d97bf22d45eed449a9",
+    "bytes": 5489
+  },
+  {
+    "path": "sessionInfo_before_fit.txt",
+    "sha256": "f7c64c49fafd6e4ad6d29659f5ff207061b5f4c0672713e87ed655285bcf4ab5",
+    "bytes": 3402
+  },
+  {
+    "path": "summary.csv",
+    "sha256": "ded9b8c4e730dde68c85e636c23f59be91c0afe9f2074d009655b70abc0c4c18",
+    "bytes": 282
+  },
+  {
+    "path": "evidence/before-install.txt",
+    "sha256": "53b9f5800d8cb8a234f1e5805e9695220438fc8c8edbb0d54b5ad1df76aaf054",
+    "bytes": 2545
+  },
+  {
+    "path": "evidence/comparison.log",
+    "sha256": "9e37e13fe320e973ffbbae702a6779c0f6a51e8f8d77b414b5c08c6ff57cbeaf",
+    "bytes": 295
+  },
+  {
+    "path": "evidence/definition-loader-test.log",
+    "sha256": "52298de10e2d8a98d714efb6d01e356773570bd767d51926f148c3a354e615b6",
+    "bytes": 102
+  },
+  {
+    "path": "evidence/executed-commit.txt",
+    "sha256": "0e2ccd657d39ab7c71fe3f6a1ac700d86cec1175a0bc5570fb34ec90164504d5",
+    "bytes": 41
+  },
+  {
+    "path": "evidence/fresh-data-check.txt",
+    "sha256": "5a0a51dd5f82f5ac8a30fb622edbe7a4f2e7289323240eb13ba52251293c7523",
+    "bytes": 273
+  },
+  {
+    "path": "evidence/install-session.txt",
+    "sha256": "7e79876d3f52a39700da90f96e840b63b0ef39a7d9ee8ed9cf204f335fe24fed",
+    "bytes": 6233
+  },
+  {
+    "path": "evidence/install.log",
+    "sha256": "2868fffae79126615a14ca352d6fdeee225906f8be38b03306a8f75f6bc8c2ee",
+    "bytes": 838180
+  },
+  {
+    "path": "evidence/installed-packages.csv",
+    "sha256": "1d7c034f831d287a60e3a40688befd19428c42c8685df93fe1017472dcbe5c63",
+    "bytes": 17000
+  },
+  {
+    "path": "evidence/old-versus-fresh.csv",
+    "sha256": "0967c4b2d6a86652ed8cbc5616ca37b6ee33cc34f4c74bf292fc8272e8896b61",
+    "bytes": 140
+  },
+  {
+    "path": "evidence/os-packages.txt",
+    "sha256": "f35e67877ad896af51a127a25fe6cb08cbadb59414b0f3ef020b136a40a27051",
+    "bytes": 62209
+  },
+  {
+    "path": "evidence/os-release.txt",
+    "sha256": "594d5ddd35aedb47f00d9c34d140017907a5b9f93c975aba125fc924daac5c07",
+    "bytes": 386
+  },
+  {
+    "path": "evidence/prepare.log",
+    "sha256": "5170eb2276a6d4ee4002a74862b91de8e9e31b729d591b88d795687dd5810291",
+    "bytes": 404
+  },
+  {
+    "path": "evidence/run-console.log",
+    "sha256": "cc3b10eee3792f5526f9b4328a6a45ed3849ea540c7046f61bae3dd06438d646",
+    "bytes": 13292
+  },
+  {
+    "path": "evidence/verification.log",
+    "sha256": "449529375b3f92b7535a091084b3d031217e6b7f7b08315306821bf3852e5a2c",
+    "bytes": 432
+  },
+  {
+    "path": "preparation/provenance.csv",
+    "sha256": "e76a2511eba410f34ce16b12ac251971f0a46febe18e7032a3ea1bfea7874a44",
+    "bytes": 198
+  },
+  {
+    "path": "preparation/sessionInfo.txt",
+    "sha256": "b70185b04a978e72bdf9b16846d4ae8bee5babf0d894e545e15b640a987f868d",
+    "bytes": 4695
+  }
+]

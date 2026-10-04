@@ -1,0 +1,6 @@
+prepared_input_present_before=FALSE
+hub_caches_empty_before=TRUE
+ExperimentHub_version=2.12.0
+DuoClustering2018_version=1.22.0
+ExperimentHub_cache=/home/runner/work/DIFS/DIFS/clean-room/ExperimentHub
+AnnotationHub_cache=/home/runner/work/DIFS/DIFS/clean-room/AnnotationHub

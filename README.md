@@ -5,14 +5,13 @@ stage-II feature selection and mixing procedure. This revision provides the
 complete two-stage entry point, a real-data worked example, the benchmark
 sources, and corrected supplementary results.
 
-**Validation status:** the full Kumar example passed on 2026-09-25 in the
-author's existing Linux/R 4.4.1 environment. All 246 cells were labeled and all
-four metrics reproduced the historical reference within 5e-16. Actual outputs,
-logs, input checksums and environment versions are included under
-[example/validated/kumar-20260925](example/validated/kumar-20260925).
-This verifies one prepared-input configuration, not a fresh installation,
-fresh data download or an independent rerun of the whole benchmark.
-See [VALIDATION.md](VALIDATION.md) for scope and limitations.
+**Validation status:** the complete Kumar example passed both in the author's
+existing environment (2026-09-25) and in a fresh Ubuntu 22.04 / R 4.4.1 installation
+with a public-data download (verified 2026-10-04). The fresh run reproduced the
+100 selected genes, their order, both partitions and all four evaluation metrics.
+See [fresh-run evidence](example/validated/kumar-clean-20261004),
+[earlier run](example/validated/kumar-20260925) and [VALIDATION.md](VALIDATION.md).
+This is one tested configuration; it is not a full-grid or all-platform guarantee.
 
 ## Complete worked example: Kumar
 

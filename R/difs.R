@@ -11,7 +11,8 @@ difs_require <- function(packages) {
 difs_load_definitions <- function(path,wanted,env) {
   found <- character()
   for (expr in parse(path,keep.source=FALSE)) {
-    if (is.call(expr) && as.character(expr[[1]]) %in% c("<-","=") &&
+    if (is.call(expr) && is.symbol(expr[[1]]) &&
+        as.character(expr[[1]]) %in% c("<-","=") &&
         is.symbol(expr[[2]]) && as.character(expr[[2]]) %in% wanted) {
       name <- as.character(expr[[2]])
       if (name %in% found) stop("Duplicate definition: ",name)

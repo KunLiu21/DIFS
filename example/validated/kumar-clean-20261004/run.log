@@ -1,0 +1,16 @@
+  matrix_class genes cells numeric_values stored_values nonfinite negative
+1    dgCMatrix 44508   246           TRUE       6175126         0        0
+  fractional assay_used
+1    6174993     counts
+Complete Kumar DIFS example: 100 requested features, seed=1, true-k=3 (oracle).
+
+  dataset k_policy k seed n_requested n_features n_cells stage1_n stage2_n
+1   Kumar     true 3    1         100        100     246      453      616
+  ratio gate_n stage2_executed       ARI        FM   Jaccard   Purity
+1   1:1    453            TRUE 0.9887715 0.9925453 0.9852004 0.995935
+   metric  observed historical    difference
+1     ARI 0.9887715  0.9887715  1.110223e-16
+2      FM 0.9925453  0.9925453 -1.110223e-16
+3 Jaccard 0.9852004  0.9852004  0.000000e+00
+4  Purity 0.9959350  0.9959350 -4.440892e-16
+FULL PIPELINE COMPLETED. Historical numerical reproduction still requires comparison of data, environment and outputs.

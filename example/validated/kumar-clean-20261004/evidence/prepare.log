@@ -1,0 +1,8 @@
+see ?DuoClustering2018 and browseVignettes('DuoClustering2018') for documentation
+downloading 1 resources
+retrieving 1 resource
+loading from cache
+require(“SingleCellExperiment”)
+  scale check: 0.564% of entries > log(5) | top gene = 7.141% of library | integer = FALSE
+Prepared Kumar using benchmark filtering and log-normalization.
+PASS: public Kumar download and documented preparation completed.

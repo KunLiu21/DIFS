@@ -35,3 +35,4 @@ results/figures/
 scenarios/*.Rdata
 scenarios/*.RData
 *.sif
+clean-room/
